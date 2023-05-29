@@ -1,0 +1,5 @@
+- ctrl+p 显示函数内部应该填的参数
+- ctrl+shift+f10快速执行当前python文件
+- alt+shift+enter 快速import补全
+- code->generate->overide
+-

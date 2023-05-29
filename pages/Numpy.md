@@ -1,0 +1,47 @@
+- 为什么用numpy
+	- 底层用c语言,快
+- 数组创建/维度
+	- array
+	- arrange
+	- linspace logspace
+	- zeros  ones   full
+	- eye   indentity
+	- flatten变一维   squeeze  删掉不需要的维度
+	- swapaxes  切换轴   transpose  转置
+	- tril(mat,k=-1)生成三角矩阵等
+- 矩阵选取/运算
+	- 数组的拼接
+		- hstack vstack concatenate
+	- 选取内容
+	- 选取对角线内容
+		- diag
+	- where两种用法
+		- np.where(mat>4,mat,0)
+		- a=np.where(mat>4)返回位置
+	- 根据条件选取更改
+		- mat[mat>4]
+		- np.argwhere(mat>4)返回符合条件的值
+		- 特殊值:np.isnan,np.isinf
+- 数值的运算
+	- 预定义的常数
+	- 预定义的特殊数
+		- nan,inf,newaxis
+	- 数组和数字的运算
+		- +-*/
+	- 特殊函数按位运算
+		- exp(mat),power
+	- 数组内数字的运算
+		- sum,comsum,prod
+		- 可以指定运算轴
+		- 本质是reduce运算
+- 矩阵的运算
+	- 按位相乘
+	- dot 内积,outer  外积
+	- 矩阵乘法 matmul  @符号
+	- 转播机制
+- 矩阵类型
+	- 自动转化类型
+	- 可以强制类型转换
+		- astype
+	-
+	-
