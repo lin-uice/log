@@ -58,6 +58,7 @@
 			- 卷积核  #重点复习
 				- ![卷积](http://pic.yupoo.com/mumukehao/287509f0/e4975fa4.png)
 				- ```python
+				  import torch.nn.functional as F
 				  input=torch.reshape(input,(1,1,5,5))
 				  kernel=torch.reshape(kernel,(1,1,3,3))
 				  
@@ -72,6 +73,7 @@
 				  self.conv1=Conv2d(in_channels=3,out_channels=6,kernel_size=3,stride=1,padding=0)
 				  ```
 		- 神经网络:最大池化的使用
+			-
 		- 神经网络:非线性激活
 		- 神经网络:线性层以及其它层介绍
 		- 神经网络:搭建小实战和
