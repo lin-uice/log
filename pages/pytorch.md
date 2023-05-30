@@ -67,7 +67,7 @@
 			- 卷积padding=1
 				- ![卷积](http://pic.yupoo.com/mumukehao/08d6887a/d634fd88.png)
 		- 神经网络:卷积层
-			- 卷积层 output=2
+			- 卷积层 output=2       点乘求和
 				- ![输出等于2](http://pic.yupoo.com/mumukehao/6df80710/81501b7c.png)
 				- ```python
 				  self.conv1=Conv2d(in_channels=3,out_channels=6,kernel_size=3,stride=1,padding=0)
