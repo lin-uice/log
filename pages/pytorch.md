@@ -88,6 +88,6 @@
 			- dropout layer
 		- 神经网络:搭建小实战和
 		- 损失函数和反向传播
-			-
+			- 重点,处理分类问题            CROSSENTROPYLOSS
 			-
 -
