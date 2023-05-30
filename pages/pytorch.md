@@ -68,7 +68,9 @@
 		- 神经网络:卷积层
 			- 卷积层 output=2
 				- ![输出等于2](http://pic.yupoo.com/mumukehao/6df80710/81501b7c.png)
-				-
+				- ```python
+				  self.conv1=Conv2d(in_channels=3,out_channels=6,kernel_size=3,stride=1,padding=0)
+				  ```
 		- 神经网络:最大池化的使用
 		- 神经网络:非线性激活
 		- 神经网络:线性层以及其它层介绍
