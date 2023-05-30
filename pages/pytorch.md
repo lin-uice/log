@@ -77,7 +77,6 @@
 			- ![最大池化](http://pic.yupoo.com/mumukehao/71065aeb/b3344ea3.png)
 			  id:: 6475b965-b338-4a06-951b-0cd8ed9cf70c
 			- maxpool2d  stride默认kernel
-			-
 		- 神经网络:非线性激活
 		- 神经网络:线性层以及其它层介绍
 		- 神经网络:搭建小实战和
