@@ -81,6 +81,6 @@
 			- padding曾:进行填充
 			- ![一个参数](http://pic.yupoo.com/mumukehao/a5f6dd97/935fc877.png)
 		- 神经网络:线性层以及其它层介绍
-			-
+			- 正则化层(
 		- 神经网络:搭建小实战和
 -
