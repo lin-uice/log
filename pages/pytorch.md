@@ -84,6 +84,7 @@
 			- 正则化层(用得少)
 			- recurrent层常用语文字识别
 			- transformers层
-			-
+			- 线性层 linear
+			- dropout layer
 		- 神经网络:搭建小实战和
 -
