@@ -90,7 +90,7 @@
 			- CIFAR10model
 				- ![CIFAR10MODEL](http://pic.yupoo.com/mumukehao/5fff979c/a5e875e6.png)
 				- 第一步：计算padding
-					- ![计算padding]()http://pic.yupoo.com/mumukehao/66f8334c/55fbf4fe.png）
+					- ![计算padding](http://pic.yupoo.com/mumukehao/66f8334c/55fbf4fe.png)
 					-
 				-
 		- 损失函数和反向传播
