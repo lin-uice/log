@@ -103,9 +103,9 @@
 					- 利用loss
 					- optimizer
 						- 三步走:
-						- 调用优化器
-						- 梯度清零
-						-
+							- 调用优化器
+							- 梯度清零+反向传播
+							- step,模型调优
 						- ```python
 						  optimizer = optim.SGD(model.parameters(), lr=0.01, momentum=0.9)
 						  ```
