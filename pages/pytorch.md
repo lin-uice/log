@@ -86,7 +86,9 @@
 			- transformers层
 			- 线性层 linear
 			- dropout layer
-		- 神经网络:搭建小实战和
+		- 神经网络:搭建小实战
+			- CIFAR10model
+				- ![CIFAR10MODEL](http://pic.yupoo.com/mumukehao/5fff979c/a5e875e6.png)
 		- 损失函数和反向传播
 			- 重点,处理分类问题            CROSSENTROPYLOSS
 			-
