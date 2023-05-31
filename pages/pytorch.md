@@ -87,6 +87,7 @@
 			- 线性层 linear
 			- dropout layer
 		- 神经网络:搭建小实战
+			- sequence真的好用
 			- CIFAR10model
 				- ![CIFAR10MODEL](http://pic.yupoo.com/mumukehao/5fff979c/a5e875e6.png)
 				- 第一步：计算padding
