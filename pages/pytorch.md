@@ -102,6 +102,10 @@
 					- 如何使用？优化器
 					- 利用loss
 					- optimizer
+						- 三步走:
+						- 调用优化器
+						- 梯度清零
+						-
 						- ```python
 						  optimizer = optim.SGD(model.parameters(), lr=0.01, momentum=0.9)
 						  ```
