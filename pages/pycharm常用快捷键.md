@@ -2,4 +2,5 @@
 - ctrl+shift+f10快速执行当前python文件
 - alt+shift+enter 快速import补全
 - code->generate->overide
+- ctrl+alt+l自动格式化代码，让代码变整洁
 -
