@@ -102,7 +102,9 @@
 					- 如何使用？优化器
 					- 利用loss
 					- optimizer
-					-
+						- ```python
+						  optimizer = optim.SGD(model.parameters(), lr=0.01, momentum=0.9)
+						  ```
 			- 梯度下降法：
 				- 达到最优解
 -
