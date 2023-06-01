@@ -116,7 +116,12 @@
 		- 1.add
 		- 2.类似于链表操作
 	- 模型的保存
-		-
+		- 注意用方法二保存
+		- ```python
+		  torch.save(vgg16.state_dict(),"vgg16_method2.pth")
+		  dict1=torch.load("vgg16_method2.pth")
+		  vgg16.load_state_dict(dict1)
+		  ```
 	- 模型的加载
 	- 完整的模型训练套路  GPU训练
 	- 完整的模型验证思路
