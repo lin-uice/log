@@ -5,4 +5,4 @@
 	- device=torch.device("cpu")
 	- tudui=Tudui()
 	- tudui.to(device)
-- device=torch.device(
+- device=torch.device("cuda" if torch.cuda.is_available() else "cpu")
