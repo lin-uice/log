@@ -18,6 +18,9 @@
 	- ![图片](http://pic.yupoo.com/mumukehao/2e7dd719/748039c5.png){:height 256, :width 392}
 	-
 	- 输入
+		-
+		-
+		-
 		- PIL Img.open()
 	-
 		- tensor  Totensor
