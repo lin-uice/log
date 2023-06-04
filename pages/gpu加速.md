@@ -1,2 +1,8 @@
-- 只有模型,损失函数,数据(输入,标注)(训练和测试的时候都可以)通常在可以使用.cuda
-	- 通用模板:fn=fn.cuda()
+- 第一种方式
+	- 只有模型,损失函数,数据(输入,标注)(训练和测试的时候都可以)通常在可以使用.cuda
+		- 通用模板:fn=fn.cuda()
+- 第二种方式
+	- device=torch.device("cpu")
+	- tudui=Tudui()
+	- tudui.to(device)
+- device=torch.device(
