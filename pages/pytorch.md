@@ -15,11 +15,11 @@
 	  tensorboard --logdir="dataloader"
 	  ```
 - transforms
-	- ![图片](http://pic.yupoo.com/mumukehao/2e7dd719/748039c5.png)
+	- ![图片](http://pic.yupoo.com/mumukehao/2e7dd719/748039c5.png){:height 256, :width 392}
 	-
 	- 输入
 		- PIL Img.open()
-	- 输出
+	-
 		- tensor  Totensor
 	- 作用
 		- naddary cv.imread
