@@ -32,6 +32,11 @@
 		- exp(mat),power
 	- 数组内数字的运算
 		- sum,comsum,prod
+		-
+		-
+		-
+		-
+		-
 		- 可以指定运算轴
 		- 本质是reduce运算
 - 矩阵的运算
