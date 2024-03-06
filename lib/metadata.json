@@ -1,0 +1,4439 @@
+{
+  "vaultName": "log",
+  "lastExport": 1709695189033,
+  "pluginVersion": "1.8.0",
+  "validBodyClasses": "publish css-settings-manager show-inline-title theme-dark",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "日记/2024-03-05.md",
+    "日记/2024-03-06.md",
+    "assets/第二节讲义_1682136737988_0/1_64435ecd-c845-457f-afbd-60e81e3cbffa_1682136780619.png",
+    "assets/第二节讲义_1682136737988_0/1_6443640b-d02e-4b7b-833b-d49362a7bfc0_1682138122618.png",
+    "assets/2-1-1.png_(578×218)_-_image_1705670873910_0.png",
+    "assets/2-1-1.png_(578×218)_-_image_1705670919100_0.png",
+    "assets/2nd, 2023.edn",
+    "assets/32、统计学习方法李航(非扫描版)_1687258339492_0.pdf",
+    "assets/32、统计学习方法李航(非扫描版)_1687258339492_0.edn",
+    "assets/32、统计学习方法李航(非扫描版)_1695796968944_0.pdf",
+    "assets/32、统计学习方法李航(非扫描版)_1695796968944_0.edn",
+    "assets/0230BF93_1684673835549_0.png",
+    "assets/1388929B_1685874262815_0.png",
+    "assets/第二节讲义_1682136737988_0.pdf",
+    "assets/第二节讲义_1682136737988_0.edn",
+    "assets/image_1684574457896_0.png",
+    "assets/image_1684575545217_0.png",
+    "assets/image_1684575767441_0.png",
+    "assets/image_1699876183501_0.png",
+    "assets/image_1699876572221_0.png",
+    "assets/image_1699883985309_0.png",
+    "assets/image_1699945101548_0.png",
+    "assets/image_1699945313972_0.png",
+    "assets/image_1699945440911_0.png",
+    "assets/image_1699945485766_0.png",
+    "assets/image_1699946225590_0.png",
+    "assets/image_1699946458029_0.png",
+    "assets/image_1699946606741_0.png",
+    "assets/image_1699946861337_0.png",
+    "assets/image_1699949728395_0.png",
+    "assets/image_1699949793046_0.png",
+    "assets/image_1702623691716_0.png",
+    "assets/image_1702624195386_0.png",
+    "assets/image_1704871702621_0.png",
+    "assets/image_1704872057321_0.png",
+    "assets/image_1705324163875_0.png",
+    "assets/image_1705324179915_0.png",
+    "assets/image_1705733465617_0.png",
+    "assets/image_1709094685699_0.png",
+    "assets/image_1709094739214_0.png",
+    "assets/image_1709128836201_0.png",
+    "assets/image_1709130207488_0.png",
+    "assets/image_1709130266985_0.png",
+    "assets/image_1709170234870_0.png",
+    "assets/RLmtd1_1705324331849_0.png",
+    "assets/Sarsa_算法更新_莫烦Python_-_3-1-1_1705753738596_0.png",
+    "draws/2023-10-27-20-23-29.excalidraw",
+    "draws/2023-10-28-19-16-54.excalidraw",
+    "draws/2023-10-28-22-06-51.excalidraw",
+    "journals/2023_04_22.md",
+    "journals/2023_05_08.md",
+    "journals/2023_05_10.md",
+    "journals/2023_05_11.md",
+    "journals/2023_05_12.md",
+    "journals/2023_05_17.md",
+    "journals/2023_06_04.md",
+    "journals/2023_06_11.md",
+    "journals/2023_06_21.md",
+    "journals/2023_06_28.md",
+    "journals/2023_06_29.md",
+    "journals/2023_09_20.md",
+    "journals/2023_09_22.md",
+    "journals/2023_09_24.md",
+    "journals/2023_09_27.md",
+    "journals/2023_10_03.md",
+    "journals/2023_10_12.md",
+    "journals/2023_10_23.md",
+    "journals/2023_10_24.md",
+    "journals/2023_10_25.md",
+    "journals/2023_10_27.md",
+    "journals/2023_10_28.md",
+    "journals/2023_10_29.md",
+    "journals/2023_10_31.md",
+    "journals/2023_11_12.md",
+    "journals/2023_11_13.md",
+    "journals/2023_11_14.md",
+    "journals/2023_12_04.md",
+    "journals/2023_12_07.md",
+    "journals/2023_12_09.md",
+    "journals/2023_12_10.md",
+    "journals/2023_12_15.md",
+    "journals/2024_01_01.md",
+    "journals/2024_01_03.md",
+    "journals/2024_01_04.md",
+    "journals/2024_01_05.md",
+    "journals/2024_01_07.md",
+    "journals/2024_01_11.md",
+    "journals/2024_01_19.md",
+    "journals/2024_01_20.md",
+    "journals/2024_01_24.md",
+    "journals/2024_01_25.md",
+    "journals/2024_01_27.md",
+    "journals/2024_02_18.md",
+    "journals/2024_02_21.md",
+    "journals/2024_03_01.md",
+    "journals/2024_03_04.md",
+    "logseq/bak/目录/2024-03-04T07_56_36.733Z.Desktop.md",
+    "logseq/bak/目录/2024-03-04T07_56_49.638Z.Desktop.md",
+    "logseq/bak/journals/2023_12_07/2023-12-09T09_24_26.526Z.Desktop.md",
+    "logseq/bak/journals/2024_01_19/2024-01-21T02_19_21.852Z.Desktop.md",
+    "logseq/bak/journals/2024_01_20/2024-01-21T02_19_21.857Z.Desktop.md",
+    "logseq/bak/logseq/config/2023-10-28T13_31_15.840Z.Desktop.edn",
+    "logseq/bak/logseq/config/2023-10-28T13_40_51.601Z.Desktop.edn",
+    "logseq/bak/logseq/config/2023-10-28T13_42_06.797Z.Desktop.edn",
+    "logseq/bak/logseq/config/2023-10-28T13_54_22.035Z.Desktop.edn",
+    "logseq/bak/logseq/config/2023-10-29T13_01_19.965Z.Desktop.edn",
+    "logseq/bak/logseq/config/2024-03-04T07_46_37.932Z.Desktop.edn",
+    "logseq/bak/pages/2024-1/2024-01-10T02_45_15.123Z.Desktop.md",
+    "logseq/bak/pages/2024-1/2024-01-16T01_23_03.594Z.Desktop.md",
+    "logseq/bak/pages/2024-1/2024-01-17T01_45_08.922Z.Desktop.md",
+    "logseq/bak/pages/2024-3/2024-03-04T08_02_36.431Z.Desktop.md",
+    "logseq/bak/pages/六级冲冲冲/2023-10-02T23_49_31.440Z.Desktop.md",
+    "logseq/bak/pages/六级冲冲冲/2023-10-12T09_38_20.930Z.Desktop.md",
+    "logseq/bak/pages/一生目录/2023-06-13T11_56_17.698Z.Desktop.md",
+    "logseq/bak/pages/一生目录/2023-10-28T11_16_30.385Z.Desktop.md",
+    "logseq/bak/pages/一生目录/2023-10-29T13_01_20.365Z.Desktop.md",
+    "logseq/bak/pages/一生目录/2024-03-04T07_49_29.621Z.Desktop.md",
+    "logseq/bak/pages/CNN学习/2023-09-25T10_40_11.721Z.Desktop.md",
+    "logseq/bak/pages/CNN学习/2023-09-27T06_41_31.685Z.Desktop.md",
+    "logseq/bak/pages/CNN学习/2023-09-28T07_32_01.676Z.Desktop.md",
+    "logseq/bak/pages/CNN学习/2023-10-02T23_49_31.421Z.Desktop.md",
+    "logseq/bak/pages/CNN学习/2023-10-12T09_38_20.903Z.Desktop.md",
+    "logseq/bak/pages/Pandas/2023-05-19T13_57_13.034Z.Desktop.md",
+    "logseq/bak/pages/Pandas/2024-02-13T02_42_17.335Z.Desktop.md",
+    "logseq/bak/pages/pycharm常用快捷键/2023-06-13T11_56_17.181Z.Desktop.md",
+    "logseq/bak/pages/static/js/main/2023-05-31T13_29_56.206Z.Desktop.js",
+    "logseq/bak/pages/static/js/pdfjs/pdf/2023-05-31T13_29_57.473Z.Desktop.js",
+    "logseq/bak/pages/static/js/pdfjs/pdf_viewer/2023-05-31T13_29_59.537Z.Desktop.js",
+    "logseq/bak/pages/static/js/pdfjs/pdf.worker/2023-05-31T13_29_58.520Z.Desktop.js",
+    "logseq/bak/pages/zotero读论文准则/2024-03-04T07_58_56.997Z.Desktop.md",
+    "logseq/bak/pages/zotero读论文准则/2024-03-04T08_00_52.366Z.Desktop.md",
+    "logseq/bak/pages/zotero读论文准则/2024-03-04T08_01_05.038Z.Desktop.md",
+    "logseq/bak/pages/zotero读论文准则/2024-03-04T08_01_16.062Z.Desktop.md",
+    "logseq/bak/README/2024-02-13T02_42_17.339Z.Desktop.md",
+    "logseq/bak/tags/tag/2024-03-04T07_52_15.624Z.Desktop.md",
+    "logseq/bak/tags/tag/2024-03-04T07_52_19.176Z.Desktop.md",
+    "logseq/bak/tags/tag/2024-03-04T07_52_21.491Z.Desktop.md",
+    "logseq/bak/tags/tag/2024-03-04T07_52_25.859Z.Desktop.md",
+    "logseq/bak/tags/tag/2024-03-04T08_04_53.593Z.Desktop.md",
+    "logseq/bak/tags/tag/2024-03-04T08_05_31.416Z.Desktop.md",
+    "logseq/config.edn",
+    "logseq/custom.css",
+    "pages/static/css/fonts/tabler-icons.woff",
+    "pages/static/css/fonts/tabler-icons.woff2",
+    "pages/static/css/fonts/tabler-icons.ttf",
+    "pages/static/css/fonts/tabler-icons.eot",
+    "pages/static/css/fonts/tabler-icons.svg",
+    "pages/static/css/amplify.css",
+    "pages/static/css/animation.css",
+    "pages/static/css/codemirror.min.css",
+    "pages/static/css/codemirror.solarized.css",
+    "pages/static/css/common.css",
+    "pages/static/css/custom.css",
+    "pages/static/css/datepicker.css",
+    "pages/static/css/excalidraw.min.css",
+    "pages/static/css/export.css",
+    "pages/static/css/fonts.css",
+    "pages/static/css/highlight.css",
+    "pages/static/css/inter.css",
+    "pages/static/css/katex.min.css",
+    "pages/static/css/photoswipe.css",
+    "pages/static/css/reveal_black.min.css",
+    "pages/static/css/reveal.min.css",
+    "pages/static/css/shepherd.css",
+    "pages/static/css/show-hint.css",
+    "pages/static/css/srs_cards.css",
+    "pages/static/css/style.css",
+    "pages/static/css/table.css",
+    "pages/static/css/tabler-extension.css",
+    "pages/static/css/tabler-icons.min.css",
+    "pages/static/css/tooltip.css",
+    "pages/static/fonts/inter/Inter-Black.woff2",
+    "pages/static/fonts/inter/Inter-Black.woff",
+    "pages/static/fonts/inter/Inter-BlackItalic.woff2",
+    "pages/static/fonts/inter/Inter-BlackItalic.woff",
+    "pages/static/fonts/inter/Inter-Bold.woff2",
+    "pages/static/fonts/inter/Inter-Bold.woff",
+    "pages/static/fonts/inter/Inter-BoldItalic.woff2",
+    "pages/static/fonts/inter/Inter-BoldItalic.woff",
+    "pages/static/fonts/inter/Inter-ExtraBold.woff2",
+    "pages/static/fonts/inter/Inter-ExtraBold.woff",
+    "pages/static/fonts/inter/Inter-ExtraBoldItalic.woff2",
+    "pages/static/fonts/inter/Inter-ExtraBoldItalic.woff",
+    "pages/static/fonts/inter/Inter-ExtraLight.woff2",
+    "pages/static/fonts/inter/Inter-ExtraLight.woff",
+    "pages/static/fonts/inter/Inter-ExtraLightItalic.woff2",
+    "pages/static/fonts/inter/Inter-ExtraLightItalic.woff",
+    "pages/static/fonts/inter/Inter-Italic.woff2",
+    "pages/static/fonts/inter/Inter-Italic.woff",
+    "pages/static/fonts/inter/Inter-italic.var.woff2",
+    "pages/static/fonts/inter/Inter-Light.woff2",
+    "pages/static/fonts/inter/Inter-Light.woff",
+    "pages/static/fonts/inter/Inter-LightItalic.woff2",
+    "pages/static/fonts/inter/Inter-LightItalic.woff",
+    "pages/static/fonts/inter/Inter-Medium.woff2",
+    "pages/static/fonts/inter/Inter-Medium.woff",
+    "pages/static/fonts/inter/Inter-MediumItalic.woff2",
+    "pages/static/fonts/inter/Inter-MediumItalic.woff",
+    "pages/static/fonts/inter/Inter-Regular.woff2",
+    "pages/static/fonts/inter/Inter-Regular.woff",
+    "pages/static/fonts/inter/Inter-roman.var.woff2",
+    "pages/static/fonts/inter/Inter-SemiBold.woff2",
+    "pages/static/fonts/inter/Inter-SemiBold.woff",
+    "pages/static/fonts/inter/Inter-SemiBoldItalic.woff2",
+    "pages/static/fonts/inter/Inter-SemiBoldItalic.woff",
+    "pages/static/fonts/inter/Inter-Thin.woff2",
+    "pages/static/fonts/inter/Inter-Thin.woff",
+    "pages/static/fonts/inter/Inter-ThinItalic.woff2",
+    "pages/static/fonts/inter/Inter-ThinItalic.woff",
+    "pages/static/fonts/inter/Inter.var.woff2",
+    "pages/static/fonts/Cascadia.woff2",
+    "pages/static/fonts/FG_Virgil.woff2",
+    "pages/static/fonts/IBMPlexMono-Text-Latin1.woff",
+    "pages/static/fonts/IBMPlexSans-Bold.woff",
+    "pages/static/fonts/IBMPlexSans-Text.woff",
+    "pages/static/fonts/IBMPlexSans-TextItalic.woff",
+    "pages/static/fonts/tabler-icons-extension.woff2",
+    "pages/static/fonts/Virgil.woff2",
+    "pages/static/icons/canary/logseq.png",
+    "pages/static/icons/canary/logseq.ico",
+    "pages/static/icons/canary/logseq_big_sur.png",
+    "pages/static/icons/canary/logseq_big_sur.ico",
+    "pages/static/icons/canary/logseq_big_sur.icns",
+    "pages/static/icons/installing.gif",
+    "pages/static/icons/logseq.png",
+    "pages/static/icons/logseq.icns",
+    "pages/static/icons/logseq.ico",
+    "pages/static/icons/logseq_big_sur.ico",
+    "pages/static/icons/logseq_big_sur.png",
+    "pages/static/icons/logseq_big_sur.icns",
+    "pages/static/img/broken-avatar.png",
+    "pages/static/img/checker.png",
+    "pages/static/img/credits.png",
+    "pages/static/img/dmg-bg.png",
+    "pages/static/img/file-edn.png",
+    "pages/static/img/file-sync-unavailale-nonbacker-dark.png",
+    "pages/static/img/file-sync-unavailale-nonbacker-light.png",
+    "pages/static/img/file-sync-welcome-backer-dark.png",
+    "pages/static/img/file-sync-welcome-backer-light.png",
+    "pages/static/img/folder.png",
+    "pages/static/img/folder-logo.png",
+    "pages/static/img/logo.png",
+    "pages/static/img/screenshot.png",
+    "pages/static/img/theme-modes.png",
+    "pages/static/img/tutorial-thumb.jpg",
+    "pages/static/img/whiteboard-welcome-dark.png",
+    "pages/static/img/whiteboard-welcome-light.png",
+    "pages/static/js/excalidraw-assets/locales/ar-SA-json-c45aab1368e1467c61fc.js",
+    "pages/static/js/excalidraw-assets/locales/bg-BG-json-c0c83d33de789fc3ecc3.js",
+    "pages/static/js/excalidraw-assets/locales/bn-BD-json-8522a1ce4e8fbd149dd3.js",
+    "pages/static/js/excalidraw-assets/locales/ca-ES-json-a414efadae57479408aa.js",
+    "pages/static/js/excalidraw-assets/locales/cs-CZ-json-a898ae3675b2d66f2491.js",
+    "pages/static/js/excalidraw-assets/locales/da-DK-json-3f6008b3d7f477f7c6b4.js",
+    "pages/static/js/excalidraw-assets/locales/de-DE-json-e7215ff06fe5513fd875.js",
+    "pages/static/js/excalidraw-assets/locales/el-GR-json-648c4e8a33d49e3c8d60.js",
+    "pages/static/js/excalidraw-assets/locales/es-ES-json-d4c3bba2e07c62d27ff7.js",
+    "pages/static/js/excalidraw-assets/locales/eu-ES-json-5570769d29eb3be6fea1.js",
+    "pages/static/js/excalidraw-assets/locales/fa-IR-json-5f34cbf7e5dc2a5b6694.js",
+    "pages/static/js/excalidraw-assets/locales/fi-FI-json-a58f3fd51d0149157782.js",
+    "pages/static/js/excalidraw-assets/locales/fr-FR-json-2649082b2724353b1b7c.js",
+    "pages/static/js/excalidraw-assets/locales/he-IL-json-cf135bd5c36e9008cf4c.js",
+    "pages/static/js/excalidraw-assets/locales/hi-IN-json-e3c279159830df6b85a7.js",
+    "pages/static/js/excalidraw-assets/locales/hu-HU-json-5f4e84e297b66cee16a9.js",
+    "pages/static/js/excalidraw-assets/locales/id-ID-json-8e2480705d678b85e0d8.js",
+    "pages/static/js/excalidraw-assets/locales/it-IT-json-97f53316658e3c6e3cc2.js",
+    "pages/static/js/excalidraw-assets/locales/ja-JP-json-6ca4d0a0a0da6439e399.js",
+    "pages/static/js/excalidraw-assets/locales/kab-KAB-json-ca6c8cc0a4c6ce0394e8.js",
+    "pages/static/js/excalidraw-assets/locales/kk-KZ-json-256f55e01b7d14c51a85.js",
+    "pages/static/js/excalidraw-assets/locales/ko-KR-json-1c5c18219823218aec95.js",
+    "pages/static/js/excalidraw-assets/locales/lt-LT-json-d6dce1ea118b023d9b66.js",
+    "pages/static/js/excalidraw-assets/locales/lv-LV-json-8cde5d34d4617c13212c.js",
+    "pages/static/js/excalidraw-assets/locales/mr-IN-json-f2dbf75cf336121866d9.js",
+    "pages/static/js/excalidraw-assets/locales/my-MM-json-f8ea0cde2df903706156.js",
+    "pages/static/js/excalidraw-assets/locales/nb-NO-json-a061d909ce3f9c28e569.js",
+    "pages/static/js/excalidraw-assets/locales/nl-NL-json-9e2654c18661c817cad2.js",
+    "pages/static/js/excalidraw-assets/locales/nn-NO-json-34324eb373b2c86232e9.js",
+    "pages/static/js/excalidraw-assets/locales/oc-FR-json-36b68175896ab5fd8838.js",
+    "pages/static/js/excalidraw-assets/locales/pa-IN-json-fff5fde7b22725f4892b.js",
+    "pages/static/js/excalidraw-assets/locales/pl-PL-json-556a5502303d62e61fc5.js",
+    "pages/static/js/excalidraw-assets/locales/pt-BR-json-8e000700411ca90b0a50.js",
+    "pages/static/js/excalidraw-assets/locales/pt-PT-json-a5412c6c70653dd832bc.js",
+    "pages/static/js/excalidraw-assets/locales/ro-RO-json-314bb21d9405881aea46.js",
+    "pages/static/js/excalidraw-assets/locales/ru-RU-json-7afc1507267127a4039e.js",
+    "pages/static/js/excalidraw-assets/locales/si-LK-json-09768735f21a6d7fe6c0.js",
+    "pages/static/js/excalidraw-assets/locales/sk-SK-json-93cdc341372014e6d68e.js",
+    "pages/static/js/excalidraw-assets/locales/sl-SI-json-053f1aa5c78d021e73e0.js",
+    "pages/static/js/excalidraw-assets/locales/sv-SE-json-daf16f824ce6bf253b94.js",
+    "pages/static/js/excalidraw-assets/locales/ta-IN-json-8227d446fbfcd3f8c7be.js",
+    "pages/static/js/excalidraw-assets/locales/tr-TR-json-0a8595289a6099a03252.js",
+    "pages/static/js/excalidraw-assets/locales/uk-UA-json-1b9f0b315899af8a00fd.js",
+    "pages/static/js/excalidraw-assets/locales/zh-CN-json-a965551d944124b24b25.js",
+    "pages/static/js/excalidraw-assets/locales/zh-HK-json-76ff37dfc9fb93291975.js",
+    "pages/static/js/excalidraw-assets/locales/zh-TW-json-529b943391afcfd5369d.js",
+    "pages/static/js/excalidraw-assets/Cascadia.woff2",
+    "pages/static/js/excalidraw-assets/vendor-52b1f3361986b6c6a4fe.js",
+    "pages/static/js/excalidraw-assets/vendor-52b1f3361986b6c6a4fe.js.LICENSE.txt",
+    "pages/static/js/excalidraw-assets/Virgil.woff2",
+    "pages/static/js/pdfjs/cmaps/78-EUC-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/78-EUC-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/78-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/78-RKSJ-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/78-RKSJ-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/78-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/78ms-RKSJ-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/78ms-RKSJ-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/83pv-RKSJ-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/90ms-RKSJ-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/90ms-RKSJ-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/90msp-RKSJ-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/90msp-RKSJ-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/90pv-RKSJ-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/90pv-RKSJ-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/Add-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/Add-RKSJ-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/Add-RKSJ-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/Add-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/Adobe-CNS1-0.bcmap",
+    "pages/static/js/pdfjs/cmaps/Adobe-CNS1-1.bcmap",
+    "pages/static/js/pdfjs/cmaps/Adobe-CNS1-2.bcmap",
+    "pages/static/js/pdfjs/cmaps/Adobe-CNS1-3.bcmap",
+    "pages/static/js/pdfjs/cmaps/Adobe-CNS1-4.bcmap",
+    "pages/static/js/pdfjs/cmaps/Adobe-CNS1-5.bcmap",
+    "pages/static/js/pdfjs/cmaps/Adobe-CNS1-6.bcmap",
+    "pages/static/js/pdfjs/cmaps/Adobe-CNS1-UCS2.bcmap",
+    "pages/static/js/pdfjs/cmaps/Adobe-GB1-0.bcmap",
+    "pages/static/js/pdfjs/cmaps/Adobe-GB1-1.bcmap",
+    "pages/static/js/pdfjs/cmaps/Adobe-GB1-2.bcmap",
+    "pages/static/js/pdfjs/cmaps/Adobe-GB1-3.bcmap",
+    "pages/static/js/pdfjs/cmaps/Adobe-GB1-4.bcmap",
+    "pages/static/js/pdfjs/cmaps/Adobe-GB1-5.bcmap",
+    "pages/static/js/pdfjs/cmaps/Adobe-GB1-UCS2.bcmap",
+    "pages/static/js/pdfjs/cmaps/Adobe-Japan1-0.bcmap",
+    "pages/static/js/pdfjs/cmaps/Adobe-Japan1-1.bcmap",
+    "pages/static/js/pdfjs/cmaps/Adobe-Japan1-2.bcmap",
+    "pages/static/js/pdfjs/cmaps/Adobe-Japan1-3.bcmap",
+    "pages/static/js/pdfjs/cmaps/Adobe-Japan1-4.bcmap",
+    "pages/static/js/pdfjs/cmaps/Adobe-Japan1-5.bcmap",
+    "pages/static/js/pdfjs/cmaps/Adobe-Japan1-6.bcmap",
+    "pages/static/js/pdfjs/cmaps/Adobe-Japan1-UCS2.bcmap",
+    "pages/static/js/pdfjs/cmaps/Adobe-Korea1-0.bcmap",
+    "pages/static/js/pdfjs/cmaps/Adobe-Korea1-1.bcmap",
+    "pages/static/js/pdfjs/cmaps/Adobe-Korea1-2.bcmap",
+    "pages/static/js/pdfjs/cmaps/Adobe-Korea1-UCS2.bcmap",
+    "pages/static/js/pdfjs/cmaps/B5-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/B5-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/B5pc-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/B5pc-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/CNS-EUC-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/CNS-EUC-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/CNS1-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/CNS1-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/CNS2-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/CNS2-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/ETen-B5-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/ETen-B5-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/ETenms-B5-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/ETenms-B5-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/ETHK-B5-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/ETHK-B5-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/EUC-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/EUC-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/Ext-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/Ext-RKSJ-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/Ext-RKSJ-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/Ext-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/GB-EUC-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/GB-EUC-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/GB-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/GB-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/GBK-EUC-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/GBK-EUC-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/GBK2K-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/GBK2K-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/GBKp-EUC-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/GBKp-EUC-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/GBpc-EUC-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/GBpc-EUC-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/GBT-EUC-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/GBT-EUC-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/GBT-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/GBT-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/GBTpc-EUC-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/GBTpc-EUC-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/H.bcmap",
+    "pages/static/js/pdfjs/cmaps/Hankaku.bcmap",
+    "pages/static/js/pdfjs/cmaps/Hiragana.bcmap",
+    "pages/static/js/pdfjs/cmaps/HKdla-B5-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/HKdla-B5-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/HKdlb-B5-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/HKdlb-B5-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/HKgccs-B5-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/HKgccs-B5-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/HKm314-B5-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/HKm314-B5-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/HKm471-B5-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/HKm471-B5-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/HKscs-B5-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/HKscs-B5-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/Katakana.bcmap",
+    "pages/static/js/pdfjs/cmaps/KSC-EUC-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/KSC-EUC-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/KSC-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/KSC-Johab-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/KSC-Johab-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/KSC-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/KSCms-UHC-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/KSCms-UHC-HW-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/KSCms-UHC-HW-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/KSCms-UHC-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/KSCpc-EUC-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/KSCpc-EUC-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/LICENSE",
+    "pages/static/js/pdfjs/cmaps/NWP-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/NWP-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/RKSJ-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/RKSJ-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/Roman.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniCNS-UCS2-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniCNS-UCS2-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniCNS-UTF8-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniCNS-UTF8-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniCNS-UTF16-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniCNS-UTF16-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniCNS-UTF32-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniCNS-UTF32-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniGB-UCS2-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniGB-UCS2-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniGB-UTF8-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniGB-UTF8-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniGB-UTF16-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniGB-UTF16-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniGB-UTF32-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniGB-UTF32-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniJIS-UCS2-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniJIS-UCS2-HW-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniJIS-UCS2-HW-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniJIS-UCS2-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniJIS-UTF8-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniJIS-UTF8-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniJIS-UTF16-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniJIS-UTF16-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniJIS-UTF32-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniJIS-UTF32-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniJIS2004-UTF8-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniJIS2004-UTF8-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniJIS2004-UTF16-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniJIS2004-UTF16-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniJIS2004-UTF32-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniJIS2004-UTF32-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniJISPro-UCS2-HW-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniJISPro-UCS2-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniJISPro-UTF8-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniJISX0213-UTF32-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniJISX0213-UTF32-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniJISX02132004-UTF32-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniJISX02132004-UTF32-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniKS-UCS2-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniKS-UCS2-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniKS-UTF8-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniKS-UTF8-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniKS-UTF16-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniKS-UTF16-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniKS-UTF32-H.bcmap",
+    "pages/static/js/pdfjs/cmaps/UniKS-UTF32-V.bcmap",
+    "pages/static/js/pdfjs/cmaps/V.bcmap",
+    "pages/static/js/pdfjs/cmaps/WP-Symbol.bcmap",
+    "pages/static/js/pdfjs/pdf.js",
+    "pages/static/js/pdfjs/pdf_viewer.js",
+    "pages/static/js/pdfjs/pdf.worker.js",
+    "pages/static/js/pdfjs/pdf.worker.min.js",
+    "pages/static/js/amplify.js",
+    "pages/static/js/code-editor.js",
+    "pages/static/js/custom.js",
+    "pages/static/js/excalidraw.js",
+    "pages/static/js/highlight.min.js",
+    "pages/static/js/html2canvas.min.js",
+    "pages/static/js/interact.min.js",
+    "pages/static/js/katex.min.js",
+    "pages/static/js/lightning-fs.min.js",
+    "pages/static/js/lsplugin.core.js",
+    "pages/static/js/lsplugin.core.js.LICENSE.txt",
+    "pages/static/js/lsplugin.user.js",
+    "pages/static/js/magic_portal.js",
+    "pages/static/js/main.js",
+    "pages/static/js/manifest.edn",
+    "pages/static/js/marked.min.js",
+    "pages/static/js/mhchem.min.js",
+    "pages/static/js/module-loader.edn",
+    "pages/static/js/module-loader.json",
+    "pages/static/js/photoswipe.js",
+    "pages/static/js/preload.js",
+    "pages/static/js/reveal.min.js",
+    "pages/static/js/shepherd.min.js",
+    "pages/static/js/swiped-events.min.js",
+    "pages/static/js/tabler.ext.js",
+    "pages/static/js/tabler.min.js",
+    "pages/static/js/tldraw.js",
+    "pages/static/js/tldraw.js.map",
+    "pages/static/js/worker.js",
+    "pages/@Clustering ensemble via structured hypergraph learning.md",
+    "pages/✅今天做了啥.md",
+    "pages/✈️蜕变.md",
+    "pages/📖读书笔记.md",
+    "pages/😝一生准则.md",
+    "pages/1.2统计学习的分类.md",
+    "pages/1.3统计学习方法三要素.md",
+    "pages/404.html",
+    "pages/2024.md",
+    "pages/2024-1.md",
+    "pages/2024-2.md",
+    "pages/2024-3.md",
+    "pages/第三大的数.md",
+    "pages/读论文现行最终版.md",
+    "pages/读论文准则.md",
+    "pages/对比图.md",
+    "pages/对比学习.md",
+    "pages/多元线性回归.md",
+    "pages/二进制求和.md",
+    "pages/基础概念.md",
+    "pages/技术清单.md",
+    "pages/监督学习和非监督学习.md",
+    "pages/练字.md",
+    "pages/六级冲冲冲.md",
+    "pages/论文.md",
+    "pages/论文目录.md",
+    "pages/模型测试.md",
+    "pages/目录测试.md",
+    "pages/钱伟长谈学习方法.md",
+    "pages/强化学习.md",
+    "pages/强化学习dbscan.md",
+    "pages/如何读论文.md",
+    "pages/如何读论文（初期.md",
+    "pages/深度学习.md",
+    "pages/深度学习部分.md",
+    "pages/深度学习算法课.md",
+    "pages/生词库.md",
+    "pages/数据的定义.md",
+    "pages/数组.md",
+    "pages/统计学习方法.md",
+    "pages/统计学习及监督学习概论.md",
+    "pages/我的笔记.md",
+    "pages/细碎技巧.md",
+    "pages/小土堆.md",
+    "pages/学术英语写作.md",
+    "pages/学习琐碎.md",
+    "pages/研一课程.md",
+    "pages/研一论文准备工作.md",
+    "pages/一路上遇到的问题.md",
+    "pages/一生目录.md",
+    "pages/用mobilenet做人脸识别大作业.md",
+    "pages/周报.md",
+    "pages/周报与月报.md",
+    "pages/注意力机制.md",
+    "pages/字符串.md",
+    "pages/最短无序连续子数组.md",
+    "pages/A Survey of Deep Graph Clustering%3A Taxonomy, Challenge, Application, and Open Resource.md",
+    "pages/Adaptive Graph Encoder for Attributed Graph Embedding.md",
+    "pages/CNN学习.md",
+    "pages/CommDGI.md",
+    "pages/contents.md",
+    "pages/contrastive cluster.md",
+    "pages/desktop.ini",
+    "pages/Detecting review spammer groups based on generative adversarial networks.md",
+    "pages/gcn cluster dict.md",
+    "pages/gpu加速.md",
+    "pages/hls__32、统计学习方法李航(非扫描版)_1687258339492_0.md",
+    "pages/hls__32、统计学习方法李航(非扫描版)_1695796968944_0.md",
+    "pages/hls__第二节讲义_1682136737988_0.md",
+    "pages/index.html",
+    "pages/leetcode.md",
+    "pages/MIM高频与对比学习.md",
+    "pages/mocov1.md",
+    "pages/Neural Network Diffusion.md",
+    "pages/Notes.md",
+    "pages/Numpy.md",
+    "pages/Pandas.md",
+    "pages/pdf.md",
+    "pages/pycharm常用快捷键.md",
+    "pages/python学习.md",
+    "pages/pytorch.md",
+    "pages/sparse_mx.md",
+    "pages/swav.md",
+    "pages/tqdm.md",
+    "pages/vscode代码标签准则.md",
+    "pages/yolov5学习.md",
+    "pages/zotero读论文准则.md",
+    "tags/tag.md",
+    "whiteboards/64436310-b904-4361-bf83-38ab44f27155.edn",
+    "whiteboards/学习.edn",
+    "check-new-release.mjs",
+    "index.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/MathJax_Zero.woff",
+    "lib/fonts/MathJax_Main-Regular.woff",
+    "lib/fonts/MathJax_Main-Bold.woff",
+    "lib/fonts/MathJax_Math-Italic.woff",
+    "lib/fonts/MathJax_Main-Italic.woff",
+    "lib/fonts/MathJax_Math-BoldItalic.woff",
+    "lib/fonts/MathJax_Size1-Regular.woff",
+    "lib/fonts/MathJax_Size2-Regular.woff",
+    "lib/fonts/MathJax_Size3-Regular.woff",
+    "lib/fonts/MathJax_Size4-Regular.woff",
+    "lib/fonts/MathJax_AMS-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Bold.woff",
+    "lib/fonts/MathJax_Fraktur-Regular.woff",
+    "lib/fonts/MathJax_Fraktur-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Regular.woff",
+    "lib/fonts/MathJax_SansSerif-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Italic.woff",
+    "lib/fonts/MathJax_Script-Regular.woff",
+    "lib/fonts/MathJax_Typewriter-Regular.woff",
+    "lib/fonts/MathJax_Vector-Regular.woff",
+    "lib/fonts/MathJax_Vector-Bold.woff"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/MathJax_Zero.woff",
+    "lib/fonts/MathJax_Main-Regular.woff",
+    "lib/fonts/MathJax_Main-Bold.woff",
+    "lib/fonts/MathJax_Math-Italic.woff",
+    "lib/fonts/MathJax_Main-Italic.woff",
+    "lib/fonts/MathJax_Math-BoldItalic.woff",
+    "lib/fonts/MathJax_Size1-Regular.woff",
+    "lib/fonts/MathJax_Size2-Regular.woff",
+    "lib/fonts/MathJax_Size3-Regular.woff",
+    "lib/fonts/MathJax_Size4-Regular.woff",
+    "lib/fonts/MathJax_AMS-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Bold.woff",
+    "lib/fonts/MathJax_Fraktur-Regular.woff",
+    "lib/fonts/MathJax_Fraktur-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Regular.woff",
+    "lib/fonts/MathJax_SansSerif-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Italic.woff",
+    "lib/fonts/MathJax_Script-Regular.woff",
+    "lib/fonts/MathJax_Typewriter-Regular.woff",
+    "lib/fonts/MathJax_Vector-Regular.woff",
+    "lib/fonts/MathJax_Vector-Bold.woff"
+  ],
+  "fileInfo": {
+    "日记/2024-03-05.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 154,
+      "exportedPath": "日记/2024-03-05.html",
+      "dependencies": []
+    },
+    "日记/2024-03-06.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 0,
+      "exportedPath": "日记/2024-03-06.html",
+      "dependencies": []
+    },
+    "assets/第二节讲义_1682136737988_0/1_64435ecd-c845-457f-afbd-60e81e3cbffa_1682136780619.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 200,
+      "exportedPath": "assets/第二节讲义_1682136737988_0/1_64435ecd-c845-457f-afbd-60e81e3cbffa_1682136780619.png",
+      "dependencies": []
+    },
+    "assets/第二节讲义_1682136737988_0/1_6443640b-d02e-4b7b-833b-d49362a7bfc0_1682138122618.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 5128,
+      "exportedPath": "assets/第二节讲义_1682136737988_0/1_6443640b-d02e-4b7b-833b-d49362a7bfc0_1682138122618.png",
+      "dependencies": []
+    },
+    "assets/2-1-1.png_(578×218)_-_image_1705670873910_0.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 19669,
+      "exportedPath": "assets/2-1-1.png_(578×218)_-_image_1705670873910_0.png",
+      "dependencies": []
+    },
+    "assets/2-1-1.png_(578×218)_-_image_1705670919100_0.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 19669,
+      "exportedPath": "assets/2-1-1.png_(578×218)_-_image_1705670919100_0.png",
+      "dependencies": []
+    },
+    "assets/2nd, 2023.edn": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 16,
+      "exportedPath": "assets/2nd, 2023.edn",
+      "dependencies": []
+    },
+    "assets/32、统计学习方法李航(非扫描版)_1687258339492_0.pdf": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 9115188,
+      "exportedPath": "assets/32、统计学习方法李航(非扫描版)_1687258339492_0.pdf",
+      "dependencies": []
+    },
+    "assets/32、统计学习方法李航(非扫描版)_1687258339492_0.edn": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1770,
+      "exportedPath": "assets/32、统计学习方法李航(非扫描版)_1687258339492_0.edn",
+      "dependencies": []
+    },
+    "assets/32、统计学习方法李航(非扫描版)_1695796968944_0.pdf": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 9115188,
+      "exportedPath": "assets/32、统计学习方法李航(非扫描版)_1695796968944_0.pdf",
+      "dependencies": []
+    },
+    "assets/32、统计学习方法李航(非扫描版)_1695796968944_0.edn": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 10245,
+      "exportedPath": "assets/32、统计学习方法李航(非扫描版)_1695796968944_0.edn",
+      "dependencies": []
+    },
+    "assets/0230BF93_1684673835549_0.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 4319,
+      "exportedPath": "assets/0230BF93_1684673835549_0.png",
+      "dependencies": []
+    },
+    "assets/1388929B_1685874262815_0.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 4315,
+      "exportedPath": "assets/1388929B_1685874262815_0.png",
+      "dependencies": []
+    },
+    "assets/第二节讲义_1682136737988_0.pdf": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 279991,
+      "exportedPath": "assets/第二节讲义_1682136737988_0.pdf",
+      "dependencies": []
+    },
+    "assets/第二节讲义_1682136737988_0.edn": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 9604,
+      "exportedPath": "assets/第二节讲义_1682136737988_0.edn",
+      "dependencies": []
+    },
+    "assets/image_1684574457896_0.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 713875,
+      "exportedPath": "assets/image_1684574457896_0.png",
+      "dependencies": []
+    },
+    "assets/image_1684575545217_0.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 713875,
+      "exportedPath": "assets/image_1684575545217_0.png",
+      "dependencies": []
+    },
+    "assets/image_1684575767441_0.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 713875,
+      "exportedPath": "assets/image_1684575767441_0.png",
+      "dependencies": []
+    },
+    "assets/image_1699876183501_0.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 678078,
+      "exportedPath": "assets/image_1699876183501_0.png",
+      "dependencies": []
+    },
+    "assets/image_1699876572221_0.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 303518,
+      "exportedPath": "assets/image_1699876572221_0.png",
+      "dependencies": []
+    },
+    "assets/image_1699883985309_0.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 212621,
+      "exportedPath": "assets/image_1699883985309_0.png",
+      "dependencies": []
+    },
+    "assets/image_1699945101548_0.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 216413,
+      "exportedPath": "assets/image_1699945101548_0.png",
+      "dependencies": []
+    },
+    "assets/image_1699945313972_0.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 183587,
+      "exportedPath": "assets/image_1699945313972_0.png",
+      "dependencies": []
+    },
+    "assets/image_1699945440911_0.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 204762,
+      "exportedPath": "assets/image_1699945440911_0.png",
+      "dependencies": []
+    },
+    "assets/image_1699945485766_0.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 200712,
+      "exportedPath": "assets/image_1699945485766_0.png",
+      "dependencies": []
+    },
+    "assets/image_1699946225590_0.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 70525,
+      "exportedPath": "assets/image_1699946225590_0.png",
+      "dependencies": []
+    },
+    "assets/image_1699946458029_0.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 307388,
+      "exportedPath": "assets/image_1699946458029_0.png",
+      "dependencies": []
+    },
+    "assets/image_1699946606741_0.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 176757,
+      "exportedPath": "assets/image_1699946606741_0.png",
+      "dependencies": []
+    },
+    "assets/image_1699946861337_0.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 591435,
+      "exportedPath": "assets/image_1699946861337_0.png",
+      "dependencies": []
+    },
+    "assets/image_1699949728395_0.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 176075,
+      "exportedPath": "assets/image_1699949728395_0.png",
+      "dependencies": []
+    },
+    "assets/image_1699949793046_0.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 635333,
+      "exportedPath": "assets/image_1699949793046_0.png",
+      "dependencies": []
+    },
+    "assets/image_1702623691716_0.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 88239,
+      "exportedPath": "assets/image_1702623691716_0.png",
+      "dependencies": []
+    },
+    "assets/image_1702624195386_0.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 55166,
+      "exportedPath": "assets/image_1702624195386_0.png",
+      "dependencies": []
+    },
+    "assets/image_1704871702621_0.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 624400,
+      "exportedPath": "assets/image_1704871702621_0.png",
+      "dependencies": []
+    },
+    "assets/image_1704872057321_0.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 318731,
+      "exportedPath": "assets/image_1704872057321_0.png",
+      "dependencies": []
+    },
+    "assets/image_1705324163875_0.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 268166,
+      "exportedPath": "assets/image_1705324163875_0.png",
+      "dependencies": []
+    },
+    "assets/image_1705324179915_0.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 298071,
+      "exportedPath": "assets/image_1705324179915_0.png",
+      "dependencies": []
+    },
+    "assets/image_1705733465617_0.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 6597,
+      "exportedPath": "assets/image_1705733465617_0.png",
+      "dependencies": []
+    },
+    "assets/image_1709094685699_0.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 87266,
+      "exportedPath": "assets/image_1709094685699_0.png",
+      "dependencies": []
+    },
+    "assets/image_1709094739214_0.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 135500,
+      "exportedPath": "assets/image_1709094739214_0.png",
+      "dependencies": []
+    },
+    "assets/image_1709128836201_0.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 436337,
+      "exportedPath": "assets/image_1709128836201_0.png",
+      "dependencies": []
+    },
+    "assets/image_1709130207488_0.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 23261,
+      "exportedPath": "assets/image_1709130207488_0.png",
+      "dependencies": []
+    },
+    "assets/image_1709130266985_0.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 20395,
+      "exportedPath": "assets/image_1709130266985_0.png",
+      "dependencies": []
+    },
+    "assets/image_1709170234870_0.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 27409,
+      "exportedPath": "assets/image_1709170234870_0.png",
+      "dependencies": []
+    },
+    "assets/RLmtd1_1705324331849_0.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 419451,
+      "exportedPath": "assets/RLmtd1_1705324331849_0.png",
+      "dependencies": []
+    },
+    "assets/Sarsa_算法更新_莫烦Python_-_3-1-1_1705753738596_0.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 23985,
+      "exportedPath": "assets/Sarsa_算法更新_莫烦Python_-_3-1-1_1705753738596_0.png",
+      "dependencies": []
+    },
+    "draws/2023-10-27-20-23-29.excalidraw": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 41217,
+      "exportedPath": "draws/2023-10-27-20-23-29.html",
+      "dependencies": []
+    },
+    "draws/2023-10-28-19-16-54.excalidraw": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 86302,
+      "exportedPath": "draws/2023-10-28-19-16-54.html",
+      "dependencies": []
+    },
+    "draws/2023-10-28-22-06-51.excalidraw": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 171,
+      "exportedPath": "draws/2023-10-28-22-06-51.html",
+      "dependencies": []
+    },
+    "journals/2023_04_22.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 596,
+      "exportedPath": "journals/2023_04_22.html",
+      "dependencies": []
+    },
+    "journals/2023_05_08.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 177,
+      "exportedPath": "journals/2023_05_08.html",
+      "dependencies": []
+    },
+    "journals/2023_05_10.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 48,
+      "exportedPath": "journals/2023_05_10.html",
+      "dependencies": []
+    },
+    "journals/2023_05_11.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 121,
+      "exportedPath": "journals/2023_05_11.html",
+      "dependencies": []
+    },
+    "journals/2023_05_12.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 55,
+      "exportedPath": "journals/2023_05_12.html",
+      "dependencies": []
+    },
+    "journals/2023_05_17.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 27,
+      "exportedPath": "journals/2023_05_17.html",
+      "dependencies": []
+    },
+    "journals/2023_06_04.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1,
+      "exportedPath": "journals/2023_06_04.html",
+      "dependencies": []
+    },
+    "journals/2023_06_11.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 62,
+      "exportedPath": "journals/2023_06_11.html",
+      "dependencies": []
+    },
+    "journals/2023_06_21.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 53,
+      "exportedPath": "journals/2023_06_21.html",
+      "dependencies": []
+    },
+    "journals/2023_06_28.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 72,
+      "exportedPath": "journals/2023_06_28.html",
+      "dependencies": []
+    },
+    "journals/2023_06_29.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 17,
+      "exportedPath": "journals/2023_06_29.html",
+      "dependencies": []
+    },
+    "journals/2023_09_20.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 81,
+      "exportedPath": "journals/2023_09_20.html",
+      "dependencies": []
+    },
+    "journals/2023_09_22.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 243,
+      "exportedPath": "journals/2023_09_22.html",
+      "dependencies": []
+    },
+    "journals/2023_09_24.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 3,
+      "exportedPath": "journals/2023_09_24.html",
+      "dependencies": []
+    },
+    "journals/2023_09_27.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 33,
+      "exportedPath": "journals/2023_09_27.html",
+      "dependencies": []
+    },
+    "journals/2023_10_03.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 163,
+      "exportedPath": "journals/2023_10_03.html",
+      "dependencies": []
+    },
+    "journals/2023_10_12.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 3,
+      "exportedPath": "journals/2023_10_12.html",
+      "dependencies": []
+    },
+    "journals/2023_10_23.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 174,
+      "exportedPath": "journals/2023_10_23.html",
+      "dependencies": []
+    },
+    "journals/2023_10_24.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 79,
+      "exportedPath": "journals/2023_10_24.html",
+      "dependencies": []
+    },
+    "journals/2023_10_25.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 3,
+      "exportedPath": "journals/2023_10_25.html",
+      "dependencies": []
+    },
+    "journals/2023_10_27.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 27,
+      "exportedPath": "journals/2023_10_27.html",
+      "dependencies": []
+    },
+    "journals/2023_10_28.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 194,
+      "exportedPath": "journals/2023_10_28.html",
+      "dependencies": []
+    },
+    "journals/2023_10_29.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 512,
+      "exportedPath": "journals/2023_10_29.html",
+      "dependencies": []
+    },
+    "journals/2023_10_31.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 19,
+      "exportedPath": "journals/2023_10_31.html",
+      "dependencies": []
+    },
+    "journals/2023_11_12.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 7,
+      "exportedPath": "journals/2023_11_12.html",
+      "dependencies": []
+    },
+    "journals/2023_11_13.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1,
+      "exportedPath": "journals/2023_11_13.html",
+      "dependencies": []
+    },
+    "journals/2023_11_14.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 3,
+      "exportedPath": "journals/2023_11_14.html",
+      "dependencies": []
+    },
+    "journals/2023_12_04.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 787,
+      "exportedPath": "journals/2023_12_04.html",
+      "dependencies": []
+    },
+    "journals/2023_12_07.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 56,
+      "exportedPath": "journals/2023_12_07.html",
+      "dependencies": []
+    },
+    "journals/2023_12_09.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 147,
+      "exportedPath": "journals/2023_12_09.html",
+      "dependencies": []
+    },
+    "journals/2023_12_10.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 133,
+      "exportedPath": "journals/2023_12_10.html",
+      "dependencies": []
+    },
+    "journals/2023_12_15.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 2873,
+      "exportedPath": "journals/2023_12_15.html",
+      "dependencies": []
+    },
+    "journals/2024_01_01.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 370,
+      "exportedPath": "journals/2024_01_01.html",
+      "dependencies": []
+    },
+    "journals/2024_01_03.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 5,
+      "exportedPath": "journals/2024_01_03.html",
+      "dependencies": []
+    },
+    "journals/2024_01_04.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 3,
+      "exportedPath": "journals/2024_01_04.html",
+      "dependencies": []
+    },
+    "journals/2024_01_05.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 445,
+      "exportedPath": "journals/2024_01_05.html",
+      "dependencies": []
+    },
+    "journals/2024_01_07.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 16,
+      "exportedPath": "journals/2024_01_07.html",
+      "dependencies": []
+    },
+    "journals/2024_01_11.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1,
+      "exportedPath": "journals/2024_01_11.html",
+      "dependencies": []
+    },
+    "journals/2024_01_19.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1091,
+      "exportedPath": "journals/2024_01_19.html",
+      "dependencies": []
+    },
+    "journals/2024_01_20.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 252,
+      "exportedPath": "journals/2024_01_20.html",
+      "dependencies": []
+    },
+    "journals/2024_01_24.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 174,
+      "exportedPath": "journals/2024_01_24.html",
+      "dependencies": []
+    },
+    "journals/2024_01_25.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 66,
+      "exportedPath": "journals/2024_01_25.html",
+      "dependencies": []
+    },
+    "journals/2024_01_27.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 3,
+      "exportedPath": "journals/2024_01_27.html",
+      "dependencies": []
+    },
+    "journals/2024_02_18.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 49,
+      "exportedPath": "journals/2024_02_18.html",
+      "dependencies": []
+    },
+    "journals/2024_02_21.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1,
+      "exportedPath": "journals/2024_02_21.html",
+      "dependencies": []
+    },
+    "journals/2024_03_01.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 21,
+      "exportedPath": "journals/2024_03_01.html",
+      "dependencies": []
+    },
+    "journals/2024_03_04.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1,
+      "exportedPath": "journals/2024_03_04.html",
+      "dependencies": []
+    },
+    "logseq/bak/目录/2024-03-04T07_56_36.733Z.Desktop.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 771,
+      "exportedPath": "logseq/bak/目录/2024-03-04T07_56_36.733Z.Desktop.html",
+      "dependencies": []
+    },
+    "logseq/bak/目录/2024-03-04T07_56_49.638Z.Desktop.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 764,
+      "exportedPath": "logseq/bak/目录/2024-03-04T07_56_49.638Z.Desktop.html",
+      "dependencies": []
+    },
+    "logseq/bak/journals/2023_12_07/2023-12-09T09_24_26.526Z.Desktop.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 58,
+      "exportedPath": "logseq/bak/journals/2023_12_07/2023-12-09T09_24_26.526Z.Desktop.html",
+      "dependencies": []
+    },
+    "logseq/bak/journals/2024_01_19/2024-01-21T02_19_21.852Z.Desktop.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1092,
+      "exportedPath": "logseq/bak/journals/2024_01_19/2024-01-21T02_19_21.852Z.Desktop.html",
+      "dependencies": []
+    },
+    "logseq/bak/journals/2024_01_20/2024-01-21T02_19_21.857Z.Desktop.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 209,
+      "exportedPath": "logseq/bak/journals/2024_01_20/2024-01-21T02_19_21.857Z.Desktop.html",
+      "dependencies": []
+    },
+    "logseq/bak/logseq/config/2023-10-28T13_31_15.840Z.Desktop.edn": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 13394,
+      "exportedPath": "logseq/bak/logseq/config/2023-10-28T13_31_15.840Z.Desktop.edn",
+      "dependencies": []
+    },
+    "logseq/bak/logseq/config/2023-10-28T13_40_51.601Z.Desktop.edn": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 13293,
+      "exportedPath": "logseq/bak/logseq/config/2023-10-28T13_40_51.601Z.Desktop.edn",
+      "dependencies": []
+    },
+    "logseq/bak/logseq/config/2023-10-28T13_42_06.797Z.Desktop.edn": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 13292,
+      "exportedPath": "logseq/bak/logseq/config/2023-10-28T13_42_06.797Z.Desktop.edn",
+      "dependencies": []
+    },
+    "logseq/bak/logseq/config/2023-10-28T13_54_22.035Z.Desktop.edn": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 13292,
+      "exportedPath": "logseq/bak/logseq/config/2023-10-28T13_54_22.035Z.Desktop.edn",
+      "dependencies": []
+    },
+    "logseq/bak/logseq/config/2023-10-29T13_01_19.965Z.Desktop.edn": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 13394,
+      "exportedPath": "logseq/bak/logseq/config/2023-10-29T13_01_19.965Z.Desktop.edn",
+      "dependencies": []
+    },
+    "logseq/bak/logseq/config/2024-03-04T07_46_37.932Z.Desktop.edn": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 13336,
+      "exportedPath": "logseq/bak/logseq/config/2024-03-04T07_46_37.932Z.Desktop.edn",
+      "dependencies": []
+    },
+    "logseq/bak/pages/2024-1/2024-01-10T02_45_15.123Z.Desktop.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 232,
+      "exportedPath": "logseq/bak/pages/2024-1/2024-01-10T02_45_15.123Z.Desktop.html",
+      "dependencies": []
+    },
+    "logseq/bak/pages/2024-1/2024-01-16T01_23_03.594Z.Desktop.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1267,
+      "exportedPath": "logseq/bak/pages/2024-1/2024-01-16T01_23_03.594Z.Desktop.html",
+      "dependencies": []
+    },
+    "logseq/bak/pages/2024-1/2024-01-17T01_45_08.922Z.Desktop.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1267,
+      "exportedPath": "logseq/bak/pages/2024-1/2024-01-17T01_45_08.922Z.Desktop.html",
+      "dependencies": []
+    },
+    "logseq/bak/pages/2024-3/2024-03-04T08_02_36.431Z.Desktop.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1087,
+      "exportedPath": "logseq/bak/pages/2024-3/2024-03-04T08_02_36.431Z.Desktop.html",
+      "dependencies": []
+    },
+    "logseq/bak/pages/六级冲冲冲/2023-10-02T23_49_31.440Z.Desktop.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 319,
+      "exportedPath": "logseq/bak/pages/六级冲冲冲/2023-10-02T23_49_31.440Z.Desktop.html",
+      "dependencies": []
+    },
+    "logseq/bak/pages/六级冲冲冲/2023-10-12T09_38_20.930Z.Desktop.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 319,
+      "exportedPath": "logseq/bak/pages/六级冲冲冲/2023-10-12T09_38_20.930Z.Desktop.html",
+      "dependencies": []
+    },
+    "logseq/bak/pages/一生目录/2023-06-13T11_56_17.698Z.Desktop.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 632,
+      "exportedPath": "logseq/bak/pages/一生目录/2023-06-13T11_56_17.698Z.Desktop.html",
+      "dependencies": []
+    },
+    "logseq/bak/pages/一生目录/2023-10-28T11_16_30.385Z.Desktop.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 731,
+      "exportedPath": "logseq/bak/pages/一生目录/2023-10-28T11_16_30.385Z.Desktop.html",
+      "dependencies": []
+    },
+    "logseq/bak/pages/一生目录/2023-10-29T13_01_20.365Z.Desktop.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 731,
+      "exportedPath": "logseq/bak/pages/一生目录/2023-10-29T13_01_20.365Z.Desktop.html",
+      "dependencies": []
+    },
+    "logseq/bak/pages/一生目录/2024-03-04T07_49_29.621Z.Desktop.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 771,
+      "exportedPath": "logseq/bak/pages/一生目录/2024-03-04T07_49_29.621Z.Desktop.html",
+      "dependencies": []
+    },
+    "logseq/bak/pages/CNN学习/2023-09-25T10_40_11.721Z.Desktop.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 2661,
+      "exportedPath": "logseq/bak/pages/CNN学习/2023-09-25T10_40_11.721Z.Desktop.html",
+      "dependencies": []
+    },
+    "logseq/bak/pages/CNN学习/2023-09-27T06_41_31.685Z.Desktop.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 2661,
+      "exportedPath": "logseq/bak/pages/CNN学习/2023-09-27T06_41_31.685Z.Desktop.html",
+      "dependencies": []
+    },
+    "logseq/bak/pages/CNN学习/2023-09-28T07_32_01.676Z.Desktop.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 2661,
+      "exportedPath": "logseq/bak/pages/CNN学习/2023-09-28T07_32_01.676Z.Desktop.html",
+      "dependencies": []
+    },
+    "logseq/bak/pages/CNN学习/2023-10-02T23_49_31.421Z.Desktop.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 2661,
+      "exportedPath": "logseq/bak/pages/CNN学习/2023-10-02T23_49_31.421Z.Desktop.html",
+      "dependencies": []
+    },
+    "logseq/bak/pages/CNN学习/2023-10-12T09_38_20.903Z.Desktop.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 2661,
+      "exportedPath": "logseq/bak/pages/CNN学习/2023-10-12T09_38_20.903Z.Desktop.html",
+      "dependencies": []
+    },
+    "logseq/bak/pages/Pandas/2023-05-19T13_57_13.034Z.Desktop.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 2919,
+      "exportedPath": "logseq/bak/pages/Pandas/2023-05-19T13_57_13.034Z.Desktop.html",
+      "dependencies": []
+    },
+    "logseq/bak/pages/Pandas/2024-02-13T02_42_17.335Z.Desktop.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 2435,
+      "exportedPath": "logseq/bak/pages/Pandas/2024-02-13T02_42_17.335Z.Desktop.html",
+      "dependencies": []
+    },
+    "logseq/bak/pages/pycharm常用快捷键/2023-06-13T11_56_17.181Z.Desktop.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 212,
+      "exportedPath": "logseq/bak/pages/pycharm常用快捷键/2023-06-13T11_56_17.181Z.Desktop.html",
+      "dependencies": []
+    },
+    "logseq/bak/pages/static/js/main/2023-05-31T13_29_56.206Z.Desktop.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 7173276,
+      "exportedPath": "logseq/bak/pages/static/js/main/2023-05-31T13_29_56.206Z.Desktop.js",
+      "dependencies": []
+    },
+    "logseq/bak/pages/static/js/pdfjs/pdf/2023-05-31T13_29_57.473Z.Desktop.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 432463,
+      "exportedPath": "logseq/bak/pages/static/js/pdfjs/pdf/2023-05-31T13_29_57.473Z.Desktop.js",
+      "dependencies": []
+    },
+    "logseq/bak/pages/static/js/pdfjs/pdf_viewer/2023-05-31T13_29_59.537Z.Desktop.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 212950,
+      "exportedPath": "logseq/bak/pages/static/js/pdfjs/pdf_viewer/2023-05-31T13_29_59.537Z.Desktop.js",
+      "dependencies": []
+    },
+    "logseq/bak/pages/static/js/pdfjs/pdf.worker/2023-05-31T13_29_58.520Z.Desktop.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1943261,
+      "exportedPath": "logseq/bak/pages/static/js/pdfjs/pdf.worker/2023-05-31T13_29_58.520Z.Desktop.js",
+      "dependencies": []
+    },
+    "logseq/bak/pages/zotero读论文准则/2024-03-04T07_58_56.997Z.Desktop.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 422,
+      "exportedPath": "logseq/bak/pages/zotero读论文准则/2024-03-04T07_58_56.997Z.Desktop.html",
+      "dependencies": []
+    },
+    "logseq/bak/pages/zotero读论文准则/2024-03-04T08_00_52.366Z.Desktop.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 192,
+      "exportedPath": "logseq/bak/pages/zotero读论文准则/2024-03-04T08_00_52.366Z.Desktop.html",
+      "dependencies": []
+    },
+    "logseq/bak/pages/zotero读论文准则/2024-03-04T08_01_05.038Z.Desktop.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 196,
+      "exportedPath": "logseq/bak/pages/zotero读论文准则/2024-03-04T08_01_05.038Z.Desktop.html",
+      "dependencies": []
+    },
+    "logseq/bak/pages/zotero读论文准则/2024-03-04T08_01_16.062Z.Desktop.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 198,
+      "exportedPath": "logseq/bak/pages/zotero读论文准则/2024-03-04T08_01_16.062Z.Desktop.html",
+      "dependencies": []
+    },
+    "logseq/bak/README/2024-02-13T02_42_17.339Z.Desktop.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 58,
+      "exportedPath": "logseq/bak/README/2024-02-13T02_42_17.339Z.Desktop.html",
+      "dependencies": []
+    },
+    "logseq/bak/tags/tag/2024-03-04T07_52_15.624Z.Desktop.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 38,
+      "exportedPath": "logseq/bak/tags/tag/2024-03-04T07_52_15.624Z.Desktop.html",
+      "dependencies": []
+    },
+    "logseq/bak/tags/tag/2024-03-04T07_52_19.176Z.Desktop.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 37,
+      "exportedPath": "logseq/bak/tags/tag/2024-03-04T07_52_19.176Z.Desktop.html",
+      "dependencies": []
+    },
+    "logseq/bak/tags/tag/2024-03-04T07_52_21.491Z.Desktop.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 36,
+      "exportedPath": "logseq/bak/tags/tag/2024-03-04T07_52_21.491Z.Desktop.html",
+      "dependencies": []
+    },
+    "logseq/bak/tags/tag/2024-03-04T07_52_25.859Z.Desktop.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 37,
+      "exportedPath": "logseq/bak/tags/tag/2024-03-04T07_52_25.859Z.Desktop.html",
+      "dependencies": []
+    },
+    "logseq/bak/tags/tag/2024-03-04T08_04_53.593Z.Desktop.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 38,
+      "exportedPath": "logseq/bak/tags/tag/2024-03-04T08_04_53.593Z.Desktop.html",
+      "dependencies": []
+    },
+    "logseq/bak/tags/tag/2024-03-04T08_05_31.416Z.Desktop.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 38,
+      "exportedPath": "logseq/bak/tags/tag/2024-03-04T08_05_31.416Z.Desktop.html",
+      "dependencies": []
+    },
+    "logseq/config.edn": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 13330,
+      "exportedPath": "logseq/config.edn",
+      "dependencies": []
+    },
+    "logseq/custom.css": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 0,
+      "exportedPath": "logseq/custom.css",
+      "dependencies": []
+    },
+    "pages/static/css/fonts/tabler-icons.woff": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 697040,
+      "exportedPath": "pages/static/css/fonts/tabler-icons.woff",
+      "dependencies": []
+    },
+    "pages/static/css/fonts/tabler-icons.woff2": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 496844,
+      "exportedPath": "pages/static/css/fonts/tabler-icons.woff2",
+      "dependencies": []
+    },
+    "pages/static/css/fonts/tabler-icons.ttf": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1346120,
+      "exportedPath": "pages/static/css/fonts/tabler-icons.ttf",
+      "dependencies": []
+    },
+    "pages/static/css/fonts/tabler-icons.eot": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1346304,
+      "exportedPath": "pages/static/css/fonts/tabler-icons.eot",
+      "dependencies": []
+    },
+    "pages/static/css/fonts/tabler-icons.svg": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 5344958,
+      "exportedPath": "pages/static/css/fonts/tabler-icons.svg",
+      "dependencies": []
+    },
+    "pages/static/css/amplify.css": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 273571,
+      "exportedPath": "pages/static/css/amplify.css",
+      "dependencies": []
+    },
+    "pages/static/css/animation.css": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1338,
+      "exportedPath": "pages/static/css/animation.css",
+      "dependencies": []
+    },
+    "pages/static/css/codemirror.min.css": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 9054,
+      "exportedPath": "pages/static/css/codemirror.min.css",
+      "dependencies": []
+    },
+    "pages/static/css/codemirror.solarized.css": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 5360,
+      "exportedPath": "pages/static/css/codemirror.solarized.css",
+      "dependencies": []
+    },
+    "pages/static/css/common.css": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 21385,
+      "exportedPath": "pages/static/css/common.css",
+      "dependencies": []
+    },
+    "pages/static/css/custom.css": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 0,
+      "exportedPath": "pages/static/css/custom.css",
+      "dependencies": []
+    },
+    "pages/static/css/datepicker.css": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 5615,
+      "exportedPath": "pages/static/css/datepicker.css",
+      "dependencies": []
+    },
+    "pages/static/css/excalidraw.min.css": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 42539,
+      "exportedPath": "pages/static/css/excalidraw.min.css",
+      "dependencies": []
+    },
+    "pages/static/css/export.css": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 0,
+      "exportedPath": "pages/static/css/export.css",
+      "dependencies": []
+    },
+    "pages/static/css/fonts.css": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 334,
+      "exportedPath": "pages/static/css/fonts.css",
+      "dependencies": []
+    },
+    "pages/static/css/highlight.css": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1223,
+      "exportedPath": "pages/static/css/highlight.css",
+      "dependencies": []
+    },
+    "pages/static/css/inter.css": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 6088,
+      "exportedPath": "pages/static/css/inter.css",
+      "dependencies": []
+    },
+    "pages/static/css/katex.min.css": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 25994,
+      "exportedPath": "pages/static/css/katex.min.css",
+      "dependencies": []
+    },
+    "pages/static/css/photoswipe.css": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 7976,
+      "exportedPath": "pages/static/css/photoswipe.css",
+      "dependencies": []
+    },
+    "pages/static/css/reveal_black.min.css": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 6289,
+      "exportedPath": "pages/static/css/reveal_black.min.css",
+      "dependencies": []
+    },
+    "pages/static/css/reveal.min.css": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 45344,
+      "exportedPath": "pages/static/css/reveal.min.css",
+      "dependencies": []
+    },
+    "pages/static/css/shepherd.css": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 3401,
+      "exportedPath": "pages/static/css/shepherd.css",
+      "dependencies": []
+    },
+    "pages/static/css/show-hint.css": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 659,
+      "exportedPath": "pages/static/css/show-hint.css",
+      "dependencies": []
+    },
+    "pages/static/css/srs_cards.css": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 865,
+      "exportedPath": "pages/static/css/srs_cards.css",
+      "dependencies": []
+    },
+    "pages/static/css/style.css": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 8565296,
+      "exportedPath": "pages/static/css/style.css",
+      "dependencies": []
+    },
+    "pages/static/css/table.css": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1134,
+      "exportedPath": "pages/static/css/table.css",
+      "dependencies": []
+    },
+    "pages/static/css/tabler-extension.css": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 2535,
+      "exportedPath": "pages/static/css/tabler-extension.css",
+      "dependencies": []
+    },
+    "pages/static/css/tabler-icons.min.css": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 105815,
+      "exportedPath": "pages/static/css/tabler-icons.min.css",
+      "dependencies": []
+    },
+    "pages/static/css/tooltip.css": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 19122,
+      "exportedPath": "pages/static/css/tooltip.css",
+      "dependencies": []
+    },
+    "pages/static/fonts/inter/Inter-Black.woff2": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 102832,
+      "exportedPath": "pages/static/fonts/inter/Inter-Black.woff2",
+      "dependencies": []
+    },
+    "pages/static/fonts/inter/Inter-Black.woff": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 138628,
+      "exportedPath": "pages/static/fonts/inter/Inter-Black.woff",
+      "dependencies": []
+    },
+    "pages/static/fonts/inter/Inter-BlackItalic.woff2": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 108564,
+      "exportedPath": "pages/static/fonts/inter/Inter-BlackItalic.woff2",
+      "dependencies": []
+    },
+    "pages/static/fonts/inter/Inter-BlackItalic.woff": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 145612,
+      "exportedPath": "pages/static/fonts/inter/Inter-BlackItalic.woff",
+      "dependencies": []
+    },
+    "pages/static/fonts/inter/Inter-Bold.woff2": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 106052,
+      "exportedPath": "pages/static/fonts/inter/Inter-Bold.woff2",
+      "dependencies": []
+    },
+    "pages/static/fonts/inter/Inter-Bold.woff": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 143100,
+      "exportedPath": "pages/static/fonts/inter/Inter-Bold.woff",
+      "dependencies": []
+    },
+    "pages/static/fonts/inter/Inter-BoldItalic.woff2": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 111644,
+      "exportedPath": "pages/static/fonts/inter/Inter-BoldItalic.woff2",
+      "dependencies": []
+    },
+    "pages/static/fonts/inter/Inter-BoldItalic.woff": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 149808,
+      "exportedPath": "pages/static/fonts/inter/Inter-BoldItalic.woff",
+      "dependencies": []
+    },
+    "pages/static/fonts/inter/Inter-ExtraBold.woff2": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 106048,
+      "exportedPath": "pages/static/fonts/inter/Inter-ExtraBold.woff2",
+      "dependencies": []
+    },
+    "pages/static/fonts/inter/Inter-ExtraBold.woff": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 142760,
+      "exportedPath": "pages/static/fonts/inter/Inter-ExtraBold.woff",
+      "dependencies": []
+    },
+    "pages/static/fonts/inter/Inter-ExtraBoldItalic.woff2": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 111896,
+      "exportedPath": "pages/static/fonts/inter/Inter-ExtraBoldItalic.woff2",
+      "dependencies": []
+    },
+    "pages/static/fonts/inter/Inter-ExtraBoldItalic.woff": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 149372,
+      "exportedPath": "pages/static/fonts/inter/Inter-ExtraBoldItalic.woff",
+      "dependencies": []
+    },
+    "pages/static/fonts/inter/Inter-ExtraLight.woff2": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 104128,
+      "exportedPath": "pages/static/fonts/inter/Inter-ExtraLight.woff2",
+      "dependencies": []
+    },
+    "pages/static/fonts/inter/Inter-ExtraLight.woff": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 140736,
+      "exportedPath": "pages/static/fonts/inter/Inter-ExtraLight.woff",
+      "dependencies": []
+    },
+    "pages/static/fonts/inter/Inter-ExtraLightItalic.woff2": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 110820,
+      "exportedPath": "pages/static/fonts/inter/Inter-ExtraLightItalic.woff2",
+      "dependencies": []
+    },
+    "pages/static/fonts/inter/Inter-ExtraLightItalic.woff": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 148664,
+      "exportedPath": "pages/static/fonts/inter/Inter-ExtraLightItalic.woff",
+      "dependencies": []
+    },
+    "pages/static/fonts/inter/Inter-Italic.woff2": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 106604,
+      "exportedPath": "pages/static/fonts/inter/Inter-Italic.woff2",
+      "dependencies": []
+    },
+    "pages/static/fonts/inter/Inter-Italic.woff": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 143188,
+      "exportedPath": "pages/static/fonts/inter/Inter-Italic.woff",
+      "dependencies": []
+    },
+    "pages/static/fonts/inter/Inter-italic.var.woff2": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 240240,
+      "exportedPath": "pages/static/fonts/inter/Inter-italic.var.woff2",
+      "dependencies": []
+    },
+    "pages/static/fonts/inter/Inter-Light.woff2": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 103944,
+      "exportedPath": "pages/static/fonts/inter/Inter-Light.woff2",
+      "dependencies": []
+    },
+    "pages/static/fonts/inter/Inter-Light.woff": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 140612,
+      "exportedPath": "pages/static/fonts/inter/Inter-Light.woff",
+      "dependencies": []
+    },
+    "pages/static/fonts/inter/Inter-LightItalic.woff2": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 111212,
+      "exportedPath": "pages/static/fonts/inter/Inter-LightItalic.woff2",
+      "dependencies": []
+    },
+    "pages/static/fonts/inter/Inter-LightItalic.woff": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 148812,
+      "exportedPath": "pages/static/fonts/inter/Inter-LightItalic.woff",
+      "dependencies": []
+    },
+    "pages/static/fonts/inter/Inter-Medium.woff2": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 105500,
+      "exportedPath": "pages/static/fonts/inter/Inter-Medium.woff2",
+      "dependencies": []
+    },
+    "pages/static/fonts/inter/Inter-Medium.woff": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 142340,
+      "exportedPath": "pages/static/fonts/inter/Inter-Medium.woff",
+      "dependencies": []
+    },
+    "pages/static/fonts/inter/Inter-MediumItalic.woff2": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 111968,
+      "exportedPath": "pages/static/fonts/inter/Inter-MediumItalic.woff2",
+      "dependencies": []
+    },
+    "pages/static/fonts/inter/Inter-MediumItalic.woff": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 149704,
+      "exportedPath": "pages/static/fonts/inter/Inter-MediumItalic.woff",
+      "dependencies": []
+    },
+    "pages/static/fonts/inter/Inter-Regular.woff2": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 98804,
+      "exportedPath": "pages/static/fonts/inter/Inter-Regular.woff2",
+      "dependencies": []
+    },
+    "pages/static/fonts/inter/Inter-Regular.woff": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 133856,
+      "exportedPath": "pages/static/fonts/inter/Inter-Regular.woff",
+      "dependencies": []
+    },
+    "pages/static/fonts/inter/Inter-roman.var.woff2": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 224744,
+      "exportedPath": "pages/static/fonts/inter/Inter-roman.var.woff2",
+      "dependencies": []
+    },
+    "pages/static/fonts/inter/Inter-SemiBold.woff2": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 105992,
+      "exportedPath": "pages/static/fonts/inter/Inter-SemiBold.woff2",
+      "dependencies": []
+    },
+    "pages/static/fonts/inter/Inter-SemiBold.woff": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 142760,
+      "exportedPath": "pages/static/fonts/inter/Inter-SemiBold.woff",
+      "dependencies": []
+    },
+    "pages/static/fonts/inter/Inter-SemiBoldItalic.woff2": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 111676,
+      "exportedPath": "pages/static/fonts/inter/Inter-SemiBoldItalic.woff2",
+      "dependencies": []
+    },
+    "pages/static/fonts/inter/Inter-SemiBoldItalic.woff": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 149776,
+      "exportedPath": "pages/static/fonts/inter/Inter-SemiBoldItalic.woff",
+      "dependencies": []
+    },
+    "pages/static/fonts/inter/Inter-Thin.woff2": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 99556,
+      "exportedPath": "pages/static/fonts/inter/Inter-Thin.woff2",
+      "dependencies": []
+    },
+    "pages/static/fonts/inter/Inter-Thin.woff": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 135872,
+      "exportedPath": "pages/static/fonts/inter/Inter-Thin.woff",
+      "dependencies": []
+    },
+    "pages/static/fonts/inter/Inter-ThinItalic.woff2": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 106320,
+      "exportedPath": "pages/static/fonts/inter/Inter-ThinItalic.woff2",
+      "dependencies": []
+    },
+    "pages/static/fonts/inter/Inter-ThinItalic.woff": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 144128,
+      "exportedPath": "pages/static/fonts/inter/Inter-ThinItalic.woff",
+      "dependencies": []
+    },
+    "pages/static/fonts/inter/Inter.var.woff2": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 319784,
+      "exportedPath": "pages/static/fonts/inter/Inter.var.woff2",
+      "dependencies": []
+    },
+    "pages/static/fonts/Cascadia.woff2": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 86812,
+      "exportedPath": "pages/static/fonts/Cascadia.woff2",
+      "dependencies": []
+    },
+    "pages/static/fonts/FG_Virgil.woff2": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 119508,
+      "exportedPath": "pages/static/fonts/FG_Virgil.woff2",
+      "dependencies": []
+    },
+    "pages/static/fonts/IBMPlexMono-Text-Latin1.woff": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 18224,
+      "exportedPath": "pages/static/fonts/IBMPlexMono-Text-Latin1.woff",
+      "dependencies": []
+    },
+    "pages/static/fonts/IBMPlexSans-Bold.woff": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 76988,
+      "exportedPath": "pages/static/fonts/IBMPlexSans-Bold.woff",
+      "dependencies": []
+    },
+    "pages/static/fonts/IBMPlexSans-Text.woff": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 81512,
+      "exportedPath": "pages/static/fonts/IBMPlexSans-Text.woff",
+      "dependencies": []
+    },
+    "pages/static/fonts/IBMPlexSans-TextItalic.woff": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 87548,
+      "exportedPath": "pages/static/fonts/IBMPlexSans-TextItalic.woff",
+      "dependencies": []
+    },
+    "pages/static/fonts/tabler-icons-extension.woff2": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 3788,
+      "exportedPath": "pages/static/fonts/tabler-icons-extension.woff2",
+      "dependencies": []
+    },
+    "pages/static/fonts/Virgil.woff2": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 65704,
+      "exportedPath": "pages/static/fonts/Virgil.woff2",
+      "dependencies": []
+    },
+    "pages/static/icons/canary/logseq.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 22015,
+      "exportedPath": "pages/static/icons/canary/logseq.png",
+      "dependencies": []
+    },
+    "pages/static/icons/canary/logseq.ico": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 4286,
+      "exportedPath": "pages/static/icons/canary/logseq.ico",
+      "dependencies": []
+    },
+    "pages/static/icons/canary/logseq_big_sur.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 46739,
+      "exportedPath": "pages/static/icons/canary/logseq_big_sur.png",
+      "dependencies": []
+    },
+    "pages/static/icons/canary/logseq_big_sur.ico": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 102571,
+      "exportedPath": "pages/static/icons/canary/logseq_big_sur.ico",
+      "dependencies": []
+    },
+    "pages/static/icons/canary/logseq_big_sur.icns": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 113578,
+      "exportedPath": "pages/static/icons/canary/logseq_big_sur.icns",
+      "dependencies": []
+    },
+    "pages/static/icons/installing.gif": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 146883,
+      "exportedPath": "pages/static/icons/installing.gif",
+      "dependencies": []
+    },
+    "pages/static/icons/logseq.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 48061,
+      "exportedPath": "pages/static/icons/logseq.png",
+      "dependencies": []
+    },
+    "pages/static/icons/logseq.icns": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 44778,
+      "exportedPath": "pages/static/icons/logseq.icns",
+      "dependencies": []
+    },
+    "pages/static/icons/logseq.ico": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 175700,
+      "exportedPath": "pages/static/icons/logseq.ico",
+      "dependencies": []
+    },
+    "pages/static/icons/logseq_big_sur.ico": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 34604,
+      "exportedPath": "pages/static/icons/logseq_big_sur.ico",
+      "dependencies": []
+    },
+    "pages/static/icons/logseq_big_sur.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 105107,
+      "exportedPath": "pages/static/icons/logseq_big_sur.png",
+      "dependencies": []
+    },
+    "pages/static/icons/logseq_big_sur.icns": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 231375,
+      "exportedPath": "pages/static/icons/logseq_big_sur.icns",
+      "dependencies": []
+    },
+    "pages/static/img/broken-avatar.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1609,
+      "exportedPath": "pages/static/img/broken-avatar.png",
+      "dependencies": []
+    },
+    "pages/static/img/checker.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 4772,
+      "exportedPath": "pages/static/img/checker.png",
+      "dependencies": []
+    },
+    "pages/static/img/credits.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 104451,
+      "exportedPath": "pages/static/img/credits.png",
+      "dependencies": []
+    },
+    "pages/static/img/dmg-bg.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 145860,
+      "exportedPath": "pages/static/img/dmg-bg.png",
+      "dependencies": []
+    },
+    "pages/static/img/file-edn.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 5513,
+      "exportedPath": "pages/static/img/file-edn.png",
+      "dependencies": []
+    },
+    "pages/static/img/file-sync-unavailale-nonbacker-dark.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 58306,
+      "exportedPath": "pages/static/img/file-sync-unavailale-nonbacker-dark.png",
+      "dependencies": []
+    },
+    "pages/static/img/file-sync-unavailale-nonbacker-light.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 58156,
+      "exportedPath": "pages/static/img/file-sync-unavailale-nonbacker-light.png",
+      "dependencies": []
+    },
+    "pages/static/img/file-sync-welcome-backer-dark.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 8770,
+      "exportedPath": "pages/static/img/file-sync-welcome-backer-dark.png",
+      "dependencies": []
+    },
+    "pages/static/img/file-sync-welcome-backer-light.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 8686,
+      "exportedPath": "pages/static/img/file-sync-welcome-backer-light.png",
+      "dependencies": []
+    },
+    "pages/static/img/folder.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 82105,
+      "exportedPath": "pages/static/img/folder.png",
+      "dependencies": []
+    },
+    "pages/static/img/folder-logo.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 75134,
+      "exportedPath": "pages/static/img/folder-logo.png",
+      "dependencies": []
+    },
+    "pages/static/img/logo.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 6024,
+      "exportedPath": "pages/static/img/logo.png",
+      "dependencies": []
+    },
+    "pages/static/img/screenshot.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 131691,
+      "exportedPath": "pages/static/img/screenshot.png",
+      "dependencies": []
+    },
+    "pages/static/img/theme-modes.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 16079,
+      "exportedPath": "pages/static/img/theme-modes.png",
+      "dependencies": []
+    },
+    "pages/static/img/tutorial-thumb.jpg": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 82871,
+      "exportedPath": "pages/static/img/tutorial-thumb.jpg",
+      "dependencies": []
+    },
+    "pages/static/img/whiteboard-welcome-dark.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 123452,
+      "exportedPath": "pages/static/img/whiteboard-welcome-dark.png",
+      "dependencies": []
+    },
+    "pages/static/img/whiteboard-welcome-light.png": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 66810,
+      "exportedPath": "pages/static/img/whiteboard-welcome-light.png",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/ar-SA-json-c45aab1368e1467c61fc.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 18372,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/ar-SA-json-c45aab1368e1467c61fc.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/bg-BG-json-c0c83d33de789fc3ecc3.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 16546,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/bg-BG-json-c0c83d33de789fc3ecc3.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/bn-BD-json-8522a1ce4e8fbd149dd3.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 6722,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/bn-BD-json-8522a1ce4e8fbd149dd3.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/ca-ES-json-a414efadae57479408aa.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 16748,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/ca-ES-json-a414efadae57479408aa.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/cs-CZ-json-a898ae3675b2d66f2491.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 7718,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/cs-CZ-json-a898ae3675b2d66f2491.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/da-DK-json-3f6008b3d7f477f7c6b4.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 8859,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/da-DK-json-3f6008b3d7f477f7c6b4.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/de-DE-json-e7215ff06fe5513fd875.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 17609,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/de-DE-json-e7215ff06fe5513fd875.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/el-GR-json-648c4e8a33d49e3c8d60.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 20530,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/el-GR-json-648c4e8a33d49e3c8d60.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/es-ES-json-d4c3bba2e07c62d27ff7.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 17148,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/es-ES-json-d4c3bba2e07c62d27ff7.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/eu-ES-json-5570769d29eb3be6fea1.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 16394,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/eu-ES-json-5570769d29eb3be6fea1.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/fa-IR-json-5f34cbf7e5dc2a5b6694.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 14885,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/fa-IR-json-5f34cbf7e5dc2a5b6694.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/fi-FI-json-a58f3fd51d0149157782.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 16647,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/fi-FI-json-a58f3fd51d0149157782.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/fr-FR-json-2649082b2724353b1b7c.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 18038,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/fr-FR-json-2649082b2724353b1b7c.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/he-IL-json-cf135bd5c36e9008cf4c.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 17568,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/he-IL-json-cf135bd5c36e9008cf4c.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/hi-IN-json-e3c279159830df6b85a7.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 19686,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/hi-IN-json-e3c279159830df6b85a7.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/hu-HU-json-5f4e84e297b66cee16a9.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 17410,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/hu-HU-json-5f4e84e297b66cee16a9.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/id-ID-json-8e2480705d678b85e0d8.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 16023,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/id-ID-json-8e2480705d678b85e0d8.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/it-IT-json-97f53316658e3c6e3cc2.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 17091,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/it-IT-json-97f53316658e3c6e3cc2.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/ja-JP-json-6ca4d0a0a0da6439e399.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 19583,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/ja-JP-json-6ca4d0a0a0da6439e399.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/kab-KAB-json-ca6c8cc0a4c6ce0394e8.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 16736,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/kab-KAB-json-ca6c8cc0a4c6ce0394e8.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/kk-KZ-json-256f55e01b7d14c51a85.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 9298,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/kk-KZ-json-256f55e01b7d14c51a85.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/ko-KR-json-1c5c18219823218aec95.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 17834,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/ko-KR-json-1c5c18219823218aec95.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/lt-LT-json-d6dce1ea118b023d9b66.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 7976,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/lt-LT-json-d6dce1ea118b023d9b66.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/lv-LV-json-8cde5d34d4617c13212c.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 17382,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/lv-LV-json-8cde5d34d4617c13212c.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/mr-IN-json-f2dbf75cf336121866d9.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 31926,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/mr-IN-json-f2dbf75cf336121866d9.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/my-MM-json-f8ea0cde2df903706156.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 17203,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/my-MM-json-f8ea0cde2df903706156.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/nb-NO-json-a061d909ce3f9c28e569.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 16039,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/nb-NO-json-a061d909ce3f9c28e569.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/nl-NL-json-9e2654c18661c817cad2.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 14168,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/nl-NL-json-9e2654c18661c817cad2.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/nn-NO-json-34324eb373b2c86232e9.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 15802,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/nn-NO-json-34324eb373b2c86232e9.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/oc-FR-json-36b68175896ab5fd8838.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 17296,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/oc-FR-json-36b68175896ab5fd8838.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/pa-IN-json-fff5fde7b22725f4892b.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 24606,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/pa-IN-json-fff5fde7b22725f4892b.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/pl-PL-json-556a5502303d62e61fc5.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 15903,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/pl-PL-json-556a5502303d62e61fc5.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/pt-BR-json-8e000700411ca90b0a50.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 16865,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/pt-BR-json-8e000700411ca90b0a50.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/pt-PT-json-a5412c6c70653dd832bc.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 14431,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/pt-PT-json-a5412c6c70653dd832bc.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/ro-RO-json-314bb21d9405881aea46.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 17853,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/ro-RO-json-314bb21d9405881aea46.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/ru-RU-json-7afc1507267127a4039e.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 25642,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/ru-RU-json-7afc1507267127a4039e.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/si-LK-json-09768735f21a6d7fe6c0.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 7652,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/si-LK-json-09768735f21a6d7fe6c0.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/sk-SK-json-93cdc341372014e6d68e.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 17114,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/sk-SK-json-93cdc341372014e6d68e.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/sl-SI-json-053f1aa5c78d021e73e0.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 16590,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/sl-SI-json-053f1aa5c78d021e73e0.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/sv-SE-json-daf16f824ce6bf253b94.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 16522,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/sv-SE-json-daf16f824ce6bf253b94.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/ta-IN-json-8227d446fbfcd3f8c7be.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 33230,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/ta-IN-json-8227d446fbfcd3f8c7be.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/tr-TR-json-0a8595289a6099a03252.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 17349,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/tr-TR-json-0a8595289a6099a03252.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/uk-UA-json-1b9f0b315899af8a00fd.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 20888,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/uk-UA-json-1b9f0b315899af8a00fd.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/zh-CN-json-a965551d944124b24b25.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 14667,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/zh-CN-json-a965551d944124b24b25.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/zh-HK-json-76ff37dfc9fb93291975.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 8394,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/zh-HK-json-76ff37dfc9fb93291975.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/locales/zh-TW-json-529b943391afcfd5369d.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 14807,
+      "exportedPath": "pages/static/js/excalidraw-assets/locales/zh-TW-json-529b943391afcfd5369d.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/Cascadia.woff2": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 86812,
+      "exportedPath": "pages/static/js/excalidraw-assets/Cascadia.woff2",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/vendor-52b1f3361986b6c6a4fe.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 87807,
+      "exportedPath": "pages/static/js/excalidraw-assets/vendor-52b1f3361986b6c6a4fe.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/vendor-52b1f3361986b6c6a4fe.js.LICENSE.txt": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 109,
+      "exportedPath": "pages/static/js/excalidraw-assets/vendor-52b1f3361986b6c6a4fe.js.LICENSE.txt",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw-assets/Virgil.woff2": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 61248,
+      "exportedPath": "pages/static/js/excalidraw-assets/Virgil.woff2",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/78-EUC-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 2404,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/78-EUC-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/78-EUC-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 173,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/78-EUC-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/78-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 2379,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/78-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/78-RKSJ-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 2398,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/78-RKSJ-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/78-RKSJ-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 173,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/78-RKSJ-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/78-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 169,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/78-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/78ms-RKSJ-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 2651,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/78ms-RKSJ-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/78ms-RKSJ-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 290,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/78ms-RKSJ-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/83pv-RKSJ-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 905,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/83pv-RKSJ-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/90ms-RKSJ-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 721,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/90ms-RKSJ-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/90ms-RKSJ-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 290,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/90ms-RKSJ-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/90msp-RKSJ-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 715,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/90msp-RKSJ-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/90msp-RKSJ-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 291,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/90msp-RKSJ-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/90pv-RKSJ-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 982,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/90pv-RKSJ-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/90pv-RKSJ-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 260,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/90pv-RKSJ-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/Add-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 2419,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/Add-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/Add-RKSJ-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 2413,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/Add-RKSJ-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/Add-RKSJ-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 287,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/Add-RKSJ-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/Add-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 282,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/Add-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/Adobe-CNS1-0.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 317,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/Adobe-CNS1-0.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/Adobe-CNS1-1.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 371,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/Adobe-CNS1-1.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/Adobe-CNS1-2.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 376,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/Adobe-CNS1-2.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/Adobe-CNS1-3.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 401,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/Adobe-CNS1-3.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/Adobe-CNS1-4.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 405,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/Adobe-CNS1-4.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/Adobe-CNS1-5.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 406,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/Adobe-CNS1-5.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/Adobe-CNS1-6.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 406,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/Adobe-CNS1-6.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/Adobe-CNS1-UCS2.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 41193,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/Adobe-CNS1-UCS2.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/Adobe-GB1-0.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 217,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/Adobe-GB1-0.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/Adobe-GB1-1.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 250,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/Adobe-GB1-1.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/Adobe-GB1-2.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 465,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/Adobe-GB1-2.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/Adobe-GB1-3.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 470,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/Adobe-GB1-3.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/Adobe-GB1-4.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 601,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/Adobe-GB1-4.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/Adobe-GB1-5.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 625,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/Adobe-GB1-5.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/Adobe-GB1-UCS2.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 33974,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/Adobe-GB1-UCS2.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/Adobe-Japan1-0.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 225,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/Adobe-Japan1-0.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/Adobe-Japan1-1.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 226,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/Adobe-Japan1-1.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/Adobe-Japan1-2.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 233,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/Adobe-Japan1-2.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/Adobe-Japan1-3.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 242,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/Adobe-Japan1-3.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/Adobe-Japan1-4.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 337,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/Adobe-Japan1-4.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/Adobe-Japan1-5.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 430,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/Adobe-Japan1-5.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/Adobe-Japan1-6.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 485,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/Adobe-Japan1-6.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/Adobe-Japan1-UCS2.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 40951,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/Adobe-Japan1-UCS2.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/Adobe-Korea1-0.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 241,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/Adobe-Korea1-0.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/Adobe-Korea1-1.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 386,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/Adobe-Korea1-1.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/Adobe-Korea1-2.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 391,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/Adobe-Korea1-2.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/Adobe-Korea1-UCS2.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 23293,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/Adobe-Korea1-UCS2.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/B5-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1086,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/B5-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/B5-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 142,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/B5-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/B5pc-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1099,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/B5pc-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/B5pc-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 144,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/B5pc-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/CNS-EUC-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1780,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/CNS-EUC-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/CNS-EUC-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1920,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/CNS-EUC-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/CNS1-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 706,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/CNS1-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/CNS1-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 143,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/CNS1-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/CNS2-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 504,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/CNS2-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/CNS2-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 93,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/CNS2-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/ETen-B5-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1125,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/ETen-B5-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/ETen-B5-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 158,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/ETen-B5-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/ETenms-B5-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 101,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/ETenms-B5-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/ETenms-B5-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 172,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/ETenms-B5-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/ETHK-B5-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 4426,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/ETHK-B5-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/ETHK-B5-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 158,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/ETHK-B5-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/EUC-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 578,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/EUC-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/EUC-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 170,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/EUC-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/Ext-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 2536,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/Ext-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/Ext-RKSJ-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 2542,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/Ext-RKSJ-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/Ext-RKSJ-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 218,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/Ext-RKSJ-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/Ext-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 215,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/Ext-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/GB-EUC-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 549,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/GB-EUC-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/GB-EUC-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 179,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/GB-EUC-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/GB-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 528,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/GB-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/GB-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 175,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/GB-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/GBK-EUC-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 14692,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/GBK-EUC-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/GBK-EUC-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 180,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/GBK-EUC-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/GBK2K-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 19662,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/GBK2K-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/GBK2K-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 219,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/GBK2K-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/GBKp-EUC-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 14686,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/GBKp-EUC-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/GBKp-EUC-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 181,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/GBKp-EUC-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/GBpc-EUC-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 557,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/GBpc-EUC-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/GBpc-EUC-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 181,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/GBpc-EUC-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/GBT-EUC-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 7290,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/GBT-EUC-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/GBT-EUC-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 180,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/GBT-EUC-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/GBT-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 7269,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/GBT-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/GBT-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 176,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/GBT-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/GBTpc-EUC-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 7298,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/GBTpc-EUC-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/GBTpc-EUC-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 182,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/GBTpc-EUC-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 553,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/Hankaku.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 132,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/Hankaku.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/Hiragana.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 124,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/Hiragana.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/HKdla-B5-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 2654,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/HKdla-B5-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/HKdla-B5-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 148,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/HKdla-B5-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/HKdlb-B5-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 2414,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/HKdlb-B5-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/HKdlb-B5-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 148,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/HKdlb-B5-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/HKgccs-B5-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 2292,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/HKgccs-B5-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/HKgccs-B5-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 149,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/HKgccs-B5-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/HKm314-B5-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1772,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/HKm314-B5-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/HKm314-B5-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 149,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/HKm314-B5-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/HKm471-B5-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 2171,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/HKm471-B5-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/HKm471-B5-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 149,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/HKm471-B5-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/HKscs-B5-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 4437,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/HKscs-B5-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/HKscs-B5-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 159,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/HKscs-B5-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/Katakana.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 100,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/Katakana.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/KSC-EUC-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1848,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/KSC-EUC-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/KSC-EUC-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 164,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/KSC-EUC-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/KSC-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1831,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/KSC-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/KSC-Johab-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 16791,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/KSC-Johab-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/KSC-Johab-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 166,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/KSC-Johab-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/KSC-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 160,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/KSC-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/KSCms-UHC-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 2787,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/KSCms-UHC-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/KSCms-UHC-HW-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 2789,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/KSCms-UHC-HW-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/KSCms-UHC-HW-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 169,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/KSCms-UHC-HW-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/KSCms-UHC-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 166,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/KSCms-UHC-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/KSCpc-EUC-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 2024,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/KSCpc-EUC-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/KSCpc-EUC-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 166,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/KSCpc-EUC-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/LICENSE": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 2116,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/LICENSE/LICENSE.",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/NWP-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 2765,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/NWP-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/NWP-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 252,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/NWP-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/RKSJ-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 534,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/RKSJ-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/RKSJ-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 170,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/RKSJ-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/Roman.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 96,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/Roman.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniCNS-UCS2-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 48280,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniCNS-UCS2-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniCNS-UCS2-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 156,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniCNS-UCS2-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniCNS-UTF8-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 53629,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniCNS-UTF8-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniCNS-UTF8-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 157,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniCNS-UTF8-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniCNS-UTF16-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 50419,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniCNS-UTF16-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniCNS-UTF16-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 156,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniCNS-UTF16-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniCNS-UTF32-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 52679,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniCNS-UTF32-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniCNS-UTF32-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 160,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniCNS-UTF32-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniGB-UCS2-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 43366,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniGB-UCS2-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniGB-UCS2-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 193,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniGB-UCS2-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniGB-UTF8-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 46837,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniGB-UTF8-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniGB-UTF8-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 181,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniGB-UTF8-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniGB-UTF16-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 44086,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniGB-UTF16-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniGB-UTF16-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 178,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniGB-UTF16-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniGB-UTF32-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 45738,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniGB-UTF32-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniGB-UTF32-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 182,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniGB-UTF32-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniJIS-UCS2-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 25439,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniJIS-UCS2-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniJIS-UCS2-HW-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 119,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniJIS-UCS2-HW-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniJIS-UCS2-HW-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 680,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniJIS-UCS2-HW-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniJIS-UCS2-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 664,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniJIS-UCS2-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniJIS-UTF8-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 41695,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniJIS-UTF8-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniJIS-UTF8-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 678,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniJIS-UTF8-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniJIS-UTF16-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 39443,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniJIS-UTF16-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniJIS-UTF16-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 643,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniJIS-UTF16-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniJIS-UTF32-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 40539,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniJIS-UTF32-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniJIS-UTF32-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 677,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniJIS-UTF32-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniJIS2004-UTF8-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 41779,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniJIS2004-UTF8-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniJIS2004-UTF8-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 682,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniJIS2004-UTF8-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniJIS2004-UTF16-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 39534,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniJIS2004-UTF16-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniJIS2004-UTF16-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 647,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniJIS2004-UTF16-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniJIS2004-UTF32-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 40630,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniJIS2004-UTF32-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniJIS2004-UTF32-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 681,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniJIS2004-UTF32-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniJISPro-UCS2-HW-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 705,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniJISPro-UCS2-HW-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniJISPro-UCS2-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 689,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniJISPro-UCS2-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniJISPro-UTF8-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 726,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniJISPro-UTF8-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniJISX0213-UTF32-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 40517,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniJISX0213-UTF32-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniJISX0213-UTF32-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 684,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniJISX0213-UTF32-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniJISX02132004-UTF32-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 40608,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniJISX02132004-UTF32-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniJISX02132004-UTF32-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 688,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniJISX02132004-UTF32-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniKS-UCS2-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 25783,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniKS-UCS2-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniKS-UCS2-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 178,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniKS-UCS2-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniKS-UTF8-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 27790,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniKS-UTF8-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniKS-UTF8-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 169,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniKS-UTF8-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniKS-UTF16-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 26327,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniKS-UTF16-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniKS-UTF16-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 164,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniKS-UTF16-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniKS-UTF32-H.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 26451,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniKS-UTF32-H.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/UniKS-UTF32-V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 168,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/UniKS-UTF32-V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/V.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 166,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/V.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/cmaps/WP-Symbol.bcmap": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 179,
+      "exportedPath": "pages/static/js/pdfjs/cmaps/WP-Symbol.bcmap",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/pdf.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 448886,
+      "exportedPath": "pages/static/js/pdfjs/pdf.js",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/pdf_viewer.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 221514,
+      "exportedPath": "pages/static/js/pdfjs/pdf_viewer.js",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/pdf.worker.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 2017690,
+      "exportedPath": "pages/static/js/pdfjs/pdf.worker.js",
+      "dependencies": []
+    },
+    "pages/static/js/pdfjs/pdf.worker.min.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1052914,
+      "exportedPath": "pages/static/js/pdfjs/pdf.worker.min.js",
+      "dependencies": []
+    },
+    "pages/static/js/amplify.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 760522,
+      "exportedPath": "pages/static/js/amplify.js",
+      "dependencies": []
+    },
+    "pages/static/js/code-editor.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 990031,
+      "exportedPath": "pages/static/js/code-editor.js",
+      "dependencies": []
+    },
+    "pages/static/js/custom.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 0,
+      "exportedPath": "pages/static/js/custom.js",
+      "dependencies": []
+    },
+    "pages/static/js/excalidraw.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 851974,
+      "exportedPath": "pages/static/js/excalidraw.js",
+      "dependencies": []
+    },
+    "pages/static/js/highlight.min.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 96744,
+      "exportedPath": "pages/static/js/highlight.min.js",
+      "dependencies": []
+    },
+    "pages/static/js/html2canvas.min.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 198708,
+      "exportedPath": "pages/static/js/html2canvas.min.js",
+      "dependencies": []
+    },
+    "pages/static/js/interact.min.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 111347,
+      "exportedPath": "pages/static/js/interact.min.js",
+      "dependencies": []
+    },
+    "pages/static/js/katex.min.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 264762,
+      "exportedPath": "pages/static/js/katex.min.js",
+      "dependencies": []
+    },
+    "pages/static/js/lightning-fs.min.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 44469,
+      "exportedPath": "pages/static/js/lightning-fs.min.js",
+      "dependencies": []
+    },
+    "pages/static/js/lsplugin.core.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 108874,
+      "exportedPath": "pages/static/js/lsplugin.core.js",
+      "dependencies": []
+    },
+    "pages/static/js/lsplugin.core.js.LICENSE.txt": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 189,
+      "exportedPath": "pages/static/js/lsplugin.core.js.LICENSE.txt",
+      "dependencies": []
+    },
+    "pages/static/js/lsplugin.user.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 91843,
+      "exportedPath": "pages/static/js/lsplugin.user.js",
+      "dependencies": []
+    },
+    "pages/static/js/magic_portal.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 2569,
+      "exportedPath": "pages/static/js/magic_portal.js",
+      "dependencies": []
+    },
+    "pages/static/js/main.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 7187872,
+      "exportedPath": "pages/static/js/main.js",
+      "dependencies": []
+    },
+    "pages/static/js/manifest.edn": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 51227,
+      "exportedPath": "pages/static/js/manifest.edn",
+      "dependencies": []
+    },
+    "pages/static/js/marked.min.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 46705,
+      "exportedPath": "pages/static/js/marked.min.js",
+      "dependencies": []
+    },
+    "pages/static/js/mhchem.min.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 33766,
+      "exportedPath": "pages/static/js/mhchem.min.js",
+      "dependencies": []
+    },
+    "pages/static/js/module-loader.edn": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 307,
+      "exportedPath": "pages/static/js/module-loader.edn",
+      "dependencies": []
+    },
+    "pages/static/js/module-loader.json": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 311,
+      "exportedPath": "pages/static/js/module-loader.json",
+      "dependencies": []
+    },
+    "pages/static/js/photoswipe.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 53718,
+      "exportedPath": "pages/static/js/photoswipe.js",
+      "dependencies": []
+    },
+    "pages/static/js/preload.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 4612,
+      "exportedPath": "pages/static/js/preload.js",
+      "dependencies": []
+    },
+    "pages/static/js/reveal.min.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 126912,
+      "exportedPath": "pages/static/js/reveal.min.js",
+      "dependencies": []
+    },
+    "pages/static/js/shepherd.min.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 52562,
+      "exportedPath": "pages/static/js/shepherd.min.js",
+      "dependencies": []
+    },
+    "pages/static/js/swiped-events.min.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1817,
+      "exportedPath": "pages/static/js/swiped-events.min.js",
+      "dependencies": []
+    },
+    "pages/static/js/tabler.ext.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 39611,
+      "exportedPath": "pages/static/js/tabler.ext.js",
+      "dependencies": []
+    },
+    "pages/static/js/tabler.min.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1974410,
+      "exportedPath": "pages/static/js/tabler.min.js",
+      "dependencies": []
+    },
+    "pages/static/js/tldraw.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 644576,
+      "exportedPath": "pages/static/js/tldraw.js",
+      "dependencies": []
+    },
+    "pages/static/js/tldraw.js.map": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 5026195,
+      "exportedPath": "pages/static/js/tldraw.js.map",
+      "dependencies": []
+    },
+    "pages/static/js/worker.js": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1701,
+      "exportedPath": "pages/static/js/worker.js",
+      "dependencies": []
+    },
+    "pages/@Clustering ensemble via structured hypergraph learning.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 10049,
+      "exportedPath": "pages/@Clustering ensemble via structured hypergraph learning.html",
+      "dependencies": []
+    },
+    "pages/✅今天做了啥.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1,
+      "exportedPath": "pages/✅今天做了啥.html",
+      "dependencies": []
+    },
+    "pages/✈️蜕变.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1,
+      "exportedPath": "pages/✈️蜕变.html",
+      "dependencies": []
+    },
+    "pages/📖读书笔记.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 26,
+      "exportedPath": "pages/📖读书笔记.html",
+      "dependencies": []
+    },
+    "pages/😝一生准则.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 447,
+      "exportedPath": "pages/😝一生准则.html",
+      "dependencies": []
+    },
+    "pages/1.2统计学习的分类.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 480,
+      "exportedPath": "pages/1.2统计学习的分类.html",
+      "dependencies": []
+    },
+    "pages/1.3统计学习方法三要素.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1927,
+      "exportedPath": "pages/1.3统计学习方法三要素.html",
+      "dependencies": []
+    },
+    "pages/404.html": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1875,
+      "exportedPath": "pages/404.html",
+      "dependencies": []
+    },
+    "pages/2024.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 95,
+      "exportedPath": "pages/2024.html",
+      "dependencies": []
+    },
+    "pages/2024-1.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1641,
+      "exportedPath": "pages/2024-1.html",
+      "dependencies": []
+    },
+    "pages/2024-2.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 96,
+      "exportedPath": "pages/2024-2.html",
+      "dependencies": []
+    },
+    "pages/2024-3.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1335,
+      "exportedPath": "pages/2024-3.html",
+      "dependencies": []
+    },
+    "pages/第三大的数.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1584,
+      "exportedPath": "pages/第三大的数.html",
+      "dependencies": []
+    },
+    "pages/读论文现行最终版.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1745,
+      "exportedPath": "pages/读论文现行最终版.html",
+      "dependencies": []
+    },
+    "pages/读论文准则.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 280,
+      "exportedPath": "pages/读论文准则.html",
+      "dependencies": []
+    },
+    "pages/对比图.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 46,
+      "exportedPath": "pages/对比图.html",
+      "dependencies": []
+    },
+    "pages/对比学习.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 8789,
+      "exportedPath": "pages/对比学习.html",
+      "dependencies": []
+    },
+    "pages/多元线性回归.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 121,
+      "exportedPath": "pages/多元线性回归.html",
+      "dependencies": []
+    },
+    "pages/二进制求和.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 977,
+      "exportedPath": "pages/二进制求和.html",
+      "dependencies": []
+    },
+    "pages/基础概念.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 0,
+      "exportedPath": "pages/基础概念.html",
+      "dependencies": []
+    },
+    "pages/技术清单.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 0,
+      "exportedPath": "pages/技术清单.html",
+      "dependencies": []
+    },
+    "pages/监督学习和非监督学习.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 178,
+      "exportedPath": "pages/监督学习和非监督学习.html",
+      "dependencies": []
+    },
+    "pages/练字.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 285,
+      "exportedPath": "pages/练字.html",
+      "dependencies": []
+    },
+    "pages/六级冲冲冲.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 492,
+      "exportedPath": "pages/六级冲冲冲.html",
+      "dependencies": []
+    },
+    "pages/论文.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 118,
+      "exportedPath": "pages/论文.html",
+      "dependencies": []
+    },
+    "pages/论文目录.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 49,
+      "exportedPath": "pages/论文目录.html",
+      "dependencies": []
+    },
+    "pages/模型测试.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 17,
+      "exportedPath": "pages/模型测试.html",
+      "dependencies": []
+    },
+    "pages/目录测试.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 3,
+      "exportedPath": "pages/目录测试.html",
+      "dependencies": []
+    },
+    "pages/钱伟长谈学习方法.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 23285,
+      "exportedPath": "pages/钱伟长谈学习方法.html",
+      "dependencies": []
+    },
+    "pages/强化学习.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 348,
+      "exportedPath": "pages/强化学习.html",
+      "dependencies": []
+    },
+    "pages/强化学习dbscan.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 171,
+      "exportedPath": "pages/强化学习dbscan.html",
+      "dependencies": []
+    },
+    "pages/如何读论文.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1727,
+      "exportedPath": "pages/如何读论文.html",
+      "dependencies": []
+    },
+    "pages/如何读论文（初期.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 549,
+      "exportedPath": "pages/如何读论文（初期.html",
+      "dependencies": []
+    },
+    "pages/深度学习.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 14,
+      "exportedPath": "pages/深度学习.html",
+      "dependencies": []
+    },
+    "pages/深度学习部分.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 20,
+      "exportedPath": "pages/深度学习部分.html",
+      "dependencies": []
+    },
+    "pages/深度学习算法课.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 384,
+      "exportedPath": "pages/深度学习算法课.html",
+      "dependencies": []
+    },
+    "pages/生词库.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 87,
+      "exportedPath": "pages/生词库.html",
+      "dependencies": []
+    },
+    "pages/数据的定义.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 776,
+      "exportedPath": "pages/数据的定义.html",
+      "dependencies": []
+    },
+    "pages/数组.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 55,
+      "exportedPath": "pages/数组.html",
+      "dependencies": []
+    },
+    "pages/统计学习方法.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 41,
+      "exportedPath": "pages/统计学习方法.html",
+      "dependencies": []
+    },
+    "pages/统计学习及监督学习概论.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 89,
+      "exportedPath": "pages/统计学习及监督学习概论.html",
+      "dependencies": []
+    },
+    "pages/我的笔记.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1600,
+      "exportedPath": "pages/我的笔记.html",
+      "dependencies": []
+    },
+    "pages/细碎技巧.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 42,
+      "exportedPath": "pages/细碎技巧.html",
+      "dependencies": []
+    },
+    "pages/小土堆.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 25,
+      "exportedPath": "pages/小土堆.html",
+      "dependencies": []
+    },
+    "pages/学术英语写作.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 189,
+      "exportedPath": "pages/学术英语写作.html",
+      "dependencies": []
+    },
+    "pages/学习琐碎.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 14,
+      "exportedPath": "pages/学习琐碎.html",
+      "dependencies": []
+    },
+    "pages/研一课程.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 693,
+      "exportedPath": "pages/研一课程.html",
+      "dependencies": []
+    },
+    "pages/研一论文准备工作.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 113,
+      "exportedPath": "pages/研一论文准备工作.html",
+      "dependencies": []
+    },
+    "pages/一路上遇到的问题.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 521,
+      "exportedPath": "pages/一路上遇到的问题.html",
+      "dependencies": []
+    },
+    "pages/一生目录.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 556,
+      "exportedPath": "pages/一生目录.html",
+      "dependencies": []
+    },
+    "pages/用mobilenet做人脸识别大作业.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 95,
+      "exportedPath": "pages/用mobilenet做人脸识别大作业.html",
+      "dependencies": []
+    },
+    "pages/周报.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 58,
+      "exportedPath": "pages/周报.html",
+      "dependencies": []
+    },
+    "pages/周报与月报.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 27,
+      "exportedPath": "pages/周报与月报.html",
+      "dependencies": []
+    },
+    "pages/注意力机制.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 119,
+      "exportedPath": "pages/注意力机制.html",
+      "dependencies": []
+    },
+    "pages/字符串.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 21,
+      "exportedPath": "pages/字符串.html",
+      "dependencies": []
+    },
+    "pages/最短无序连续子数组.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1585,
+      "exportedPath": "pages/最短无序连续子数组.html",
+      "dependencies": []
+    },
+    "pages/A Survey of Deep Graph Clustering%3A Taxonomy, Challenge, Application, and Open Resource.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 2609,
+      "exportedPath": "pages/A Survey of Deep Graph Clustering%3A Taxonomy, Challenge, Application, and Open Resource.html",
+      "dependencies": []
+    },
+    "pages/Adaptive Graph Encoder for Attributed Graph Embedding.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 104,
+      "exportedPath": "pages/Adaptive Graph Encoder for Attributed Graph Embedding.html",
+      "dependencies": []
+    },
+    "pages/CNN学习.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 2660,
+      "exportedPath": "pages/CNN学习.html",
+      "dependencies": []
+    },
+    "pages/CommDGI.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 35568,
+      "exportedPath": "pages/CommDGI.html",
+      "dependencies": []
+    },
+    "pages/contents.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 741,
+      "exportedPath": "pages/contents.html",
+      "dependencies": []
+    },
+    "pages/contrastive cluster.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1861,
+      "exportedPath": "pages/contrastive cluster.html",
+      "dependencies": []
+    },
+    "pages/desktop.ini": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 46,
+      "exportedPath": "pages/desktop.ini",
+      "dependencies": []
+    },
+    "pages/Detecting review spammer groups based on generative adversarial networks.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 176,
+      "exportedPath": "pages/Detecting review spammer groups based on generative adversarial networks.html",
+      "dependencies": []
+    },
+    "pages/gcn cluster dict.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 50868,
+      "exportedPath": "pages/gcn cluster dict.html",
+      "dependencies": []
+    },
+    "pages/gpu加速.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 314,
+      "exportedPath": "pages/gpu加速.html",
+      "dependencies": []
+    },
+    "pages/hls__32、统计学习方法李航(非扫描版)_1687258339492_0.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 0,
+      "exportedPath": "pages/hls__32、统计学习方法李航(非扫描版)_1687258339492_0.html",
+      "dependencies": []
+    },
+    "pages/hls__32、统计学习方法李航(非扫描版)_1695796968944_0.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1265,
+      "exportedPath": "pages/hls__32、统计学习方法李航(非扫描版)_1695796968944_0.html",
+      "dependencies": []
+    },
+    "pages/hls__第二节讲义_1682136737988_0.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1698,
+      "exportedPath": "pages/hls__第二节讲义_1682136737988_0.html",
+      "dependencies": []
+    },
+    "pages/index.html": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 4898,
+      "exportedPath": "pages/index.html",
+      "dependencies": []
+    },
+    "pages/leetcode.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 30,
+      "exportedPath": "pages/leetcode.html",
+      "dependencies": []
+    },
+    "pages/MIM高频与对比学习.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 248,
+      "exportedPath": "pages/MIM高频与对比学习.html",
+      "dependencies": []
+    },
+    "pages/mocov1.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 524,
+      "exportedPath": "pages/mocov1.html",
+      "dependencies": []
+    },
+    "pages/Neural Network Diffusion.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 439,
+      "exportedPath": "pages/Neural Network Diffusion.html",
+      "dependencies": []
+    },
+    "pages/Notes.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 3,
+      "exportedPath": "pages/Notes.html",
+      "dependencies": []
+    },
+    "pages/Numpy.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1070,
+      "exportedPath": "pages/Numpy.html",
+      "dependencies": []
+    },
+    "pages/Pandas.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 2435,
+      "exportedPath": "pages/Pandas.html",
+      "dependencies": []
+    },
+    "pages/pdf.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 251,
+      "exportedPath": "pages/pdf.html",
+      "dependencies": []
+    },
+    "pages/pycharm常用快捷键.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 212,
+      "exportedPath": "pages/pycharm常用快捷键.html",
+      "dependencies": []
+    },
+    "pages/python学习.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 935,
+      "exportedPath": "pages/python学习.html",
+      "dependencies": []
+    },
+    "pages/pytorch.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 4251,
+      "exportedPath": "pages/pytorch.html",
+      "dependencies": []
+    },
+    "pages/sparse_mx.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 445,
+      "exportedPath": "pages/sparse_mx.html",
+      "dependencies": []
+    },
+    "pages/swav.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1707,
+      "exportedPath": "pages/swav.html",
+      "dependencies": []
+    },
+    "pages/tqdm.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 287,
+      "exportedPath": "pages/tqdm.html",
+      "dependencies": []
+    },
+    "pages/vscode代码标签准则.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 80,
+      "exportedPath": "pages/vscode代码标签准则.html",
+      "dependencies": []
+    },
+    "pages/yolov5学习.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 216,
+      "exportedPath": "pages/yolov5学习.html",
+      "dependencies": []
+    },
+    "pages/zotero读论文准则.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 208,
+      "exportedPath": "pages/zotero读论文准则.html",
+      "dependencies": []
+    },
+    "tags/tag.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 33,
+      "exportedPath": "tags/tag.html",
+      "dependencies": []
+    },
+    "whiteboards/64436310-b904-4361-bf83-38ab44f27155.edn": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 2698293,
+      "exportedPath": "whiteboards/64436310-b904-4361-bf83-38ab44f27155.edn",
+      "dependencies": []
+    },
+    "whiteboards/学习.edn": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 8635,
+      "exportedPath": "whiteboards/学习.edn",
+      "dependencies": []
+    },
+    "check-new-release.mjs": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1359,
+      "exportedPath": "check-new-release.mjs",
+      "dependencies": []
+    },
+    "index.md": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 539,
+      "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Zero.woff": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/MathJax_Zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Regular.woff": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/MathJax_Main-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Bold.woff": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/MathJax_Main-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Math-Italic.woff": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/MathJax_Math-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Italic.woff": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/MathJax_Main-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Math-BoldItalic.woff": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/MathJax_Math-BoldItalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size1-Regular.woff": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/MathJax_Size1-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size2-Regular.woff": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/MathJax_Size2-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size3-Regular.woff": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/MathJax_Size3-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size4-Regular.woff": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/MathJax_Size4-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_AMS-Regular.woff": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/MathJax_AMS-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Calligraphic-Regular.woff": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/MathJax_Calligraphic-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Calligraphic-Bold.woff": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/MathJax_Calligraphic-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Fraktur-Regular.woff": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/MathJax_Fraktur-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Fraktur-Bold.woff": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/MathJax_Fraktur-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Regular.woff": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Bold.woff": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Italic.woff": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Script-Regular.woff": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/MathJax_Script-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Typewriter-Regular.woff": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/MathJax_Typewriter-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Vector-Regular.woff": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/MathJax_Vector-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Vector-Bold.woff": {
+      "modifiedTime": 1709695189033,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/MathJax_Vector-Bold.woff",
+      "dependencies": []
+    }
+  }
+}
