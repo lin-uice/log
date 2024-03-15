@@ -1,0 +1,2823 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "a64568a0-38e9-45fc-a283-1fa1ab4f9d05",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "year",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "64d89378-7c97-47dd-b341-e429af53eca5",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "papaer",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "69312c8c-040f-47a2-99f4-3d5f6e15742d",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "venue",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "de8b20ff-ce50-4429-bedd-1c13def63f81",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "paper",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "7017fbb4-1fe0-42c2-9a03-e1fc3836aca7",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "code",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "9e84035a-98b4-4f60-b944-6b7c8ea05bd4",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "tag",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "download",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [
+          {
+            "id": "563a3846-3cce-4e5a-885c-76c9dbf46387",
+            "content": "T",
+            "color": "green"
+          },
+          {
+            "id": "53c1b0ae-294a-41c4-8288-16eaf2fa0b8f",
+            "content": "F",
+            "color": "brown"
+          },
+          {
+            "id": "ac182508-7de6-4380-9a1a-f0e8e9f7eda2",
+            "content": "N",
+            "color": "gray"
+          }
+        ],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "6be9fdb4-3125-4704-b5f8-b0f5fe73975a",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "multi-tag",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "important?",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [
+          {
+            "id": "f8f4554e-33d2-4008-a84d-c17dfd3a4ce7",
+            "content": "⭐️⭐️⭐️",
+            "color": "green"
+          },
+          {
+            "id": "f205acdd-3650-4881-beb8-1abaee3d76e8",
+            "content": "🚩",
+            "color": "gray"
+          },
+          {
+            "id": "add99341-4caa-4292-92ab-4ff6ef97f0a0",
+            "content": "💡",
+            "color": "pink"
+          },
+          {
+            "id": "7ff20a03-4bb5-410a-883d-23c655b5bf3d",
+            "content": "⭐️",
+            "color": "blue"
+          },
+          {
+            "id": "367e3402-600c-4c55-9537-9c9b52912d8f",
+            "content": "⭐️⭐️",
+            "color": "gray"
+          }
+        ],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "97d7d98c-7371-42a0-98d9-50fea6727efa",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "tag",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "readed?",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": false,
+        "tags": [
+          {
+            "id": "de8b8a9e-5da4-4ca4-8976-d0975f92f6e4",
+            "content": "reading",
+            "color": "blue"
+          },
+          {
+            "id": "cd354652-0735-4a21-8691-f7be5e19cf89",
+            "content": "readed",
+            "color": "red"
+          }
+        ],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "2915ed94-9d85-47a9-b54b-85ad7b1537f8",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "tag",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "on time",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [
+          {
+            "id": "b8d9691e-d288-4a28-9219-73c4ab4acca4",
+            "content": "time-out😢",
+            "color": "red"
+          },
+          {
+            "id": "270fdd37-cdcd-42fc-9153-d110b4f52835",
+            "content": "on-time🥰",
+            "color": "gray"
+          }
+        ],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "a7ccde2c-306b-41b3-ac26-9261beed5678",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "笔记",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      }
+    ],
+    "rows": [
+      {
+        "id": "0526cd5b-b627-4169-8b5a-c8f500d17d58",
+        "index": 0,
+        "sourceId": null,
+        "creationDateTime": "2024-03-13T07:41:07.708Z",
+        "lastEditedDateTime": "2024-03-13T07:50:29.788Z",
+        "cells": [
+          {
+            "id": "d3e1bb38-cf0e-4c9c-b50c-1199f6bc531c",
+            "columnId": "a64568a0-38e9-45fc-a283-1fa1ab4f9d05",
+            "content": "2023",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "122a1dfe-e2d6-4f4c-92f1-da560cf57000",
+            "columnId": "64d89378-7c97-47dd-b341-e429af53eca5",
+            "content": "A Survey of Deep Graph Clustering: Taxonomy, Challenge, Application, and Open Resource",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "73da1cff-e62a-4eb3-bdf7-291f8063362d",
+            "columnId": "69312c8c-040f-47a2-99f4-3d5f6e15742d",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3eda24fe-e57a-43e6-a63f-2ecace058913",
+            "columnId": "de8b20ff-ce50-4429-bedd-1c13def63f81",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a2bb379e-6e18-4bf4-922c-914cf26116d1",
+            "columnId": "7017fbb4-1fe0-42c2-9a03-e1fc3836aca7",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "200dd60b-82f9-48e0-a8df-58d015107f2c",
+            "columnId": "9e84035a-98b4-4f60-b944-6b7c8ea05bd4",
+            "tagId": "563a3846-3cce-4e5a-885c-76c9dbf46387",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d78c4975-4a38-437b-886e-44f3b1e7348a",
+            "columnId": "6be9fdb4-3125-4704-b5f8-b0f5fe73975a",
+            "tagIds": [],
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d60a380d-8c76-48c0-b5bd-682fc7a3aaa5",
+            "columnId": "97d7d98c-7371-42a0-98d9-50fea6727efa",
+            "tagId": "cd354652-0735-4a21-8691-f7be5e19cf89",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a9998109-cd21-4c1a-acb6-326c3a98a6f3",
+            "columnId": "2915ed94-9d85-47a9-b54b-85ad7b1537f8",
+            "tagId": "b8d9691e-d288-4a28-9219-73c4ab4acca4",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e6032286-d379-464f-bc36-09c58ec31607",
+            "columnId": "a7ccde2c-306b-41b3-ac26-9261beed5678",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "160e1b16-fc7f-485e-a566-a89107066bd4",
+        "index": 1,
+        "sourceId": null,
+        "creationDateTime": "2024-03-13T07:41:07.708Z",
+        "lastEditedDateTime": "2024-03-13T07:43:02.369Z",
+        "cells": [
+          {
+            "id": "7fc239d1-898e-4412-a2f3-a2876d4bde77",
+            "columnId": "a64568a0-38e9-45fc-a283-1fa1ab4f9d05",
+            "content": "2024",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "81d44e4d-ee99-431e-a0c2-b0f2b66690e0",
+            "columnId": "64d89378-7c97-47dd-b341-e429af53eca5",
+            "content": "Contrastive Deep Nonnegative Matrix Factorization for\nCommunity Detection (CDNMF)",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e776a52b-fa28-4610-9ae7-8ffb8ede38d9",
+            "columnId": "69312c8c-040f-47a2-99f4-3d5f6e15742d",
+            "content": "ICASSP",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4cf01848-6cdc-477d-bfd6-b3e63fd82ab6",
+            "columnId": "de8b20ff-ce50-4429-bedd-1c13def63f81",
+            "content": "https://arxiv.org/abs/2311.02357",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1f849f63-5880-4e33-8fdd-b27d907f77e8",
+            "columnId": "7017fbb4-1fe0-42c2-9a03-e1fc3836aca7",
+            "content": "https://github.com/6lyc/CDNMF",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9e5a95fe-bf34-493d-9e72-76b08a44d124",
+            "columnId": "9e84035a-98b4-4f60-b944-6b7c8ea05bd4",
+            "tagId": "563a3846-3cce-4e5a-885c-76c9dbf46387",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1b2c6205-927b-438e-a670-eab5c080ea49",
+            "columnId": "6be9fdb4-3125-4704-b5f8-b0f5fe73975a",
+            "tagIds": [],
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6cdb0692-f90a-4a9b-8d4a-a7c01d57cba8",
+            "columnId": "97d7d98c-7371-42a0-98d9-50fea6727efa",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6820ad6c-a934-48d7-a48c-c344c2a7f425",
+            "columnId": "2915ed94-9d85-47a9-b54b-85ad7b1537f8",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8258f70c-1b94-4ab0-9545-b2b8cd5068ea",
+            "columnId": "a7ccde2c-306b-41b3-ac26-9261beed5678",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "b7a134ab-d777-450e-8b3a-dfe1702b46a8",
+        "index": 2,
+        "sourceId": null,
+        "creationDateTime": "2024-03-13T07:41:07.708Z",
+        "lastEditedDateTime": "2024-03-13T07:44:49.779Z",
+        "cells": [
+          {
+            "id": "6529216d-a5fc-4ad7-abd3-07a22b5de7c3",
+            "columnId": "a64568a0-38e9-45fc-a283-1fa1ab4f9d05",
+            "content": "2023",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "dd9550e6-5571-48b0-8b3c-58094784cfcd",
+            "columnId": "64d89378-7c97-47dd-b341-e429af53eca5",
+            "content": "A Contrastive Variational Graph Auto-Encoder for Node\nClustering (CVGAE)",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "18edd0d4-f11f-45c7-a55a-47728bd928fb",
+            "columnId": "69312c8c-040f-47a2-99f4-3d5f6e15742d",
+            "content": "PR",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d5f1cb70-cb4a-41cf-9616-2b45ad0a831d",
+            "columnId": "de8b20ff-ce50-4429-bedd-1c13def63f81",
+            "content": "https://www.sciencedirect.com/science/article/abs/pii/S0031320323009068",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "733559f4-2666-435a-ab8c-55c6d2054482",
+            "columnId": "7017fbb4-1fe0-42c2-9a03-e1fc3836aca7",
+            "content": "https://github.com/nairouz/CVGAE_PR",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "058cbe3b-b44a-4b79-9db0-cdb3052d62d0",
+            "columnId": "9e84035a-98b4-4f60-b944-6b7c8ea05bd4",
+            "tagId": "53c1b0ae-294a-41c4-8288-16eaf2fa0b8f",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d2808eb9-1458-4514-a24d-348bb4555ace",
+            "columnId": "6be9fdb4-3125-4704-b5f8-b0f5fe73975a",
+            "tagIds": [],
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1528b63b-221e-4d34-b788-7b4658a810cb",
+            "columnId": "97d7d98c-7371-42a0-98d9-50fea6727efa",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "957a586d-e467-493f-88dc-81afb1a85060",
+            "columnId": "2915ed94-9d85-47a9-b54b-85ad7b1537f8",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2523de76-c4a4-4b76-8e64-f16219fb5b03",
+            "columnId": "a7ccde2c-306b-41b3-ac26-9261beed5678",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "057b4068-f5ff-4beb-9411-2a2a78596e3e",
+        "index": 3,
+        "sourceId": null,
+        "creationDateTime": "2024-03-13T07:41:07.708Z",
+        "lastEditedDateTime": "2024-03-13T07:44:57.812Z",
+        "cells": [
+          {
+            "id": "b7fc02b8-7e00-4f75-bfa2-264708178180",
+            "columnId": "a64568a0-38e9-45fc-a283-1fa1ab4f9d05",
+            "content": "2023",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2f55b5b1-321a-4f8d-a630-7cf9a3e50dc2",
+            "columnId": "64d89378-7c97-47dd-b341-e429af53eca5",
+            "content": "Dual Contrastive Learning Network for Graph\nClustering",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4c18ecc0-dac4-41fa-81b5-016afc6e9033",
+            "columnId": "69312c8c-040f-47a2-99f4-3d5f6e15742d",
+            "content": "TNNLS",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "be58107b-1e9b-43a1-8bf6-5104d4a0d3ec",
+            "columnId": "de8b20ff-ce50-4429-bedd-1c13def63f81",
+            "content": "https://ieeexplore.ieee.org/abstract/document/10097557",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "25378a8d-ca75-45aa-b9e3-a12098d3ab7a",
+            "columnId": "7017fbb4-1fe0-42c2-9a03-e1fc3836aca7",
+            "content": "https://github.com/XinPeng97/TNNLS_DCLN",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "975e4deb-d304-4a80-8962-d5c2b281183d",
+            "columnId": "9e84035a-98b4-4f60-b944-6b7c8ea05bd4",
+            "tagId": "563a3846-3cce-4e5a-885c-76c9dbf46387",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5aaa3db4-5352-41f4-989e-b453d19d70f6",
+            "columnId": "6be9fdb4-3125-4704-b5f8-b0f5fe73975a",
+            "tagIds": [],
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "75eefdb2-674e-4050-bc89-1ab3f3cbec29",
+            "columnId": "97d7d98c-7371-42a0-98d9-50fea6727efa",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3433da80-876a-4d57-b2a1-0f0e1f8e9d6b",
+            "columnId": "2915ed94-9d85-47a9-b54b-85ad7b1537f8",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ddeb3f2a-095c-4dd8-a61c-a1b1f05d9652",
+            "columnId": "a7ccde2c-306b-41b3-ac26-9261beed5678",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "8bbf8572-6c67-4a81-9df8-25df1fb97ada",
+        "index": 4,
+        "sourceId": null,
+        "creationDateTime": "2024-03-13T07:41:07.708Z",
+        "lastEditedDateTime": "2024-03-13T07:45:01.432Z",
+        "cells": [
+          {
+            "id": "0986cbb3-8a36-448c-b965-2454748c5647",
+            "columnId": "a64568a0-38e9-45fc-a283-1fa1ab4f9d05",
+            "content": "2023",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2c7ede8b-231d-41bd-9509-91dc9b2c08c2",
+            "columnId": "64d89378-7c97-47dd-b341-e429af53eca5",
+            "content": "Contrastive Learning with Cluster-Preserving Augmentation\nfor Attributed Graph Clustering",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a5f91037-d91b-441d-b183-9731b9dfacf1",
+            "columnId": "69312c8c-040f-47a2-99f4-3d5f6e15742d",
+            "content": "ECML-PKDD",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8c5b9251-0fda-4401-808b-fbe63f5e1755",
+            "columnId": "de8b20ff-ce50-4429-bedd-1c13def63f81",
+            "content": "https://link.springer.com/chapter/10.1007/978-3-031-43412-9_38",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6083787b-48c4-4fa6-b517-9f551e4a6b11",
+            "columnId": "7017fbb4-1fe0-42c2-9a03-e1fc3836aca7",
+            "content": "-",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6baa4400-030a-4f16-b770-a38190fec89e",
+            "columnId": "9e84035a-98b4-4f60-b944-6b7c8ea05bd4",
+            "tagId": "53c1b0ae-294a-41c4-8288-16eaf2fa0b8f",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5e8de259-c863-465b-907c-64eb2a6d880d",
+            "columnId": "6be9fdb4-3125-4704-b5f8-b0f5fe73975a",
+            "tagIds": [],
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5dc0f595-d5ec-4832-bdff-abcf1489cf46",
+            "columnId": "97d7d98c-7371-42a0-98d9-50fea6727efa",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9ee7dccf-1b7a-4ba8-82d9-607adc83dc62",
+            "columnId": "2915ed94-9d85-47a9-b54b-85ad7b1537f8",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5f9a5717-779e-413b-bd26-26fade4c2b63",
+            "columnId": "a7ccde2c-306b-41b3-ac26-9261beed5678",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "03ad12bb-049d-4355-b16e-cc3e607343d8",
+        "index": 5,
+        "sourceId": null,
+        "creationDateTime": "2024-03-13T07:41:07.708Z",
+        "lastEditedDateTime": "2024-03-13T07:45:06.034Z",
+        "cells": [
+          {
+            "id": "fa65e976-61e9-41e8-bbab-2cc04c33d7f5",
+            "columnId": "a64568a0-38e9-45fc-a283-1fa1ab4f9d05",
+            "content": "2023",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "190846d7-a180-49b8-b2e6-d4ae7ccf168b",
+            "columnId": "64d89378-7c97-47dd-b341-e429af53eca5",
+            "content": "Graph Contrastive Representation Learning with Input-Aware\nand Cluster-Aware Regularization",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "fa799d3a-36d5-4a35-9767-7b113dcb804e",
+            "columnId": "69312c8c-040f-47a2-99f4-3d5f6e15742d",
+            "content": "ECML-PKDD",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d2fc5afb-9b57-440a-88d9-f3f8ab3125ce",
+            "columnId": "de8b20ff-ce50-4429-bedd-1c13def63f81",
+            "content": "https://link.springer.com/chapter/10.1007/978-3-031-43415-0_39",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a6fc7f63-2a82-4d5e-bc46-0cb0fbe632ec",
+            "columnId": "7017fbb4-1fe0-42c2-9a03-e1fc3836aca7",
+            "content": "-",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a10ca067-3695-476b-a22f-ccfafdee6878",
+            "columnId": "9e84035a-98b4-4f60-b944-6b7c8ea05bd4",
+            "tagId": "53c1b0ae-294a-41c4-8288-16eaf2fa0b8f",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "997a0e59-409f-4367-a7f2-310b4273245a",
+            "columnId": "6be9fdb4-3125-4704-b5f8-b0f5fe73975a",
+            "tagIds": [],
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "05c1a5d3-b839-4d57-821d-4d75e0c62180",
+            "columnId": "97d7d98c-7371-42a0-98d9-50fea6727efa",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "50f43c40-c898-41f3-9190-a66ad1430420",
+            "columnId": "2915ed94-9d85-47a9-b54b-85ad7b1537f8",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "30f582db-1ad6-42bc-a13d-38a511117fe7",
+            "columnId": "a7ccde2c-306b-41b3-ac26-9261beed5678",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "48a21979-0fd1-4c87-aedd-b61d79a78f90",
+        "index": 6,
+        "sourceId": null,
+        "creationDateTime": "2024-03-13T07:41:07.708Z",
+        "lastEditedDateTime": "2024-03-13T07:45:33.992Z",
+        "cells": [
+          {
+            "id": "2bee5cd7-2d05-4d1a-9155-3059e77015e9",
+            "columnId": "a64568a0-38e9-45fc-a283-1fa1ab4f9d05",
+            "content": "2023",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9df367ae-02c0-4158-b2a6-efdeda8a13bc",
+            "columnId": "64d89378-7c97-47dd-b341-e429af53eca5",
+            "content": "Reinforcement Graph Clustering with Unknown Cluster Number\n(RGC)",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ed1263ea-9332-4d64-8a07-ee827136b660",
+            "columnId": "69312c8c-040f-47a2-99f4-3d5f6e15742d",
+            "content": "ACM MM",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d8765f60-d2ae-456f-aa04-cfda6277dc6b",
+            "columnId": "de8b20ff-ce50-4429-bedd-1c13def63f81",
+            "content": "https://arxiv.org/pdf/2308.06827",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "54f98abb-362f-4253-9b5e-2f2802cb39cc",
+            "columnId": "7017fbb4-1fe0-42c2-9a03-e1fc3836aca7",
+            "content": "https://github.com/yueliu1999/RGC",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "801af632-e80a-445d-aade-0a0f23d8e4e0",
+            "columnId": "9e84035a-98b4-4f60-b944-6b7c8ea05bd4",
+            "tagId": "563a3846-3cce-4e5a-885c-76c9dbf46387",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "89583aed-4b66-489d-a89c-6116b8b2d1f9",
+            "columnId": "6be9fdb4-3125-4704-b5f8-b0f5fe73975a",
+            "tagIds": [],
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "841447ad-ca64-4df0-8208-023da077f77d",
+            "columnId": "97d7d98c-7371-42a0-98d9-50fea6727efa",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0b3ee807-2442-468b-af59-164f6432cbf5",
+            "columnId": "2915ed94-9d85-47a9-b54b-85ad7b1537f8",
+            "tagId": "b8d9691e-d288-4a28-9219-73c4ab4acca4",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c16fddd6-242a-43e2-a4e7-4063e9516aed",
+            "columnId": "a7ccde2c-306b-41b3-ac26-9261beed5678",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "de37c30d-9aa1-4ef1-80ae-6b55c5d14351",
+        "index": 7,
+        "sourceId": null,
+        "creationDateTime": "2024-03-13T07:41:07.708Z",
+        "lastEditedDateTime": "2024-03-13T07:45:40.742Z",
+        "cells": [
+          {
+            "id": "26687e06-9a2d-433b-9aea-87c8d055ac19",
+            "columnId": "a64568a0-38e9-45fc-a283-1fa1ab4f9d05",
+            "content": "2023",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c83e5fc0-c8b2-4082-b25d-2c5c8dfa34b0",
+            "columnId": "64d89378-7c97-47dd-b341-e429af53eca5",
+            "content": "Self-Contrastive Graph Diffusion Network",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "138d04df-3916-4c94-91eb-6a25348857b8",
+            "columnId": "69312c8c-040f-47a2-99f4-3d5f6e15742d",
+            "content": "ACM MM",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "90781875-b4da-4161-9f05-1060216b55b5",
+            "columnId": "de8b20ff-ce50-4429-bedd-1c13def63f81",
+            "content": "https://arxiv.org/pdf/2307.14613.pdf",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "74b6e1e9-71d4-428f-b5b2-7464e9e23ba6",
+            "columnId": "7017fbb4-1fe0-42c2-9a03-e1fc3836aca7",
+            "content": "https://github.com/kunzhan/SCDGN",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "cfd04bc2-606a-428a-ba5d-df4b943c4baa",
+            "columnId": "9e84035a-98b4-4f60-b944-6b7c8ea05bd4",
+            "tagId": "563a3846-3cce-4e5a-885c-76c9dbf46387",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "94f6fe39-4458-476f-9be3-a32b6cfaa942",
+            "columnId": "6be9fdb4-3125-4704-b5f8-b0f5fe73975a",
+            "tagIds": [],
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ebb19582-80d1-4691-9ce5-be11b824d838",
+            "columnId": "97d7d98c-7371-42a0-98d9-50fea6727efa",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0d6f7cd4-abed-4a86-916b-8ebbe5308db6",
+            "columnId": "2915ed94-9d85-47a9-b54b-85ad7b1537f8",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "49d63826-dbb2-4afa-a401-5e67defee5cc",
+            "columnId": "a7ccde2c-306b-41b3-ac26-9261beed5678",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "7cbb8fb1-6550-4e99-bf15-50bb90b8e5e0",
+        "index": 8,
+        "sourceId": null,
+        "creationDateTime": "2024-03-13T07:41:07.708Z",
+        "lastEditedDateTime": "2024-03-13T07:45:43.797Z",
+        "cells": [
+          {
+            "id": "115b422f-3757-45ee-8d81-d4d3d87d6623",
+            "columnId": "a64568a0-38e9-45fc-a283-1fa1ab4f9d05",
+            "content": "2023",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "aa8f749e-4189-4914-be98-de3c2cab1484",
+            "columnId": "64d89378-7c97-47dd-b341-e429af53eca5",
+            "content": "CONVERT: Contrastive Graph Clustering with Reliable\nAugmentation (CONVERT)",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0f46159b-9010-4e03-be1f-5e12446aaa59",
+            "columnId": "69312c8c-040f-47a2-99f4-3d5f6e15742d",
+            "content": "ACM MM",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5cd93b5e-77a2-42d9-b04a-74d80da69ccd",
+            "columnId": "de8b20ff-ce50-4429-bedd-1c13def63f81",
+            "content": "https://arxiv.org/pdf/2308.08963.pdf",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "aedbef90-711b-4bec-a409-ebfccd3f7aee",
+            "columnId": "7017fbb4-1fe0-42c2-9a03-e1fc3836aca7",
+            "content": "https://github.com/xihongyang1999/CONVERT",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f90e67c7-5226-4fcf-8760-54c620f503cd",
+            "columnId": "9e84035a-98b4-4f60-b944-6b7c8ea05bd4",
+            "tagId": "563a3846-3cce-4e5a-885c-76c9dbf46387",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "00bbc039-d183-47f3-a469-a9cbb252332c",
+            "columnId": "6be9fdb4-3125-4704-b5f8-b0f5fe73975a",
+            "tagIds": [],
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a795bb3e-dbb5-42ce-b7d3-ebcdcb368b3a",
+            "columnId": "97d7d98c-7371-42a0-98d9-50fea6727efa",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "857d294f-aabb-42f5-a59e-e1c68eb85220",
+            "columnId": "2915ed94-9d85-47a9-b54b-85ad7b1537f8",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a10fad97-814f-491a-8c23-0457971ac3be",
+            "columnId": "a7ccde2c-306b-41b3-ac26-9261beed5678",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "15b17229-bd49-40f0-a54f-279f0dd0214d",
+        "index": 9,
+        "sourceId": null,
+        "creationDateTime": "2024-03-13T07:41:07.708Z",
+        "lastEditedDateTime": "2024-03-13T07:46:10.157Z",
+        "cells": [
+          {
+            "id": "6218b2dc-4d43-4cac-9a2b-76e07adf4e6a",
+            "columnId": "a64568a0-38e9-45fc-a283-1fa1ab4f9d05",
+            "content": "2023",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "fe636625-a234-472e-a5eb-e7dbec9a8d51",
+            "columnId": "64d89378-7c97-47dd-b341-e429af53eca5",
+            "content": "Attribute Graph Clustering via Learnable Augmentation\n(AGCLA)",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "89ec3dac-7d67-481a-b71e-b170946b0b30",
+            "columnId": "69312c8c-040f-47a2-99f4-3d5f6e15742d",
+            "content": "arXiv",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f13da7c9-f57c-4496-a48b-bc1fbf84ff82",
+            "columnId": "de8b20ff-ce50-4429-bedd-1c13def63f81",
+            "content": "https://arxiv.org/pdf/2212.03559.pdf",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "65d25ff4-544e-47f5-9e0c-b678436da495",
+            "columnId": "7017fbb4-1fe0-42c2-9a03-e1fc3836aca7",
+            "content": "-",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4c592efd-c2d2-47d3-9e83-0cc8a4b531e1",
+            "columnId": "9e84035a-98b4-4f60-b944-6b7c8ea05bd4",
+            "tagId": "53c1b0ae-294a-41c4-8288-16eaf2fa0b8f",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c6cf8a55-e721-4017-9b20-0dc4ef183f9b",
+            "columnId": "6be9fdb4-3125-4704-b5f8-b0f5fe73975a",
+            "tagIds": [],
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a8f3b83b-c52b-4937-9654-7bdd17e22d23",
+            "columnId": "97d7d98c-7371-42a0-98d9-50fea6727efa",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "31577641-242e-4095-a3ff-f53595feb498",
+            "columnId": "2915ed94-9d85-47a9-b54b-85ad7b1537f8",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "cfed90ac-ed7c-44bf-bebe-b98d3783c32d",
+            "columnId": "a7ccde2c-306b-41b3-ac26-9261beed5678",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "4ea1efb3-afcd-4152-9d4e-3040dda6e287",
+        "index": 10,
+        "sourceId": null,
+        "creationDateTime": "2024-03-13T07:41:07.708Z",
+        "lastEditedDateTime": "2024-03-13T07:46:13.573Z",
+        "cells": [
+          {
+            "id": "b38ddc9a-0948-4bc5-a348-6088c44fa18e",
+            "columnId": "a64568a0-38e9-45fc-a283-1fa1ab4f9d05",
+            "content": "2023",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d28142b5-c707-4b23-a7d8-56a02283aec7",
+            "columnId": "64d89378-7c97-47dd-b341-e429af53eca5",
+            "content": "CARL-G: Clustering-Accelerated Representation Learning on\nGraphs (CARL-G)",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e816ad71-f9e3-4a19-aeff-6faf4daa7621",
+            "columnId": "69312c8c-040f-47a2-99f4-3d5f6e15742d",
+            "content": "SIGKDD",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "17070092-f216-4752-bd5c-56faf735896b",
+            "columnId": "de8b20ff-ce50-4429-bedd-1c13def63f81",
+            "content": "https://arxiv.org/pdf/2306.06936.pdf",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4482f0ee-627b-42a9-8fb5-33f0edd2e8eb",
+            "columnId": "7017fbb4-1fe0-42c2-9a03-e1fc3836aca7",
+            "content": "-",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5a087949-dd61-41f3-88d0-3c95701cd9d6",
+            "columnId": "9e84035a-98b4-4f60-b944-6b7c8ea05bd4",
+            "tagId": "563a3846-3cce-4e5a-885c-76c9dbf46387",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ff66100e-164b-4186-b4b8-1970a44c9749",
+            "columnId": "6be9fdb4-3125-4704-b5f8-b0f5fe73975a",
+            "tagIds": [],
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a4fd2b02-0f82-4b63-bc96-d70ad150e408",
+            "columnId": "97d7d98c-7371-42a0-98d9-50fea6727efa",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f98aac0f-f436-44f9-938e-27e1027f2795",
+            "columnId": "2915ed94-9d85-47a9-b54b-85ad7b1537f8",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "fb7672de-deee-4cac-a57f-94d6bd47a44a",
+            "columnId": "a7ccde2c-306b-41b3-ac26-9261beed5678",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "2f20576f-7522-4b82-949a-06773aeefa61",
+        "index": 11,
+        "sourceId": null,
+        "creationDateTime": "2024-03-13T07:41:07.708Z",
+        "lastEditedDateTime": "2024-03-13T07:46:17.061Z",
+        "cells": [
+          {
+            "id": "bf6c6f0b-c505-40e5-a646-b6bb452f989b",
+            "columnId": "a64568a0-38e9-45fc-a283-1fa1ab4f9d05",
+            "content": "2023",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "268f7fb0-412c-4433-81c0-bac3eaf39129",
+            "columnId": "64d89378-7c97-47dd-b341-e429af53eca5",
+            "content": "Dink-Net: Neural Clustering on Large Graphs\n(Dink-Net)",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "353b36de-f3e3-4349-8f96-70d187344215",
+            "columnId": "69312c8c-040f-47a2-99f4-3d5f6e15742d",
+            "content": "ICML",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "431c0c24-7ed8-4a39-82bc-ddbd1ad7c8ea",
+            "columnId": "de8b20ff-ce50-4429-bedd-1c13def63f81",
+            "content": "https://arxiv.org/pdf/2305.18405.pdf",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "50fdf80d-3643-45bb-b7af-fb727ef0add0",
+            "columnId": "7017fbb4-1fe0-42c2-9a03-e1fc3836aca7",
+            "content": "https://github.com/yueliu1999/Dink-Net",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "31cf3fbf-3879-4e9f-9a4e-ea109146be4c",
+            "columnId": "9e84035a-98b4-4f60-b944-6b7c8ea05bd4",
+            "tagId": "563a3846-3cce-4e5a-885c-76c9dbf46387",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "96a7a1ad-a7b4-46cd-86f6-e05014cfe628",
+            "columnId": "6be9fdb4-3125-4704-b5f8-b0f5fe73975a",
+            "tagIds": [],
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ba329518-81c5-48c9-b848-bcdc59a5466d",
+            "columnId": "97d7d98c-7371-42a0-98d9-50fea6727efa",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e2d9934d-e9b4-48f2-8785-7b5499f88d6b",
+            "columnId": "2915ed94-9d85-47a9-b54b-85ad7b1537f8",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8535dc67-1b75-46f0-8369-ccc00a455b11",
+            "columnId": "a7ccde2c-306b-41b3-ac26-9261beed5678",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "49469b7a-f942-4b25-94c5-efb6358f8c2f",
+        "index": 12,
+        "sourceId": null,
+        "creationDateTime": "2024-03-13T07:41:07.709Z",
+        "lastEditedDateTime": "2024-03-13T07:46:39.232Z",
+        "cells": [
+          {
+            "id": "14a2a39d-b2eb-4914-a8b5-84a2a2288878",
+            "columnId": "a64568a0-38e9-45fc-a283-1fa1ab4f9d05",
+            "content": "2023",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e6bfaa19-687f-4779-a5c3-fdfbaeb2393c",
+            "columnId": "64d89378-7c97-47dd-b341-e429af53eca5",
+            "content": "CONGREGATE: Contrastive Graph Clustering in Curvature Spaces\n(CONGREGATE)",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "351c26e8-91d1-484f-bb74-9a1305dc8ee5",
+            "columnId": "69312c8c-040f-47a2-99f4-3d5f6e15742d",
+            "content": "IJCAI",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e378d2ef-87c1-48a0-9729-e219f9266e3a",
+            "columnId": "de8b20ff-ce50-4429-bedd-1c13def63f81",
+            "content": "https://arxiv.org/pdf/2305.03555.pdf",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "231373b9-02b2-4247-ab96-999b9e13345a",
+            "columnId": "7017fbb4-1fe0-42c2-9a03-e1fc3836aca7",
+            "content": "https://github.com/CurvCluster/Congregate",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0a2457c0-7541-4d86-b66e-0fb33d972821",
+            "columnId": "9e84035a-98b4-4f60-b944-6b7c8ea05bd4",
+            "tagId": "563a3846-3cce-4e5a-885c-76c9dbf46387",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "abca9d17-2ad9-44c3-898c-d27fdadeb9f8",
+            "columnId": "6be9fdb4-3125-4704-b5f8-b0f5fe73975a",
+            "tagIds": [],
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "383cfa64-a864-4a07-b354-d40b1e80a778",
+            "columnId": "97d7d98c-7371-42a0-98d9-50fea6727efa",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "fa00443e-6bc6-4cc2-b8a7-f81fe243a47f",
+            "columnId": "2915ed94-9d85-47a9-b54b-85ad7b1537f8",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a5800b90-cb40-4123-ad40-bee565884a07",
+            "columnId": "a7ccde2c-306b-41b3-ac26-9261beed5678",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "bb6d1a48-e157-4706-af96-80ec7d92c317",
+        "index": 13,
+        "sourceId": null,
+        "creationDateTime": "2024-03-13T07:41:07.709Z",
+        "lastEditedDateTime": "2024-03-13T07:46:42.482Z",
+        "cells": [
+          {
+            "id": "a585e821-7995-423e-b407-fd72bd6b356a",
+            "columnId": "a64568a0-38e9-45fc-a283-1fa1ab4f9d05",
+            "content": "2023",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c4249e18-43b0-4196-b982-4a8834f7eea9",
+            "columnId": "64d89378-7c97-47dd-b341-e429af53eca5",
+            "content": "Multi-level Graph Contrastive Prototypical\nClustering",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "219d467c-ea96-41dc-9690-92fd5beba678",
+            "columnId": "69312c8c-040f-47a2-99f4-3d5f6e15742d",
+            "content": "IJCAI",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c9d10825-4f84-440c-8a5b-8e6c3af1f214",
+            "columnId": "de8b20ff-ce50-4429-bedd-1c13def63f81",
+            "content": "https://www.ijcai.org/proceedings/2023/0513.pdf",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "05e56b1e-3a20-4470-9fa7-a83978eef0b0",
+            "columnId": "7017fbb4-1fe0-42c2-9a03-e1fc3836aca7",
+            "content": "-",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f204b435-63cd-4f14-9b61-45f1cf4e479d",
+            "columnId": "9e84035a-98b4-4f60-b944-6b7c8ea05bd4",
+            "tagId": "563a3846-3cce-4e5a-885c-76c9dbf46387",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "27140158-802f-44ad-80ee-95fbdf08b4d6",
+            "columnId": "6be9fdb4-3125-4704-b5f8-b0f5fe73975a",
+            "tagIds": [],
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c27baf0e-5e46-40ab-9394-9eb02abcbc09",
+            "columnId": "97d7d98c-7371-42a0-98d9-50fea6727efa",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "db36c593-4cd1-473d-83d5-cd962815e5e3",
+            "columnId": "2915ed94-9d85-47a9-b54b-85ad7b1537f8",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e05e0f61-8c97-4a62-9513-326f7b2cab20",
+            "columnId": "a7ccde2c-306b-41b3-ac26-9261beed5678",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "6a3588e3-a488-42f8-96c6-f7a15d5a55e2",
+        "index": 14,
+        "sourceId": null,
+        "creationDateTime": "2024-03-13T07:41:07.709Z",
+        "lastEditedDateTime": "2024-03-13T07:46:45.688Z",
+        "cells": [
+          {
+            "id": "8fade742-08c3-4cb0-9b6b-a707f26b5644",
+            "columnId": "a64568a0-38e9-45fc-a283-1fa1ab4f9d05",
+            "content": "2023",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2da96422-d8ec-44cc-8c73-19edfb45574d",
+            "columnId": "64d89378-7c97-47dd-b341-e429af53eca5",
+            "content": "Simple Contrastive Graph Clustering (SCGC)",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9dffcd27-0071-4121-a2b3-c2ec31cba476",
+            "columnId": "69312c8c-040f-47a2-99f4-3d5f6e15742d",
+            "content": "TNNLS",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0a8403ad-2798-4d31-a504-c95897ce3b9f",
+            "columnId": "de8b20ff-ce50-4429-bedd-1c13def63f81",
+            "content": "https://arxiv.org/abs/2205.07865",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "80bd3df3-cb5d-44d5-8d20-b7db6ccd43c6",
+            "columnId": "7017fbb4-1fe0-42c2-9a03-e1fc3836aca7",
+            "content": "https://github.com/yueliu1999/SCGC",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "21a76c69-ab97-4d41-9b86-b43022a424b0",
+            "columnId": "9e84035a-98b4-4f60-b944-6b7c8ea05bd4",
+            "tagId": "563a3846-3cce-4e5a-885c-76c9dbf46387",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "91da59c5-fbd0-458e-89ac-b8da9325f18e",
+            "columnId": "6be9fdb4-3125-4704-b5f8-b0f5fe73975a",
+            "tagIds": [],
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2d64fcb5-ab2f-4e7a-a516-9f9bfd162abe",
+            "columnId": "97d7d98c-7371-42a0-98d9-50fea6727efa",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8937cb85-ffe2-4f04-acfe-73a6c04834ab",
+            "columnId": "2915ed94-9d85-47a9-b54b-85ad7b1537f8",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d5187998-28fb-4929-88ea-12adbaf214d6",
+            "columnId": "a7ccde2c-306b-41b3-ac26-9261beed5678",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "3b45ebba-3f31-4152-bcff-a4e602b853ac",
+        "index": 15,
+        "sourceId": null,
+        "creationDateTime": "2024-03-13T07:41:07.709Z",
+        "lastEditedDateTime": "2024-03-13T08:41:06.222Z",
+        "cells": [
+          {
+            "id": "63c04dec-3a8a-4319-88d6-d9c5fb605799",
+            "columnId": "a64568a0-38e9-45fc-a283-1fa1ab4f9d05",
+            "content": "2023",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6b962bea-7a8a-46d3-b3ae-49add986c4e4",
+            "columnId": "64d89378-7c97-47dd-b341-e429af53eca5",
+            "content": "Hard Sample Aware Network for Contrastive Deep Graph\nClustering (HSAN)",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "da3a871a-a844-4baa-ad3a-3db18fe0eb03",
+            "columnId": "69312c8c-040f-47a2-99f4-3d5f6e15742d",
+            "content": "AAAI",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "cccefb68-2534-4d77-8269-d0c49477359d",
+            "columnId": "de8b20ff-ce50-4429-bedd-1c13def63f81",
+            "content": "https://arxiv.org/abs/2212.08665",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "93216370-e234-4e87-95e6-59be76d96c7f",
+            "columnId": "7017fbb4-1fe0-42c2-9a03-e1fc3836aca7",
+            "content": "https://github.com/yueliu1999/HSAN",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "adbb999e-43f9-49eb-8cc6-9e8653d61e8f",
+            "columnId": "9e84035a-98b4-4f60-b944-6b7c8ea05bd4",
+            "tagId": "563a3846-3cce-4e5a-885c-76c9dbf46387",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7a753bcf-2117-4448-bb7e-010fe4c03cb5",
+            "columnId": "6be9fdb4-3125-4704-b5f8-b0f5fe73975a",
+            "tagIds": [],
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0d269095-356b-46dd-a798-61f94e3f5e65",
+            "columnId": "97d7d98c-7371-42a0-98d9-50fea6727efa",
+            "tagId": "de8b8a9e-5da4-4ca4-8976-d0975f92f6e4",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2eb610d7-852c-4efb-b054-ef2adef1b5a1",
+            "columnId": "2915ed94-9d85-47a9-b54b-85ad7b1537f8",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "212e6dab-6b6c-43c3-9ca2-7bcf461f3255",
+            "columnId": "a7ccde2c-306b-41b3-ac26-9261beed5678",
+            "content": "[[HSAN]]",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "dc9ad9c1-10b6-4e50-aa80-12bf38884c06",
+        "index": 16,
+        "sourceId": null,
+        "creationDateTime": "2024-03-13T07:41:07.709Z",
+        "lastEditedDateTime": "2024-03-13T07:46:56.155Z",
+        "cells": [
+          {
+            "id": "de149c9f-4ea6-41c7-9169-f2840de0fc54",
+            "columnId": "a64568a0-38e9-45fc-a283-1fa1ab4f9d05",
+            "content": "2023",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "40359af3-216f-4d77-9632-24db39d37411",
+            "columnId": "64d89378-7c97-47dd-b341-e429af53eca5",
+            "content": "Cluster-guided Contrastive Graph Clustering Network\n(CCGC)",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "db68ebf3-0733-4a32-97ef-6dbd56195264",
+            "columnId": "69312c8c-040f-47a2-99f4-3d5f6e15742d",
+            "content": "AAAI",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c568bd2d-efb3-4f0e-9af1-f72ed132378d",
+            "columnId": "de8b20ff-ce50-4429-bedd-1c13def63f81",
+            "content": "https://arxiv.org/abs/2301.01098",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3c598ec0-dbe1-4041-896d-1afaaedb87b3",
+            "columnId": "7017fbb4-1fe0-42c2-9a03-e1fc3836aca7",
+            "content": "https://github.com/xihongyang1999/CCGC",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ce8b74ce-265d-4408-8918-dceaf76e43e3",
+            "columnId": "9e84035a-98b4-4f60-b944-6b7c8ea05bd4",
+            "tagId": "563a3846-3cce-4e5a-885c-76c9dbf46387",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "dbb52435-3178-4dfc-ae10-509e5aad33fb",
+            "columnId": "6be9fdb4-3125-4704-b5f8-b0f5fe73975a",
+            "tagIds": [],
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e2515999-2e73-4f8b-80b6-d6cd16775c9d",
+            "columnId": "97d7d98c-7371-42a0-98d9-50fea6727efa",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7433c0b0-2c68-4247-bd04-0b979c2e5368",
+            "columnId": "2915ed94-9d85-47a9-b54b-85ad7b1537f8",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3d62286d-47c8-4496-a7b1-b07bec1963b8",
+            "columnId": "a7ccde2c-306b-41b3-ac26-9261beed5678",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "55a26bcb-9461-46c7-b907-d4d0f8cb5644",
+        "index": 17,
+        "sourceId": null,
+        "creationDateTime": "2024-03-13T07:41:07.709Z",
+        "lastEditedDateTime": "2024-03-13T07:46:59.643Z",
+        "cells": [
+          {
+            "id": "91775c4d-2981-410e-8bab-b31b960ce5f2",
+            "columnId": "a64568a0-38e9-45fc-a283-1fa1ab4f9d05",
+            "content": "2022",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "53f8f704-d2df-4347-9f8f-27c0414790db",
+            "columnId": "64d89378-7c97-47dd-b341-e429af53eca5",
+            "content": "NCAGC: A Neighborhood Contrast Framework for Attributed\nGraph Clustering (NCAGC)",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2dc3f34d-0567-4766-bd37-95c6ed9295c1",
+            "columnId": "69312c8c-040f-47a2-99f4-3d5f6e15742d",
+            "content": "arXiv",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c8e9c3ed-3851-490e-857e-94330670ee68",
+            "columnId": "de8b20ff-ce50-4429-bedd-1c13def63f81",
+            "content": "https://arxiv.org/abs/2206.07897",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4a6a1441-ee49-4ef0-9947-8c7de14848a5",
+            "columnId": "7017fbb4-1fe0-42c2-9a03-e1fc3836aca7",
+            "content": "https://github.com/wangtong627/Dual-Contrastive-Attributed-Graph-Clustering-Network",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f0f57023-69dc-4c94-93ee-5cfad5603975",
+            "columnId": "9e84035a-98b4-4f60-b944-6b7c8ea05bd4",
+            "tagId": "53c1b0ae-294a-41c4-8288-16eaf2fa0b8f",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "af0921d2-72b5-46d5-8a56-bedac07b9c2d",
+            "columnId": "6be9fdb4-3125-4704-b5f8-b0f5fe73975a",
+            "tagIds": [],
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "86b7b0ed-6d7f-4443-abd4-7b48f39782ec",
+            "columnId": "97d7d98c-7371-42a0-98d9-50fea6727efa",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8112f275-c446-4e96-9e40-a913d5425b05",
+            "columnId": "2915ed94-9d85-47a9-b54b-85ad7b1537f8",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ccac2192-1ed8-45ad-84ef-f0bcb9018824",
+            "columnId": "a7ccde2c-306b-41b3-ac26-9261beed5678",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "db63e1e7-a077-4bc5-a98b-ec17a454d944",
+        "index": 18,
+        "sourceId": null,
+        "creationDateTime": "2024-03-13T07:41:07.709Z",
+        "lastEditedDateTime": "2024-03-13T07:46:31.826Z",
+        "cells": [
+          {
+            "id": "c90b7335-9b7d-421b-a10f-0da0df15a0ed",
+            "columnId": "a64568a0-38e9-45fc-a283-1fa1ab4f9d05",
+            "content": "2022",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "13dcd917-794e-44cd-a85d-5b5d943fddca",
+            "columnId": "64d89378-7c97-47dd-b341-e429af53eca5",
+            "content": "SCGC : Self-Supervised Contrastive Graph Clustering\n(SCGC)",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e66fd114-7cbe-424f-9fd6-7decec4fee4a",
+            "columnId": "69312c8c-040f-47a2-99f4-3d5f6e15742d",
+            "content": "arXiv",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d8d8571d-f0fb-40de-92a4-74ae455203e3",
+            "columnId": "de8b20ff-ce50-4429-bedd-1c13def63f81",
+            "content": "https://arxiv.org/pdf/2204.12656",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2001da6f-de60-47f8-8ef7-6c6141d6b657",
+            "columnId": "7017fbb4-1fe0-42c2-9a03-e1fc3836aca7",
+            "content": "https://github.com/gayanku/SCGC",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "beb816b1-36f0-4fba-aab9-6cdc2e0dc316",
+            "columnId": "9e84035a-98b4-4f60-b944-6b7c8ea05bd4",
+            "tagId": "53c1b0ae-294a-41c4-8288-16eaf2fa0b8f",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "762f3cc4-09fe-4f34-8807-30a222f3d64a",
+            "columnId": "6be9fdb4-3125-4704-b5f8-b0f5fe73975a",
+            "tagIds": [],
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "fb8803f6-074a-4f1f-8482-b5802f0020ce",
+            "columnId": "97d7d98c-7371-42a0-98d9-50fea6727efa",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d859ab10-4330-479a-8e01-456463eeddb3",
+            "columnId": "2915ed94-9d85-47a9-b54b-85ad7b1537f8",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1fb671ea-ba49-4a10-970e-d4c4986e1403",
+            "columnId": "a7ccde2c-306b-41b3-ac26-9261beed5678",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "32950c60-efa8-4ca0-919e-46105cab0f27",
+        "index": 19,
+        "sourceId": null,
+        "creationDateTime": "2024-03-13T07:41:07.709Z",
+        "lastEditedDateTime": "2024-03-13T07:46:28.513Z",
+        "cells": [
+          {
+            "id": "feb044e3-a595-4315-91b3-2e8f3141fd79",
+            "columnId": "a64568a0-38e9-45fc-a283-1fa1ab4f9d05",
+            "content": "2022",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "024e3ca9-a40b-44e0-a12a-ab0e174adfdd",
+            "columnId": "64d89378-7c97-47dd-b341-e429af53eca5",
+            "content": "Improved Dual Correlation Reduction Network\n(IDCRN)",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b2a1e3a6-fb65-4ba5-8e1e-eb6014660a08",
+            "columnId": "69312c8c-040f-47a2-99f4-3d5f6e15742d",
+            "content": "arXiv",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0b0dde93-8dc6-41f0-9a9e-612ff8a67bab",
+            "columnId": "de8b20ff-ce50-4429-bedd-1c13def63f81",
+            "content": "https://arxiv.org/abs/2202.12533",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c217bc69-78c8-4868-a407-d9e7d11792be",
+            "columnId": "7017fbb4-1fe0-42c2-9a03-e1fc3836aca7",
+            "content": "-",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c97a2e7a-e6ca-41fb-8d46-3bb15b763860",
+            "columnId": "9e84035a-98b4-4f60-b944-6b7c8ea05bd4",
+            "tagId": "53c1b0ae-294a-41c4-8288-16eaf2fa0b8f",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "286b2b4e-744b-4994-933c-3255adbb9257",
+            "columnId": "6be9fdb4-3125-4704-b5f8-b0f5fe73975a",
+            "tagIds": [],
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "fca6fae7-e9be-4445-84d0-731be4747ea8",
+            "columnId": "97d7d98c-7371-42a0-98d9-50fea6727efa",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c556d5da-9b99-4790-bece-1fe873d22762",
+            "columnId": "2915ed94-9d85-47a9-b54b-85ad7b1537f8",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "77d126a6-4ad7-42b1-9767-1774daca8b58",
+            "columnId": "a7ccde2c-306b-41b3-ac26-9261beed5678",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "2ad6deba-88c2-4906-9d62-23ad063ba8d8",
+        "index": 20,
+        "sourceId": null,
+        "creationDateTime": "2024-03-13T07:41:07.709Z",
+        "lastEditedDateTime": "2024-03-13T07:46:23.234Z",
+        "cells": [
+          {
+            "id": "e9029504-5f50-4c0e-8d60-24e38beb8a3c",
+            "columnId": "a64568a0-38e9-45fc-a283-1fa1ab4f9d05",
+            "content": "2022",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ca9f56ba-c699-43a8-9709-7a8f3cb1282f",
+            "columnId": "64d89378-7c97-47dd-b341-e429af53eca5",
+            "content": "Towards Self-supervised Learning on Graphs with Heterophily\n(HGRL)",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6cb3215a-0f25-44bd-92df-f5b2285cdbad",
+            "columnId": "69312c8c-040f-47a2-99f4-3d5f6e15742d",
+            "content": "CIKM",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d148e9d1-3759-4a69-956b-7f5662b9a12d",
+            "columnId": "de8b20ff-ce50-4429-bedd-1c13def63f81",
+            "content": "https://scholar.archive.org/work/chm4lsfonvbfree7n36vqlcl4a/access/wayback/https://dl.acm.org/doi/pdf/10.1145/3511808.3557478",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4f120587-b1cf-47e1-9caf-0c6b86994061",
+            "columnId": "7017fbb4-1fe0-42c2-9a03-e1fc3836aca7",
+            "content": "https://github.com/yifanQi98/HGRL",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9b8f4d69-95f6-4fea-81e0-48dfd762cee0",
+            "columnId": "9e84035a-98b4-4f60-b944-6b7c8ea05bd4",
+            "tagId": "563a3846-3cce-4e5a-885c-76c9dbf46387",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "bc0f0d06-bdeb-412c-b039-08b6dab6a377",
+            "columnId": "6be9fdb4-3125-4704-b5f8-b0f5fe73975a",
+            "tagIds": [],
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "096043f9-d4cc-4b07-a6d3-0c80b528022b",
+            "columnId": "97d7d98c-7371-42a0-98d9-50fea6727efa",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a1ad07c6-fc90-49ce-b684-be65deea77ea",
+            "columnId": "2915ed94-9d85-47a9-b54b-85ad7b1537f8",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7c298a1a-b621-4c13-8436-a45befe84db3",
+            "columnId": "a7ccde2c-306b-41b3-ac26-9261beed5678",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "c833ae78-3392-4b82-9c51-605c1843b639",
+        "index": 21,
+        "sourceId": null,
+        "creationDateTime": "2024-03-13T07:41:07.709Z",
+        "lastEditedDateTime": "2024-03-13T07:46:03.671Z",
+        "cells": [
+          {
+            "id": "0f54c76f-12e9-41b1-9c2e-6fab77623385",
+            "columnId": "a64568a0-38e9-45fc-a283-1fa1ab4f9d05",
+            "content": "2022",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "55da1af9-690b-405e-a435-74967c411afe",
+            "columnId": "64d89378-7c97-47dd-b341-e429af53eca5",
+            "content": "S3GC: Scalable Self-Supervised Graph Clustering\n(S3GC)",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3fa9f875-6aa5-4883-a47f-aa18f7c2e137",
+            "columnId": "69312c8c-040f-47a2-99f4-3d5f6e15742d",
+            "content": "NeurIPS",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "96b450c8-1cea-42c6-9600-885a50cae920",
+            "columnId": "de8b20ff-ce50-4429-bedd-1c13def63f81",
+            "content": "https://openreview.net/forum?id=ldl2V3vLZ5",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "30973dc5-fae9-40df-b364-26152d3beda1",
+            "columnId": "7017fbb4-1fe0-42c2-9a03-e1fc3836aca7",
+            "content": "https://github.com/devvrit/S3GC",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "39217f1a-06f6-41e3-896d-9af6b9fa6f1f",
+            "columnId": "9e84035a-98b4-4f60-b944-6b7c8ea05bd4",
+            "tagId": "563a3846-3cce-4e5a-885c-76c9dbf46387",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "80f88b88-34d9-481b-8c2b-ea067243f2e0",
+            "columnId": "6be9fdb4-3125-4704-b5f8-b0f5fe73975a",
+            "tagIds": [],
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3129a843-06f2-4203-baea-a338bcfb3779",
+            "columnId": "97d7d98c-7371-42a0-98d9-50fea6727efa",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4ad1a63a-24dc-427d-984d-ad913ffebc2b",
+            "columnId": "2915ed94-9d85-47a9-b54b-85ad7b1537f8",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b3bfd570-2053-4e13-9241-09cf9e14bc11",
+            "columnId": "a7ccde2c-306b-41b3-ac26-9261beed5678",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "7b059f61-db9d-4021-9768-236d6a6ca68b",
+        "index": 22,
+        "sourceId": null,
+        "creationDateTime": "2024-03-13T07:41:07.709Z",
+        "lastEditedDateTime": "2024-03-13T07:46:00.455Z",
+        "cells": [
+          {
+            "id": "e8f9f2d7-6eee-4067-9601-4446acb4897c",
+            "columnId": "a64568a0-38e9-45fc-a283-1fa1ab4f9d05",
+            "content": "2022",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "92ffa81a-51f7-4ed5-8757-17d0a03efb0f",
+            "columnId": "64d89378-7c97-47dd-b341-e429af53eca5",
+            "content": "Self-consistent Contrastive Attributed Graph Clustering with\nPseudo-label Prompt (SCAGC)",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4466f900-8516-48aa-8f9a-efada154c459",
+            "columnId": "69312c8c-040f-47a2-99f4-3d5f6e15742d",
+            "content": "TMM",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b70c40ca-1e0a-48dd-8012-11141623e49d",
+            "columnId": "de8b20ff-ce50-4429-bedd-1c13def63f81",
+            "content": "https://arxiv.org/abs/2110.08264",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "47264e0c-b581-4841-85e5-65b6bcce11d6",
+            "columnId": "7017fbb4-1fe0-42c2-9a03-e1fc3836aca7",
+            "content": "https://github.com/xdweixia/SCAGC",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c7655fea-7341-4d0a-b007-fb79d2ed455f",
+            "columnId": "9e84035a-98b4-4f60-b944-6b7c8ea05bd4",
+            "tagId": "ac182508-7de6-4380-9a1a-f0e8e9f7eda2",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f11136a5-7dae-4ad7-bf69-b6926525658b",
+            "columnId": "6be9fdb4-3125-4704-b5f8-b0f5fe73975a",
+            "tagIds": [],
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "57c660c5-11d0-417a-9e80-cfc9abfcbb90",
+            "columnId": "97d7d98c-7371-42a0-98d9-50fea6727efa",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "31f81009-df3b-4c6c-98eb-ea2ed7abbcb3",
+            "columnId": "2915ed94-9d85-47a9-b54b-85ad7b1537f8",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6d66b78e-4433-4571-8743-34f7eabab90e",
+            "columnId": "a7ccde2c-306b-41b3-ac26-9261beed5678",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "5c728ef6-945b-4f94-a34b-af5456decd35",
+        "index": 23,
+        "sourceId": null,
+        "creationDateTime": "2024-03-13T07:41:07.709Z",
+        "lastEditedDateTime": "2024-03-13T07:45:55.316Z",
+        "cells": [
+          {
+            "id": "a1fee994-8f53-4b05-901d-d6e579113db0",
+            "columnId": "a64568a0-38e9-45fc-a283-1fa1ab4f9d05",
+            "content": "2022",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2a4b1f1d-58eb-40c6-bcdc-5a481e110f5b",
+            "columnId": "64d89378-7c97-47dd-b341-e429af53eca5",
+            "content": "CGC: Contrastive Graph Clustering for Community Detection\nand Tracking (CGC)",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "932c41b0-b65a-4461-9e5f-17e3c5b73ad6",
+            "columnId": "69312c8c-040f-47a2-99f4-3d5f6e15742d",
+            "content": "WWW",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a203dcfd-0a4a-4895-872e-7ce75075b2d0",
+            "columnId": "de8b20ff-ce50-4429-bedd-1c13def63f81",
+            "content": "https://arxiv.org/abs/2204.08504",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "292a0ee8-5771-4976-a0aa-cb875cdacff2",
+            "columnId": "7017fbb4-1fe0-42c2-9a03-e1fc3836aca7",
+            "content": "-",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e812014a-af55-4e29-bbdb-608bcd05d553",
+            "columnId": "9e84035a-98b4-4f60-b944-6b7c8ea05bd4",
+            "tagId": "563a3846-3cce-4e5a-885c-76c9dbf46387",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "520f76fd-da9c-4d2b-a9d4-02ece9f2e315",
+            "columnId": "6be9fdb4-3125-4704-b5f8-b0f5fe73975a",
+            "tagIds": [],
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "905bd441-9dd7-43af-a9cc-a37a1c9032d3",
+            "columnId": "97d7d98c-7371-42a0-98d9-50fea6727efa",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f0c83683-77f2-426d-8c42-139e7e7073d2",
+            "columnId": "2915ed94-9d85-47a9-b54b-85ad7b1537f8",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "df78efe7-7d5b-48d0-b6e4-07ae53857b51",
+            "columnId": "a7ccde2c-306b-41b3-ac26-9261beed5678",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "71580b5a-e3f7-453e-a5d2-a8e79834450d",
+        "index": 24,
+        "sourceId": null,
+        "creationDateTime": "2024-03-13T07:41:07.709Z",
+        "lastEditedDateTime": "2024-03-13T07:45:51.687Z",
+        "cells": [
+          {
+            "id": "639fa36f-6978-4936-8351-1d8a6d0f26fe",
+            "columnId": "a64568a0-38e9-45fc-a283-1fa1ab4f9d05",
+            "content": "2022",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4891e0c2-729e-4716-8915-8a1df8945e4a",
+            "columnId": "64d89378-7c97-47dd-b341-e429af53eca5",
+            "content": "Towards Unsupervised Deep Graph Structure Learning\n(SUBLIME)",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8828f8e9-ca63-4212-b9f3-861b09474666",
+            "columnId": "69312c8c-040f-47a2-99f4-3d5f6e15742d",
+            "content": "WWW",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0aa81a9f-933d-4432-a23a-bd4621655a93",
+            "columnId": "de8b20ff-ce50-4429-bedd-1c13def63f81",
+            "content": "https://arxiv.org/pdf/2201.06367.pdf",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "65c00c4a-12bf-43df-a5f5-cf9b2b41cd13",
+            "columnId": "7017fbb4-1fe0-42c2-9a03-e1fc3836aca7",
+            "content": "https://github.com/GRAND-Lab/SUBLIME",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "416c5c29-d837-45b1-aeab-d3b1695ef6e6",
+            "columnId": "9e84035a-98b4-4f60-b944-6b7c8ea05bd4",
+            "tagId": "563a3846-3cce-4e5a-885c-76c9dbf46387",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e61edd87-192d-4ea3-8d11-5c963b7c081f",
+            "columnId": "6be9fdb4-3125-4704-b5f8-b0f5fe73975a",
+            "tagIds": [],
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9eeca788-8edc-44e1-9b1f-5bedd86db576",
+            "columnId": "97d7d98c-7371-42a0-98d9-50fea6727efa",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0e1c839e-422e-4d1d-967c-02af84b1f743",
+            "columnId": "2915ed94-9d85-47a9-b54b-85ad7b1537f8",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1ba13500-da95-4d28-a9c0-705ae8e019cb",
+            "columnId": "a7ccde2c-306b-41b3-ac26-9261beed5678",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "a96be762-804f-4674-a673-dfd36a390357",
+        "index": 25,
+        "sourceId": null,
+        "creationDateTime": "2024-03-13T07:41:07.709Z",
+        "lastEditedDateTime": "2024-03-13T07:45:16.393Z",
+        "cells": [
+          {
+            "id": "ee0ca8f4-6fe3-409b-8667-371bb92ba1fc",
+            "columnId": "a64568a0-38e9-45fc-a283-1fa1ab4f9d05",
+            "content": "2022",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ea475c2f-2988-492a-bd5c-02dd7b2038b7",
+            "columnId": "64d89378-7c97-47dd-b341-e429af53eca5",
+            "content": "Attributed Graph Clustering with Dual Redundancy Reduction\n(AGC-DRR)",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b6245d9a-dcc3-4caa-8297-3c4b8662682c",
+            "columnId": "69312c8c-040f-47a2-99f4-3d5f6e15742d",
+            "content": "IJCAI",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ea2420c6-cc52-4afd-8f81-3afae1f74ff7",
+            "columnId": "de8b20ff-ce50-4429-bedd-1c13def63f81",
+            "content": "https://www.ijcai.org/proceedings/2022/0418.pdf",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a581d51d-a073-4ca9-b776-00b67414f136",
+            "columnId": "7017fbb4-1fe0-42c2-9a03-e1fc3836aca7",
+            "content": "https://github.com/gongleii/AGC-DRR",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "35baffa2-f40f-49d6-be46-8fdd0038fdc5",
+            "columnId": "9e84035a-98b4-4f60-b944-6b7c8ea05bd4",
+            "tagId": "563a3846-3cce-4e5a-885c-76c9dbf46387",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "125c5d8b-d34f-4e01-a64c-b3987660ea4a",
+            "columnId": "6be9fdb4-3125-4704-b5f8-b0f5fe73975a",
+            "tagIds": [],
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2ca137ad-6382-4eff-80c5-1b19d3755a7a",
+            "columnId": "97d7d98c-7371-42a0-98d9-50fea6727efa",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "828b35b5-d4e6-45a6-b1fa-163746c0b472",
+            "columnId": "2915ed94-9d85-47a9-b54b-85ad7b1537f8",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a103c062-4deb-4cba-ad46-f786691f3a42",
+            "columnId": "a7ccde2c-306b-41b3-ac26-9261beed5678",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "8eaba0c7-25b8-4f54-91bf-ee70277c2281",
+        "index": 26,
+        "sourceId": null,
+        "creationDateTime": "2024-03-13T07:41:07.709Z",
+        "lastEditedDateTime": "2024-03-13T07:45:12.593Z",
+        "cells": [
+          {
+            "id": "8c866ee4-1aa6-4a45-8c6b-6820d7ea8440",
+            "columnId": "a64568a0-38e9-45fc-a283-1fa1ab4f9d05",
+            "content": "2022",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d312de92-fcf7-4f25-9244-33712bc1e8aa",
+            "columnId": "64d89378-7c97-47dd-b341-e429af53eca5",
+            "content": "Deep Graph Clustering via Dual Correlation Reduction\n(DCRN)",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5a772d65-9739-451e-9d96-0bcc35d1193d",
+            "columnId": "69312c8c-040f-47a2-99f4-3d5f6e15742d",
+            "content": "AAAI",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b03368dc-f2d3-46d0-a0f7-a243a6cd0081",
+            "columnId": "de8b20ff-ce50-4429-bedd-1c13def63f81",
+            "content": "https://www.aaai.org/AAAI22Papers/AAAI-5928.LiuY.pdf",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "48b36352-0b45-4d18-aff2-75b2e91dc500",
+            "columnId": "7017fbb4-1fe0-42c2-9a03-e1fc3836aca7",
+            "content": "https://github.com/yueliu1999/DCRN",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5e39b3d0-e696-4e00-bbfb-6711a7def6ab",
+            "columnId": "9e84035a-98b4-4f60-b944-6b7c8ea05bd4",
+            "tagId": "ac182508-7de6-4380-9a1a-f0e8e9f7eda2",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2a21a6dc-e44b-4777-b132-f42fb34adfc9",
+            "columnId": "6be9fdb4-3125-4704-b5f8-b0f5fe73975a",
+            "tagIds": [],
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "29cf3fc7-f5c0-4a04-affc-91be67e7190c",
+            "columnId": "97d7d98c-7371-42a0-98d9-50fea6727efa",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "18ae9480-d3b3-40ae-9af2-92b5ac02701a",
+            "columnId": "2915ed94-9d85-47a9-b54b-85ad7b1537f8",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d4e78c9b-83d8-49e2-8b6d-eff070f112de",
+            "columnId": "a7ccde2c-306b-41b3-ac26-9261beed5678",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "ff6e774a-0ad4-440f-a04c-3229df748193",
+        "index": 27,
+        "sourceId": null,
+        "creationDateTime": "2024-03-13T07:41:07.709Z",
+        "lastEditedDateTime": "2024-03-13T07:45:28.378Z",
+        "cells": [
+          {
+            "id": "20da14ab-cc01-49ef-b6bf-1a5dcbe878ea",
+            "columnId": "a64568a0-38e9-45fc-a283-1fa1ab4f9d05",
+            "content": "2022",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8c211536-5769-4f7c-b376-699e047f5de2",
+            "columnId": "64d89378-7c97-47dd-b341-e429af53eca5",
+            "content": "RepBin: Constraint-Based Graph Representation Learning for\nMetagenomic Binning (RepBin)",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3711ef5e-7a8a-48dd-9a01-2f00ac0cbc8f",
+            "columnId": "69312c8c-040f-47a2-99f4-3d5f6e15742d",
+            "content": "AAAI",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "898b6094-b704-4824-96a4-598fb9fa9a08",
+            "columnId": "de8b20ff-ce50-4429-bedd-1c13def63f81",
+            "content": "https://arxiv.org/pdf/2112.11696.pdf",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e93580d8-15f4-4bcd-96ca-2b15b4ee0013",
+            "columnId": "7017fbb4-1fe0-42c2-9a03-e1fc3836aca7",
+            "content": "https://github.com/xuehansheng/RepBin",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f8532f22-b714-40f1-910a-2453eecb7844",
+            "columnId": "9e84035a-98b4-4f60-b944-6b7c8ea05bd4",
+            "tagId": "563a3846-3cce-4e5a-885c-76c9dbf46387",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6e5d3918-1354-4b83-b0bb-6070b8899dab",
+            "columnId": "6be9fdb4-3125-4704-b5f8-b0f5fe73975a",
+            "tagIds": [],
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1b80482a-1428-4c9b-a242-5faf53699a65",
+            "columnId": "97d7d98c-7371-42a0-98d9-50fea6727efa",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6826740f-4ff2-4ccb-b4f9-03a0a26d2fce",
+            "columnId": "2915ed94-9d85-47a9-b54b-85ad7b1537f8",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d114d209-6c6c-471c-b2c5-9cf928b398c4",
+            "columnId": "a7ccde2c-306b-41b3-ac26-9261beed5678",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "062c9a5a-13f6-4e75-bfeb-c91a3909dc96",
+        "index": 28,
+        "sourceId": null,
+        "creationDateTime": "2024-03-13T07:41:07.709Z",
+        "lastEditedDateTime": "2024-03-13T07:47:12.725Z",
+        "cells": [
+          {
+            "id": "d5de3a19-5117-4a15-a5a2-aa5adf61ad0e",
+            "columnId": "a64568a0-38e9-45fc-a283-1fa1ab4f9d05",
+            "content": "2022",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4b7e3bcc-9b36-46ef-be68-04f72691a048",
+            "columnId": "64d89378-7c97-47dd-b341-e429af53eca5",
+            "content": "Augmentation-Free Self-Supervised Learning on Graphs\n(AFGRL)",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a7621094-f4e8-40a2-926d-4866a5ee2ab2",
+            "columnId": "69312c8c-040f-47a2-99f4-3d5f6e15742d",
+            "content": "AAAI",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "fd63d812-d650-4889-a8ec-99b9581cd4d7",
+            "columnId": "de8b20ff-ce50-4429-bedd-1c13def63f81",
+            "content": "https://arxiv.org/pdf/2112.02472",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1692b27e-d701-4252-82c2-7b8a7c09868f",
+            "columnId": "7017fbb4-1fe0-42c2-9a03-e1fc3836aca7",
+            "content": "https://github.com/Namkyeong/AFGRL",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "65729768-3095-404f-87d6-ecdd17f14ead",
+            "columnId": "9e84035a-98b4-4f60-b944-6b7c8ea05bd4",
+            "tagId": "ac182508-7de6-4380-9a1a-f0e8e9f7eda2",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9ba23665-bb0d-400c-bf5c-b1e3f363b334",
+            "columnId": "6be9fdb4-3125-4704-b5f8-b0f5fe73975a",
+            "tagIds": [],
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "da8946ed-95a6-49ff-b8d2-447a85822bc1",
+            "columnId": "97d7d98c-7371-42a0-98d9-50fea6727efa",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c82e6d7c-81e9-428c-b251-fb1e57e28a84",
+            "columnId": "2915ed94-9d85-47a9-b54b-85ad7b1537f8",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7a11e52a-014a-475d-9abc-693065938fe3",
+            "columnId": "a7ccde2c-306b-41b3-ac26-9261beed5678",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "067f4099-f0ec-4158-b835-cfdec7eded5e",
+        "index": 29,
+        "sourceId": null,
+        "creationDateTime": "2024-03-13T07:41:07.709Z",
+        "lastEditedDateTime": "2024-03-13T07:47:09.546Z",
+        "cells": [
+          {
+            "id": "15e0d709-296f-4184-bc37-a79a965bfbc0",
+            "columnId": "a64568a0-38e9-45fc-a283-1fa1ab4f9d05",
+            "content": "2022",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "599b88e2-92ac-463b-ad30-5ddea3dd2211",
+            "columnId": "64d89378-7c97-47dd-b341-e429af53eca5",
+            "content": "SAIL: Self-Augmented Graph Contrastive Learning\n(SAIL)",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "cd1369d8-c676-4e0a-806c-1fb10737caee",
+            "columnId": "69312c8c-040f-47a2-99f4-3d5f6e15742d",
+            "content": "AAAI",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ca0f4157-cfee-4d09-8463-b47626e6431a",
+            "columnId": "de8b20ff-ce50-4429-bedd-1c13def63f81",
+            "content": "https://arxiv.org/abs/2009.00934",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9d2f300c-84bf-448a-a18b-da5a050acd27",
+            "columnId": "7017fbb4-1fe0-42c2-9a03-e1fc3836aca7",
+            "content": "-",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d31fa2e9-1beb-4185-a923-affdf317319d",
+            "columnId": "9e84035a-98b4-4f60-b944-6b7c8ea05bd4",
+            "tagId": "563a3846-3cce-4e5a-885c-76c9dbf46387",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "cab98811-f25b-4b41-b167-50b955e0af4a",
+            "columnId": "6be9fdb4-3125-4704-b5f8-b0f5fe73975a",
+            "tagIds": [],
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "46bb8ffa-f755-47f5-8161-46ff972a813f",
+            "columnId": "97d7d98c-7371-42a0-98d9-50fea6727efa",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d6b74d88-6779-4f13-856a-fb276e3cb034",
+            "columnId": "2915ed94-9d85-47a9-b54b-85ad7b1537f8",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c55171ef-e02c-49e2-8a80-cffb89bd788d",
+            "columnId": "a7ccde2c-306b-41b3-ac26-9261beed5678",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "6f29c072-e7d4-46bc-ba6c-ebf30ee3cfa1",
+        "index": 30,
+        "sourceId": null,
+        "creationDateTime": "2024-03-13T07:41:07.709Z",
+        "lastEditedDateTime": "2024-03-13T07:47:19.623Z",
+        "cells": [
+          {
+            "id": "4769890f-057d-42ff-84e0-c00a532f2ade",
+            "columnId": "a64568a0-38e9-45fc-a283-1fa1ab4f9d05",
+            "content": "2021",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e0a07579-953c-4b17-acb0-0acd9cbd4bcb",
+            "columnId": "64d89378-7c97-47dd-b341-e429af53eca5",
+            "content": "Graph Debiased Contrastive Learning with Joint\nRepresentation Clustering (GDCL)",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "425b8742-14cf-417c-baf3-9db2c70c7d1c",
+            "columnId": "69312c8c-040f-47a2-99f4-3d5f6e15742d",
+            "content": "IJCAI",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9fad7941-acda-4d3d-a151-b0fe3ada4c11",
+            "columnId": "de8b20ff-ce50-4429-bedd-1c13def63f81",
+            "content": "https://www.ijcai.org/proceedings/2021/0473.pdf",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d1fbddc0-d2eb-40dc-9f32-18ca58fd01a9",
+            "columnId": "7017fbb4-1fe0-42c2-9a03-e1fc3836aca7",
+            "content": "https://github.com/hzhao98/GDCL",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "12044d08-6b5c-4363-a68a-b90f957d321e",
+            "columnId": "9e84035a-98b4-4f60-b944-6b7c8ea05bd4",
+            "tagId": "ac182508-7de6-4380-9a1a-f0e8e9f7eda2",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "686dcebc-568f-4942-b8d2-b3b879cd1762",
+            "columnId": "6be9fdb4-3125-4704-b5f8-b0f5fe73975a",
+            "tagIds": [],
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7d3b1766-b01d-406a-9c57-2d9f0690e036",
+            "columnId": "97d7d98c-7371-42a0-98d9-50fea6727efa",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "86b298d1-04fb-4fc2-b483-1949ab8cf7f1",
+            "columnId": "2915ed94-9d85-47a9-b54b-85ad7b1537f8",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "bbe6c856-dc9f-4d28-ba70-2f2d3497bc61",
+            "columnId": "a7ccde2c-306b-41b3-ac26-9261beed5678",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "3b828ebf-9da2-49b4-89ca-f7e0fe982804",
+        "index": 31,
+        "sourceId": null,
+        "creationDateTime": "2024-03-13T07:41:07.709Z",
+        "lastEditedDateTime": "2024-03-13T07:47:04.778Z",
+        "cells": [
+          {
+            "id": "45339d50-889b-4f8c-a1c6-713fee741366",
+            "columnId": "a64568a0-38e9-45fc-a283-1fa1ab4f9d05",
+            "content": "2021",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d1e04f11-dfac-45f7-9543-8722caa7968a",
+            "columnId": "64d89378-7c97-47dd-b341-e429af53eca5",
+            "content": "Multi-view Contrastive Graph Clustering (MCGC)",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "63b0df46-8915-4f64-b592-a13f91e82ce8",
+            "columnId": "69312c8c-040f-47a2-99f4-3d5f6e15742d",
+            "content": "NeurIPS",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8972e72f-0f3e-4521-be8b-392835fb52ef",
+            "columnId": "de8b20ff-ce50-4429-bedd-1c13def63f81",
+            "content": "https://papers.nips.cc/paper/2021/file/10c66082c124f8afe3df4886f5e516e0-Paper.pdf",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8a891e01-ba4b-4d36-95aa-cdff2f37f490",
+            "columnId": "7017fbb4-1fe0-42c2-9a03-e1fc3836aca7",
+            "content": "https://github.com/panern/mcgc",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6f69de93-62f5-44a2-9d98-fcdc297f63cd",
+            "columnId": "9e84035a-98b4-4f60-b944-6b7c8ea05bd4",
+            "tagId": "563a3846-3cce-4e5a-885c-76c9dbf46387",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5cb845c6-a3a2-4b89-80d5-66d10594de64",
+            "columnId": "6be9fdb4-3125-4704-b5f8-b0f5fe73975a",
+            "tagIds": [],
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5e02262a-5a41-4e82-801b-fa7b320e2fe2",
+            "columnId": "97d7d98c-7371-42a0-98d9-50fea6727efa",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ad653025-4597-4c35-a0e2-7394e94cacff",
+            "columnId": "2915ed94-9d85-47a9-b54b-85ad7b1537f8",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "11080c2c-ba23-4592-88d4-600d7ffffc57",
+            "columnId": "a7ccde2c-306b-41b3-ac26-9261beed5678",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "1af23a0b-0584-4172-a40f-c0d2be1cbc82",
+        "index": 32,
+        "sourceId": null,
+        "creationDateTime": "2024-03-13T07:41:07.709Z",
+        "lastEditedDateTime": "2024-03-13T08:15:29.504Z",
+        "cells": [
+          {
+            "id": "6c816ced-5491-432e-9aeb-573757fb2dd4",
+            "columnId": "a64568a0-38e9-45fc-a283-1fa1ab4f9d05",
+            "content": "2021",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "43c915a0-a6b5-460c-89ca-a0223ca6eae2",
+            "columnId": "64d89378-7c97-47dd-b341-e429af53eca5",
+            "content": "Self-supervised Heterogeneous Graph Neural Network with\nCo-contrastive Learning (HeCo)",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5431334b-18a9-4ec5-850a-b77b08d002d5",
+            "columnId": "69312c8c-040f-47a2-99f4-3d5f6e15742d",
+            "content": "SIGKDD",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "fedb278c-92be-438b-9122-b9cf283de00b",
+            "columnId": "de8b20ff-ce50-4429-bedd-1c13def63f81",
+            "content": "https://dl.acm.org/doi/10.1145/3447548.3467415",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "bae30df9-4606-4bc9-ae3e-aa6a8cdc3539",
+            "columnId": "7017fbb4-1fe0-42c2-9a03-e1fc3836aca7",
+            "content": "https://github.com/liun-online/HeCo",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "433c096b-c0fb-4176-b43e-bb72fe7645f8",
+            "columnId": "9e84035a-98b4-4f60-b944-6b7c8ea05bd4",
+            "tagId": "563a3846-3cce-4e5a-885c-76c9dbf46387",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3822f319-477b-48be-8c1d-1109596435b4",
+            "columnId": "6be9fdb4-3125-4704-b5f8-b0f5fe73975a",
+            "tagIds": [
+              "f8f4554e-33d2-4008-a84d-c17dfd3a4ce7",
+              "f205acdd-3650-4881-beb8-1abaee3d76e8"
+            ],
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f748ade1-9554-4188-8abb-005335c90d60",
+            "columnId": "97d7d98c-7371-42a0-98d9-50fea6727efa",
+            "tagId": "cd354652-0735-4a21-8691-f7be5e19cf89",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "05ed0397-a3fb-43cc-b2c5-385fea065ff6",
+            "columnId": "2915ed94-9d85-47a9-b54b-85ad7b1537f8",
+            "tagId": "270fdd37-cdcd-42fc-9153-d110b4f52835",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "00b68144-0b5d-4235-90e3-5eed2ca8eef2",
+            "columnId": "a7ccde2c-306b-41b3-ac26-9261beed5678",
+            "content": "[[pages/Self-supervised Heterogeneous Graph Neural Network with Co-contrastive Learning]]",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "e5618b4f-9f12-4e71-b682-b7e78ae3bc71",
+        "index": 33,
+        "sourceId": null,
+        "creationDateTime": "2024-03-13T07:41:07.709Z",
+        "lastEditedDateTime": "2024-03-13T08:15:17.212Z",
+        "cells": [
+          {
+            "id": "154a0e42-f10a-482a-a9e2-8267ea226637",
+            "columnId": "a64568a0-38e9-45fc-a283-1fa1ab4f9d05",
+            "content": "2020",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "97fba7ab-9dbc-400b-8c6e-acb0c891f9ee",
+            "columnId": "64d89378-7c97-47dd-b341-e429af53eca5",
+            "content": "Adaptive Graph Encoder for Attributed Graph Embedding\n(AGE)",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4c977109-878b-49ac-b4c2-ca017ac27a08",
+            "columnId": "69312c8c-040f-47a2-99f4-3d5f6e15742d",
+            "content": "SIGKDD",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6134a324-56c6-4ac3-900d-ed4dd853bed3",
+            "columnId": "de8b20ff-ce50-4429-bedd-1c13def63f81",
+            "content": "https://arxiv.org/pdf/2007.01594",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d0e3e63a-08e5-4559-bc84-4ceec3ed1ece",
+            "columnId": "7017fbb4-1fe0-42c2-9a03-e1fc3836aca7",
+            "content": "https://github.com/thunlp/AGE",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8a85f113-8828-4cc6-ae72-83f69178e3c4",
+            "columnId": "9e84035a-98b4-4f60-b944-6b7c8ea05bd4",
+            "tagId": "563a3846-3cce-4e5a-885c-76c9dbf46387",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4b215f99-8512-42b4-9b24-cec6ccd02eb5",
+            "columnId": "6be9fdb4-3125-4704-b5f8-b0f5fe73975a",
+            "tagIds": [
+              "367e3402-600c-4c55-9537-9c9b52912d8f",
+              "add99341-4caa-4292-92ab-4ff6ef97f0a0"
+            ],
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "186b2ffa-3e6a-4da4-97e0-8118c657149c",
+            "columnId": "97d7d98c-7371-42a0-98d9-50fea6727efa",
+            "tagId": "cd354652-0735-4a21-8691-f7be5e19cf89",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "10fafad1-01da-4a9c-b605-1338ad84c2c8",
+            "columnId": "2915ed94-9d85-47a9-b54b-85ad7b1537f8",
+            "tagId": "270fdd37-cdcd-42fc-9153-d110b4f52835",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3e903a7c-5d23-4fba-a785-c605c73b342e",
+            "columnId": "a7ccde2c-306b-41b3-ac26-9261beed5678",
+            "content": "[[pages/Adaptive Graph Encoder for Attributed Graph Embedding]]",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "d4f185d6-8f18-4c92-af5c-aa8cfcdc2ea7",
+        "index": 34,
+        "sourceId": null,
+        "creationDateTime": "2024-03-13T07:41:07.709Z",
+        "lastEditedDateTime": "2024-03-13T08:15:08.477Z",
+        "cells": [
+          {
+            "id": "de022d0d-a865-4596-b4a6-c078aaafb1f4",
+            "columnId": "a64568a0-38e9-45fc-a283-1fa1ab4f9d05",
+            "content": "2020",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9bc45408-eaeb-4978-b692-7cdea65c410c",
+            "columnId": "64d89378-7c97-47dd-b341-e429af53eca5",
+            "content": "CommDGI: Community Detection Oriented Deep Graph Infomax\n(CommDGI)",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0272d08e-0f74-45f9-855c-1204ad75a0ed",
+            "columnId": "69312c8c-040f-47a2-99f4-3d5f6e15742d",
+            "content": "CIKM",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d0a8305f-d77b-4ef6-84ce-2429e4eddb37",
+            "columnId": "de8b20ff-ce50-4429-bedd-1c13def63f81",
+            "content": "https://dl.acm.org/doi/abs/10.1145/3340531.3412042",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "91cacf80-027a-460d-8842-f3f1d07e3702",
+            "columnId": "7017fbb4-1fe0-42c2-9a03-e1fc3836aca7",
+            "content": "https://github.com/FDUDSDE/CommDGI",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3296a5e0-16bc-4a34-9e12-eee0469d1c49",
+            "columnId": "9e84035a-98b4-4f60-b944-6b7c8ea05bd4",
+            "tagId": "563a3846-3cce-4e5a-885c-76c9dbf46387",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "42d4015c-a6e0-4df3-a5a7-969612308044",
+            "columnId": "6be9fdb4-3125-4704-b5f8-b0f5fe73975a",
+            "tagIds": [
+              "367e3402-600c-4c55-9537-9c9b52912d8f",
+              "add99341-4caa-4292-92ab-4ff6ef97f0a0"
+            ],
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4850caf8-7346-4e65-9604-6c7d28c1190c",
+            "columnId": "97d7d98c-7371-42a0-98d9-50fea6727efa",
+            "tagId": "cd354652-0735-4a21-8691-f7be5e19cf89",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7359a9c3-5454-4347-8525-0243a8a26dd9",
+            "columnId": "2915ed94-9d85-47a9-b54b-85ad7b1537f8",
+            "tagId": "270fdd37-cdcd-42fc-9153-d110b4f52835",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "996bd7e9-3675-44c4-8863-e95edeee4bac",
+            "columnId": "a7ccde2c-306b-41b3-ac26-9261beed5678",
+            "content": "[[pages/CommDGI]]",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "bffc900e-77d4-4e15-88b1-20dc7875aba0",
+        "index": 35,
+        "sourceId": null,
+        "creationDateTime": "2024-03-13T07:41:07.709Z",
+        "lastEditedDateTime": "2024-03-13T07:43:14.168Z",
+        "cells": [
+          {
+            "id": "fed03c17-edfd-4655-985a-b34404362045",
+            "columnId": "a64568a0-38e9-45fc-a283-1fa1ab4f9d05",
+            "content": "2020",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f9214027-3a58-4e4a-bc41-9516dc77e0db",
+            "columnId": "64d89378-7c97-47dd-b341-e429af53eca5",
+            "content": "Contrastive Multi-View Representation Learning on Graphs\n(MVGRL)",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "02f758a0-0f33-4fd2-ae00-9447de75a22d",
+            "columnId": "69312c8c-040f-47a2-99f4-3d5f6e15742d",
+            "content": "ICML",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "38fa4ddf-5127-4ee6-b71c-31cf29c874ca",
+            "columnId": "de8b20ff-ce50-4429-bedd-1c13def63f81",
+            "content": "http://proceedings.mlr.press/v119/hassani20a/hassani20a.pdf",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9cc51543-93fc-4e1e-b381-d643a2a3b8f2",
+            "columnId": "7017fbb4-1fe0-42c2-9a03-e1fc3836aca7",
+            "content": "https://github.com/kavehhassani/mvgrl",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f14a828a-167f-479c-ba1b-503a96451b5a",
+            "columnId": "9e84035a-98b4-4f60-b944-6b7c8ea05bd4",
+            "tagId": "563a3846-3cce-4e5a-885c-76c9dbf46387",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b468c2ae-b7be-4633-9d51-2387c446ac8f",
+            "columnId": "6be9fdb4-3125-4704-b5f8-b0f5fe73975a",
+            "tagIds": [],
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5166a38d-f444-4395-8254-d308e1fb41a0",
+            "columnId": "97d7d98c-7371-42a0-98d9-50fea6727efa",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "31c92260-5bba-4da8-9ec9-f509dcf2a8f8",
+            "columnId": "2915ed94-9d85-47a9-b54b-85ad7b1537f8",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b3591137-c013-4865-ad74-278c7b6fb6aa",
+            "columnId": "a7ccde2c-306b-41b3-ac26-9261beed5678",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      }
+    ],
+    "filters": [
+      {
+        "id": "ffa1c817-c202-4a24-a209-b487af087b99",
+        "columnId": "97d7d98c-7371-42a0-98d9-50fea6727efa",
+        "operator": "or",
+        "isEnabled": true,
+        "type": "tag",
+        "condition": "is",
+        "tagId": "de8b8a9e-5da4-4ca4-8976-d0975f92f6e4"
+      }
+    ],
+    "sources": [],
+    "settings": {
+      "numFrozenColumns": 1,
+      "showCalculationRow": false
+    },
+    "externalRowOrder": []
+  },
+  "pluginVersion": "8.15.12"
+}
